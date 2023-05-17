@@ -1,0 +1,1008 @@
+=== [gen5ou] Metronome (Water) ===
+
+Tentacruel @ Leppa Berry  
+Ability: Liquid Ooze  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpA  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Kingdra @ Leppa Berry  
+Ability: Swift Swim  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Sharpedo @ Leppa Berry  
+Ability: Rough Skin  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Gastrodon @ Leppa Berry  
+Ability: Storm Drain  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Carracosta @ Leppa Berry  
+Ability: Solid Rock  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Milotic @ Leppa Berry  
+Ability: Marvel Scale  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Atk / 252 Def / 4 SpA  
+Relaxed Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Steel) ===
+
+Steelix @ Leppa Berry  
+Ability: Sheer Force  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Metagross @ Leppa Berry  
+Ability: Light Metal  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Bastiodon @ Leppa Berry  
+Ability: Soundproof  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 SpA / 8 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Bisharp @ Leppa Berry  
+Ability: Inner Focus  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Escavalier @ Leppa Berry  
+Ability: Shell Armor  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Mawile @ Leppa Berry  
+Ability: Hyper Cutter  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Def / 252 SpA / 252 SpD  
+Brave Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Rock) ===
+
+Rhydon @ Leppa Berry  
+Ability: Lightning Rod  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Tyranitar @ Leppa Berry  
+Ability: Sand Stream  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Aggron @ Leppa Berry  
+Ability: Rock Head  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Rampardos @ Leppa Berry  
+Ability: Mold Breaker  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Gigalith @ Leppa Berry  
+Ability: Sturdy  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Solrock @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Psychic) ===
+
+Alakazam @ Leppa Berry  
+Ability: Synchronize  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Slowking @ Leppa Berry  
+Ability: Own Tempo  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Claydol @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Bronzong @ Leppa Berry  
+Ability: Heatproof  
+Level: 50  
+Happiness: 150  
+EVs: 8 HP / 248 Atk / 248 SpA  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Sigilyph @ Leppa Berry  
+Ability: Wonder Skin  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Gardevoir @ Leppa Berry  
+Ability: Trace  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Atk / 252 Def / 4 SpD  
+Brave Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Poison) ===
+
+Vileplume @ Leppa Berry  
+Ability: Effect Spore  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpA  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Crobat @ Leppa Berry  
+Ability: Inner Focus  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Seviper @ Leppa Berry  
+Ability: Shed Skin  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Drapion @ Leppa Berry  
+Ability: Battle Armor  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Scolipede @ Leppa Berry  
+Ability: Swarm  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Nidoking @ Leppa Berry  
+Ability: Sheer Force  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Quiet Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Normal) ===
+
+Snorlax @ Leppa Berry  
+Ability: Thick Fat  
+Level: 50  
+Happiness: 150  
+EVs: 12 Atk / 248 Def / 248 SpA  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Girafarig @ Leppa Berry  
+Ability: Early Bird  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Swellow @ Leppa Berry  
+Ability: Guts  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Bibarel @ Leppa Berry  
+Ability: Simple  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Sawsbuck @ Leppa Berry  
+Ability: Sap Sipper  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Zangoose @ Leppa Berry  
+Ability: Immunity  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Def / 252 SpA / 4 SpD  
+Sassy Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Ice) ===
+
+Jynx @ Leppa Berry  
+Ability: Oblivious  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Piloswine @ Leppa Berry  
+Ability: Thick Fat  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Walrein @ Leppa Berry  
+Ability: Ice Body  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Weavile @ Leppa Berry  
+Ability: Pressure  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Beartic @ Leppa Berry  
+Ability: Swift Swim  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Abomasnow @ Leppa Berry  
+Ability: Snow Warning  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Quiet Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Ground) ===
+
+Golem @ Leppa Berry  
+Ability: Rock Head  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Donphan @ Leppa Berry  
+Ability: Sturdy  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Flygon @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Hippowdon @ Leppa Berry  
+Ability: Sand Stream  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Excadrill @ Leppa Berry  
+Ability: Sand Rush  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Nidoqueen @ Leppa Berry  
+Ability: Sheer Force  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Atk / 4 Def / 252 SpA  
+Sassy Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Grass) ===
+
+Victreebel @ Leppa Berry  
+Ability: Chlorophyll  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Jumpluff @ Leppa Berry  
+Ability: Leaf Guard  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Shiftry @ Leppa Berry  
+Ability: Early Bird  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Tangrowth @ Leppa Berry  
+Ability: Regenerator  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 SpA / 248 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Ferrothorn @ Leppa Berry  
+Ability: Iron Barbs  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Exeggutor @ Leppa Berry  
+Ability: Harvest  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Ghost) ===
+
+Gengar @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Misdreavus @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpA  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Dusclops @ Leppa Berry  
+Ability: Pressure  
+Level: 50  
+Happiness: 150  
+EVs: 8 HP / 248 Atk / 248 SpA  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Drifblim @ Leppa Berry  
+Ability: Aftermath  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Jellicent @ Leppa Berry  
+Ability: Water Absorb  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Sableye @ Leppa Berry  
+Ability: Prankster  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Atk / 252 SpA / 252 SpD  
+Relaxed Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Flying) ===
+
+Scyther @ Leppa Berry  
+Ability: Technician  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Skarmory @ Leppa Berry  
+Ability: Sturdy  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Pelipper @ Leppa Berry  
+Ability: Rain Dish  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Honchkrow @ Leppa Berry  
+Ability: Super Luck  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Braviary @ Leppa Berry  
+Ability: Keen Eye  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Dragonite @ Leppa Berry  
+Ability: Multiscale  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Def / 252 SpA / 4 SpD  
+Sassy Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Fire) ===
+
+Magmar @ Leppa Berry  
+Ability: Vital Spirit  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Magcargo @ Leppa Berry  
+Ability: Magma Armor  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Camerupt @ Leppa Berry  
+Ability: Solid Rock  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Rotom-Heat @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Happiness: 150  
+EVs: 248 HP / 248 Atk / 8 SpA  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Chandelure @ Leppa Berry  
+Ability: Flash Fire  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Arcanine @ Leppa Berry  
+Ability: Justified  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Def / 4 SpA / 252 SpD  
+Brave Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Fighting) ===
+
+Poliwrath @ Leppa Berry  
+Ability: Water Absorb  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Hitmontop @ Leppa Berry  
+Ability: Technician  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpA  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Breloom @ Leppa Berry  
+Ability: Effect Spore  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Toxicroak @ Leppa Berry  
+Ability: Dry Skin  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 8 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Scrafty @ Leppa Berry  
+Ability: Shed Skin  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Lucario @ Leppa Berry  
+Ability: Inner Focus  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Brave Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Electric) ===
+
+Electabuzz @ Leppa Berry  
+Ability: Vital Spirit  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Lanturn @ Leppa Berry  
+Ability: Volt Absorb  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Manectric @ Leppa Berry  
+Ability: Lightning Rod  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Magnezone @ Leppa Berry  
+Ability: Sturdy  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Galvantula @ Leppa Berry  
+Ability: Compound Eyes  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Emolga @ Leppa Berry  
+Ability: Static  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Quiet Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Dark) ===
+
+Houndoom @ Leppa Berry  
+Ability: Flash Fire  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Cacturne @ Leppa Berry  
+Ability: Water Absorb  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Spiritomb @ Leppa Berry  
+Ability: Pressure  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Hydreigon @ Leppa Berry  
+Ability: Levitate  
+Level: 50  
+Happiness: 150  
+EVs: 8 Atk / 248 Def / 248 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Krookodile @ Leppa Berry  
+Ability: Moxie  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Absol @ Leppa Berry  
+Ability: Super Luck  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 252 Def / 4 SpA / 252 SpD  
+Quiet Nature  
+- Metronome  
+- Recycle  
+
+
+=== [gen5ou] Metronome (Bug) ===
+
+Pinsir @ Leppa Berry  
+Ability: Mold Breaker  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Heracross @ Leppa Berry  
+Ability: Guts  
+Level: 50  
+Happiness: 150  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Armaldo @ Leppa Berry  
+Ability: Battle Armor  
+Level: 50  
+Happiness: 150  
+EVs: 8 Def / 248 SpA / 248 SpD  
+Relaxed Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Vespiquen @ Leppa Berry  
+Ability: Pressure  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 8 Def / 248 SpA  
+Sassy Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Volcarona @ Leppa Berry  
+Ability: Swarm  
+Level: 50  
+Happiness: 150  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Brave Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Metronome  
+- Recycle  
+
+Scizor @ Leppa Berry  
+Ability: Technician  
+Level: 50  
+Shiny: Yes  
+Happiness: 150  
+EVs: 4 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+- Metronome  
+- Recycle  
+
+

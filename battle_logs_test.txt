@@ -1,0 +1,928 @@
+MTN Rock's team:
+Rhydon / Tyranitar / Aggron / Rampardos / Gigalith / Solrock
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+
+Battle started between MTN Rock and MTN Steel!
+
+Go! Tyranitar!
+
+Go! Rhydon!
+
+Go! Gigalith!
+
+MTN Steel sent out Steelix!
+
+MTN Steel sent out Bastiodon!
+
+MTN Steel sent out Metagross!
+[Tyranitar's Sand Stream]
+A sandstorm kicked up!
+
+Turn 1
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Slash!
+It's not very effective...
+(Rhydon lost 10.3% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Force Palm!
+(The opposing Metagross lost 17.9% of its health!)
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Mist Ball!
+It's not very effective...
+A critical hit!
+(The opposing Metagross lost 6.4% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Poison Powder!
+Tyranitar was poisoned!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Flame Charge!
+It's not very effective...
+(Gigalith lost 6.2% of its health!)
+
+Gigalith used Metronome!
+
+Waggling a finger let it use Pay Day!
+It's not very effective...
+(The opposing Steelix lost 4.4% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+Tyranitar was hurt by poison!
+
+Turn 2
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Strength!
+It's not very effective...
+(Rhydon lost 12.1% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Endeavor!
+It doesn't affect the opposing Bastiodon...
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+Tyranitar was cured of its poisoning!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+It's not very effective...
+(Rhydon lost 7.3% of its health!)
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Air Cutter!
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Rhydon.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Gigalith.
+(Rhydon lost 3.6% of its health!)
+(Gigalith lost 2.8% of its health!)
+
+Gigalith used Metronome!
+
+Waggling a finger let it use Acrobatics!
+It's not very effective...
+(The opposing Bastiodon lost 3.3% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 3
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Dizzy Punch!
+It's not very effective...
+(Rhydon lost 9.1% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Scratch!
+It's not very effective...
+(The opposing Bastiodon lost 2.5% of its health!)
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Flame Burst!
+It's super effective!
+(The opposing Steelix lost 35.6% of its health!)
+The bursting flame hit the opposing Bastiodon!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Shadow Ball!
+It's not very effective...
+(Tyranitar lost 3.8% of its health!)
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+It's not very effective...
+(Rhydon lost 9.1% of its health!)
+
+Gigalith used Metronome!
+
+Waggling a finger let it use Sharpen!
+Gigalith's Attack rose!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 4
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+It's super effective!
+A critical hit!
+(Tyranitar lost 36.3% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Sky Uppercut!
+(The opposing Metagross lost 24.3% of its health!)
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Low Sweep!
+It's super effective!
+(The opposing Steelix lost 23.7% of its health!)
+The opposing Steelix's Speed fell!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Super Fang!
+(Rhydon lost 24.2% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Iron Defense!
+The opposing Bastiodon's Defense rose sharply!
+
+Gigalith used Metronome!
+
+Waggling a finger let it use Wood Hammer!
+(The opposing Bastiodon lost 26.7% of its health!)
+Gigalith was damaged by the recoil!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 5
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Harden!
+The opposing Metagross's Defense rose!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Metal Sound!
+[The opposing Bastiodon's Soundproof]
+It doesn't affect the opposing Bastiodon...
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Role Play!
+[Rhydon's Lightning Rod]
+[Rhydon's Soundproof]
+Rhydon copied the opposing Bastiodon's Soundproof Ability!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Mind Reader!
+The opposing Bastiodon took aim at Rhydon!
+
+Gigalith used Metronome!
+
+Waggling a finger let it use Poison Jab!
+It doesn't affect the opposing Steelix...
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(Rhydon lost 18.8% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 6
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Double-Edge!
+It's not very effective...
+A critical hit!
+(Tyranitar lost 36.3% of its health!)
+The opposing Metagross was damaged by the recoil!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Aqua Tail!
+(The opposing Metagross lost 19.3% of its health!)
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Bug Bite!
+It's not very effective...
+(The opposing Steelix lost 5.9% of its health!)
+Rhydon stole and ate its target's Leppa Berry!
+Rhydon restored PP to its move Metronome using its Leppa Berry!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Leer!
+Tyranitar's Defense fell!
+Rhydon's Defense fell!
+Gigalith's Defense fell!
+
+Gigalith used Metronome!
+
+Waggling a finger let it use Bind!
+It's not very effective...
+(The opposing Steelix lost 2.2% of its health!)
+The opposing Steelix was squeezed by Gigalith!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Gear Grind!
+It's super effective!
+(Gigalith lost 41.4% of its health!)
+It's super effective!
+(Gigalith lost 42.1% of its health!)
+
+Gigalith fainted!
+The Pokémon was hit 2 times!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Go! Rampardos!
+[Rampardos's Mold Breaker]
+Rampardos breaks the mold!
+
+Turn 7
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Horn Drill!
+Rhydon avoided the attack!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Leech Life!
+[DEBUG] TryHit handler suppressed by Mold Breaker.
+It's not very effective...
+(The opposing Bastiodon lost 3.3% of its health!)
+
+Rhydon used Metronome!
+
+Waggling a finger let it use Toxic Spikes!
+Poison spikes were scattered on the ground all around the opposing team!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Double Team!
+The opposing Bastiodon's evasiveness rose!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Work Up!
+The opposing Steelix's Attack rose!
+The opposing Steelix's Sp. Atk rose!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 8
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Arm Thrust!
+It's super effective!
+(Rhydon lost 5.5% of its health!)
+
+Rhydon fainted!
+The Pokémon was hit 1 time!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Echoed Voice!
+[The opposing Bastiodon's Soundproof]
+It doesn't affect the opposing Bastiodon...
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Tackle!
+It's not very effective...
+A critical hit!
+(The opposing Steelix lost 13.3% of its health!)
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+Rampardos fell asleep!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Pound!
+It's not very effective...
+(Rampardos lost 5.7% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Go! Aggron!
+
+Turn 9
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Super Fang!
+(Tyranitar lost 5.6% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Bug Bite!
+(The opposing Metagross lost 17.1% of its health!)
+Tyranitar stole and ate its target's Leppa Berry!
+Tyranitar restored PP to its move Metronome using its Leppa Berry!
+
+Rampardos is fast asleep.
+
+Aggron used Metronome!
+
+Waggling a finger let it use Egg Bomb!
+It's not very effective...
+(The opposing Steelix lost 8.1% of its health!)
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Entrainment!
+[Aggron's Rock Head]
+[Aggron's Sheer Force]
+Aggron acquired Sheer Force!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Spikes!
+Spikes were scattered on the ground all around your team!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 10
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Aeroblast!
+It's not very effective...
+(Aggron lost 6.9% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Fury Cutter!
+[DEBUG] BP: 20.
+(The opposing Metagross lost 1.4% of its health!)
+
+The opposing Metagross fainted!
+Rampardos is fast asleep.
+
+Aggron used Metronome!
+
+Waggling a finger let it use Bug Bite!
+It's not very effective...
+A critical hit!
+(The opposing Steelix lost 6.7% of its health!)
+
+The opposing Steelix fainted!
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Hex!
+It's not very effective...
+(Tyranitar lost 2.5% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+MTN Steel sent out Escavalier!
+
+MTN Steel sent out Bisharp!
+
+Turn 11
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Nasty Plot!
+The opposing Bisharp's Sp. Atk rose sharply!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Spit Up!
+But it failed!
+
+Rampardos is fast asleep.
+
+Aggron used Metronome!
+
+Waggling a finger let it use Frost Breath!
+It's not very effective...
+A critical hit!
+(The opposing Bisharp lost 13.6% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Overheat!
+A critical hit!
+(Aggron lost 50.8% of its health!)
+The opposing Bastiodon's Sp. Atk fell harshly!
+
+The opposing Escavalier used Metronome!
+
+Waggling a finger let it use Tail Whip!
+Tyranitar's Defense fell!
+Aggron's Defense fell!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 12
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Magnet Rise!
+The opposing Bisharp levitated with electromagnetism!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Taunt!
+The opposing Escavalier fell for the taunt!
+Rampardos woke up!
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Screech!
+[DEBUG] TryBoost handler suppressed by Mold Breaker.
+The opposing Bisharp's Defense fell harshly!
+
+Aggron used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+[DEBUG] BP: 35.
+It's not very effective...
+(The opposing Bisharp lost 18.4% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Poison Powder!
+Tyranitar avoided the attack!
+
+The opposing Escavalier can't use Metronome after the taunt!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 13
+
+MTN Steel withdrew Escavalier!
+MTN Steel sent out Mawile!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Absorb!
+(The opposing Bastiodon lost 5% of its health!)
+The opposing Bastiodon had its energy drained!
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Leaf Blade!
+[DEBUG] TryHit handler suppressed by Mold Breaker.
+A critical hit!
+(The opposing Bastiodon lost 53.3% of its health!)
+
+The opposing Bastiodon fainted!
+Aggron used Metronome!
+
+Waggling a finger let it use Head Smash!
+It's not very effective...
+(The opposing Mawile lost 44% of its health!)
+Aggron was damaged by the recoil!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+MTN Steel sent out Escavalier!
+
+Turn 14
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Vine Whip!
+(Aggron lost 13.1% of its health!)
+
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Shell Smash!
+The opposing Mawile's Defense fell!
+The opposing Mawile's Sp. Def fell!
+The opposing Mawile's Attack rose sharply!
+The opposing Mawile's Sp. Atk rose sharply!
+The opposing Mawile's Speed rose sharply!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Flare Blitz!
+It's super effective!
+(The opposing Escavalier lost 100% of its health!)
+
+The opposing Escavalier fainted!
+Tyranitar was damaged by the recoil!
+
+Tyranitar fainted!
+Rampardos used Metronome!
+
+Waggling a finger let it use Sky Drop!
+Rampardos took the opposing Bisharp into the sky!
+
+Aggron used Metronome!
+
+Waggling a finger let it use Close Combat!
+The opposing Bisharp avoided the attack!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Go! Solrock!
+
+Turn 15
+
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+It's not very effective...
+(Solrock lost 18.6% of its health!)
+
+Solrock used Metronome!
+
+Waggling a finger let it use Double Team!
+Solrock's evasiveness rose!
+[DEBUG] Sky drop nullifying..
+
+Rampardos used Sky Drop!
+It's not very effective...
+(The opposing Bisharp lost 29.6% of its health!)
+The opposing Bisharp was freed from the Sky Drop!
+
+Aggron used Metronome!
+
+Waggling a finger let it use Facade!
+It's not very effective...
+(The opposing Bisharp lost 26.4% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 16
+
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Swagger!
+Aggron's Attack rose sharply!
+Aggron became confused!
+
+Solrock used Metronome!
+
+Waggling a finger let it use Hydro Cannon!
+(The opposing Mawile lost 56.0% of its health!)
+
+The opposing Mawile fainted!
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Recover!
+The opposing Bisharp had its HP restored.
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Whirlwind!
+But it failed!
+[DEBUG] move failed because it did nothing.
+
+Aggron is confused!
+It hurt itself in its confusion!
+
+Aggron fainted!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+The opposing Bisharp's electromagnetism wore off!
+
+Turn 17
+
+Solrock moved to the center!
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Iron Defense!
+The opposing Bisharp's Defense rose sharply!
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Rapid Spin!
+It's not very effective...
+(The opposing Bisharp lost 5.6% of its health!)
+The spikes disappeared from the ground around your team!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 18
+
+Solrock used Metronome!
+
+Waggling a finger let it use Belly Drum!
+(Solrock lost 49.7% of its health!)
+Solrock cut its own HP and maximized its Attack!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Slash!
+It's not very effective...
+(Solrock lost 11.7% of its health!)
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Powder Snow!
+It's not very effective...
+(The opposing Bisharp lost 4.8% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+
+Turn 19
+
+Solrock used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Perish Song!
+But it failed!
+[DEBUG] move failed because it did nothing.
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Shock Wave!
+(The opposing Bisharp lost 15.2% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+Solrock's perish count fell to 3.
+The opposing Bisharp's perish count fell to 3.
+Rampardos's perish count fell to 3.
+
+Turn 20
+
+Solrock used Metronome!
+
+Waggling a finger let it use Confuse Ray!
+The opposing Bisharp became confused!
+
+The opposing Bisharp is confused!
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Seed Bomb!
+Solrock avoided the attack!
+
+Rampardos used Metronome!
+
+Waggling a finger let it use Bullet Seed!
+It's not very effective...
+A critical hit!
+(The opposing Bisharp lost 12.8% of its health!)
+It's not very effective...
+(The opposing Bisharp lost 6.4% of its health!)
+It's not very effective...
+(The opposing Bisharp lost 6.4% of its health!)
+It's not very effective...
+(The opposing Bisharp lost 6.4% of its health!)
+The Pokémon was hit 4 times!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+Solrock's perish count fell to 2.
+The opposing Bisharp's perish count fell to 2.
+Rampardos's perish count fell to 2.
+
+Turn 21
+
+Solrock used Metronome!
+
+Waggling a finger let it use Mega Kick!
+It's not very effective...
+(The opposing Bisharp lost 4.8% of its health!)
+
+The opposing Bisharp fainted!
+
+MTN Rock won the battle!
