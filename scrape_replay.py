@@ -4,12 +4,12 @@
 # 3) Connect moves with corresponding type, power, accuracy, etc. - DONE
 #   3.1) Add check if move's stats is already recorded in database - DONE
 #   3.2) Add check for valid moves - ON HOLD
-# 4) Compile battle stats (defeats, faints, damage, etc.) from battle logs to database - IN PROGRESS
+# 4) Compile battle stats (defeats, faints, damage, etc.) from battle logs to database - DONE
 #   4.1) Record pokemon's "defeats" stat - DONE
 #   4.2) Record pokemon's "faints" stat - DONE
 #   4.3) Record pokemon's "damage_given" stat - DONE
 #   4.4) Record pokemon's "damage_taken" stat - DONE
-# 5) Compile team stats (win, lose, match history) from battle logs to databse - NOT STARTED
+# 5) Compile team stats (win, lose, match history) from battle logs to databse - IN PROGRESS
 
 import re, openpyxl
 
@@ -34,22 +34,22 @@ def transfer_metronome_data(dict, xl_file, sheetname):
     # Load the existing workbook & worksheet
     workbook = openpyxl.load_workbook(xl_file)
     worksheet = workbook[sheetname]
-    # Write the dictionary contents to the worksheet
+    # Add the move and its occurences to the worksheet
     for key, value in dict.items():
         # Flag to check if the move found in the worksheet
         move_found = False  
         # Search for the move in the existing data
-        for row_index, row in enumerate(worksheet.iter_rows(min_row=2, max_row=worksheet.max_row, values_only=True), start=2):
+        for row_index, row in enumerate(worksheet.iter_rows(min_row=2, values_only=True), start=2):
             if row[0] == key:
-                # Move already exists, increase the count
+                # Move already exists, increase the usage count
                 move_found = True
                 worksheet.cell(row=row_index, column=2).value += value
                 break
         if move_found == False:
-            # Move doesn't exist, add it to the next available row (1st row is heading)
-            next_row = worksheet.max_row + 1
-            worksheet[f"A{next_row}"] = key
-            worksheet[f"B{next_row}"] = value
+            # Move doesn't exist, add it to a new row
+            new_row = worksheet.max_row + 1
+            worksheet[f"A{new_row}"] = key
+            worksheet[f"B{new_row}"] = value
     # Save the workbook
     workbook.save(xl_file)
     return
@@ -77,7 +77,8 @@ def connect_move_with_stats(data_file, data_sheetname, target_file, target_sheet
                     move_stats = stats_row[1:5] + stats_row[6:8]
                     # Update the corresponding cells in the target worksheet
                     target_worksheet.cell(row=row_index, column=2).value = count
-                    for col_index, stat in enumerate(move_stats, start=3):  # Start from column C (index 2)
+                    # Add stats starting from column C
+                    for col_index, stat in enumerate(move_stats, start=3):
                         target_worksheet.cell(row=row_index, column=col_index).value = stat
                     # Once move is found & stats populated, stop looping through datasheet
                     break
@@ -111,6 +112,21 @@ def get_teams_and_roster(logs):
 def get_victor():
     return
 
+# Read through pokemon database & get pokemon's type
+def get_pokemon_type(pokemon):
+    # Change to parameter later
+    workbook = openpyxl.load_workbook("pokemon_data_gen5.xlsx")
+    worksheet = workbook["Pokemon_Data"]
+    # Search for pokemon in database
+    for row_index, row in enumerate(worksheet.iter_rows(min_row=2, values_only=True), start=2):
+        if row[1] == pokemon:
+            # Pokemon found, combine pokemon's types into a list
+            types = [worksheet.cell(row=row_index, column=col_num).value for col_num in range(3,5)]
+            return str(types)
+    # Pokemon not found
+    print("Pokemon not found")
+
+# Determine which method a pokemon faints
 def faint_case(pokemon, case_num):
     match case_num:
         case 1:
@@ -126,7 +142,6 @@ def faint_case(pokemon, case_num):
         case _:
             print(f"{pokemon}: Normal")
     
-
 # Gather battle statistics from the entire battle
 def match_data(logs):
     # Scoreboard: {"pokemon": ["team type", "defeats", "faints", "self-faints", "damage given", "damage taken"]}
@@ -201,6 +216,36 @@ def match_data(logs):
                 previous_line = line
     return match_scoreboard
 
+# Send battle data statistics to Excel spreadsheet
+def transfer_match_data(dict, xl_file, sheetname):
+    # Load the existing workbook & worksheet
+    workbook = openpyxl.load_workbook(xl_file)
+    worksheet = workbook[sheetname]
+    # Iterate over the key, values of each pokemon in the scoreboard
+    for pokemon, scoreboard in dict.items():
+        # Flag to check if pokemon already in the worksheet
+        pokemon_found = False
+        # Search for the pokemon in the worksheet
+        for row_index, row in enumerate(worksheet.iter_rows(min_row=2, values_only=True), start=2):
+            if row[0] == pokemon:
+                # Pokemon found, append the stats to the existing row
+                pokemon_found = True
+                for col_index, stats in enumerate(scoreboard, start=3):
+                    # Ignore "team type" value in dict
+                    if col_index != 3:
+                        worksheet.cell(row=row_index, column=col_index).value += stats
+        if pokemon_found == False:
+            # Pokemon not found, add the stats to a new row
+            new_row = worksheet.max_row + 1
+            worksheet.cell(row=new_row, column=1).value = pokemon
+            type = get_pokemon_type(pokemon)
+            worksheet.cell(row=new_row, column=2).value = type
+            for col_index, stats in enumerate(scoreboard, start=3):
+                worksheet.cell(row=new_row, column=col_index).value = stats
+    # Save the workbook
+    workbook.save(xl_file)
+    return
+
 def main():
     battle_log = "battle_logs_test.txt"
 
@@ -224,6 +269,7 @@ def main():
 
     transfer_metronome_data(moves, "tournament_statistics.xlsx", "Metronome_Data (2)")
     connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data (2)")
+    transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Pokemon_Data (2)")
 
 
 if __name__ == "__main__":
