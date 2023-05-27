@@ -22,6 +22,15 @@
 #   6.6) Add case for faints from abilities (Rough Skin, Liquid Ooze, Aftermath) - DONE
 #   6.7) Add case for faints from Nightmare - DONE
 #   6.8) Add case for faints from Curse - DONE
+#   6.9) Add case for faints from binding moves - DONE
+# 7) Go back to match_data() and restructure scoreboard for edge cases - DONE
+#   7.1) Revise logic to add "defeats" scores for the following cases:
+#       Status - DONE
+#       Leech Seed - DONE
+#       Weather - DONE
+#       Hazards - DONE
+#       Nightmare - DONE
+#       Curse - DONE
 
 import re, openpyxl, ast
 
@@ -165,12 +174,16 @@ def faint_case(pokemon, case_num):
             print(f"{pokemon}: Nightmare")
         case "CURSE":
             print(f"{pokemon}: Curse")
+        case "BIND":
+            print(f"{pokemon}: Bind")
+        case "LEECH":
+            print(f"{pokemon}: Leech Seed")
         case _:
             print(f"{pokemon}: Normal")
     
 # Gather battle statistics from the entire battle
 def match_data(logs):
-    # Scoreboard: {"pokemon": ["team type", "defeats", "faints", "self-faints", "damage given", "damage taken"]}
+    # Scoreboard: {"pokemon": ["team type", "defeats", "faints", "self-faints", "damage given", "damage taken", {"affliction": "pokemon"}]}
     match_scoreboard = {}
     # Get teams and their rosters
     teams = get_teams_and_roster(logs)
@@ -180,7 +193,7 @@ def match_data(logs):
         roster = team[1].split(" / ")
         for pokemon in roster:
             # Apply initial scoreboard to each pokemon in roster
-            match_scoreboard[pokemon] = [team_type, 0, 0, 0, 0, 0]   
+            match_scoreboard[pokemon] = [team_type, 0, 0, 0, 0, 0, {}] 
     # Read the contents of the file
     with open(logs, 'r') as file:
         next_line = file.readlines()
@@ -189,6 +202,12 @@ def match_data(logs):
         perish_user, perish_faints = [], 0
         case_num = 0
         line_index = 1
+        future_outcomes = ["avoided the attack!", "It doesn't affect", "(Future Sight did not hit because the target is fainted.)", "(Doom Desire did not hit because the target is fainted.)"]
+        bind_moves = ["was squeezed by", "was wrapped by", "clamped down on", "became trapped in", "became trapped by"]
+        weather, weather_user = ["A sandstorm kicked up!", "It started to hail!", "The sunlight turned harsh!", "It started to rain!"], ""
+        # Apply initial hazards for each team
+        opponent_type = [team[0] for team in teams]
+        hazards = {opponent_type[0]: {}, opponent_type[1]: {}}
         for line in file:
             # Check who last used Metronome
             if " used " in line:
@@ -202,7 +221,7 @@ def match_data(logs):
                 future_attacking.append(pokemon_attacking)
             # Future Sight/Doom Desire misses the target
             elif "took the Future Sight attack!" in line or "took the Doom Desire attack!" in line:
-                if "(Future Sight did not hit because the target is fainted.)" in next_line[line_index] or "(Doom Desire did not hit because the target is fainted.)" in next_line[line_index] or "It doesn't affect" in next_line[line_index] or "avoided the attack!" in next_line[line_index]:
+                if any(future_message in next_line[line_index] for future_message in future_outcomes):
                     future_attacking.pop(0)
             # Pokemon uses Perish Song
             elif "All Pokémon that heard the song will faint in three turns!" in line:
@@ -211,15 +230,68 @@ def match_data(logs):
             # Gather all pokemon fainted by Perish Song
             elif "perish count fell to 0." in line:
                 perish_faints += 1
+            # Pokemon affected by status condition
+            elif "was poisoned!" in line or "was badly poisoned!" in line or "was burned!" in line:
+                ability_status = re.search(r"(?<=\[)(?:The opposing )?([^ ]+)'s ([^\]]+)", previous_line)
+                pokemon_status = re.search("(?:The opposing )?([^ ]+).*!", line).group(1)
+                if "'s " in previous_line:
+                    # Attacking pokemon statused by receiver's ability
+                    if ability_status.group(1) != pokemon_attacking:
+                        match_scoreboard[pokemon_attacking][6]["Status"] = ability_status.group(1)
+                    # Receiving pokemon statused by attacker's ability
+                    else:
+                        match_scoreboard[pokemon_receiving][6]["Status"] = ability_status.group(1)
+                # Receiving pokemon statused by hazards
+                elif "Go!" in previous_line or "sent out" in previous_line or "was hurt by the spikes!" in previous_line or "Pointed stones dug into" in previous_line:
+                    match_scoreboard[pokemon_status][6]["Status"] = hazards[pokemon_status[0]]["T-Spikes"]
+                # Receiving pokemon statused by attacker's move
+                else:
+                    match_scoreboard[pokemon_status][6]["Status"] = pokemon_attacking
+            # Pokemon affected by Leech Seed
+            elif "was seeded!" in line:
+                # Update receiving pokemon's scoreboard with "leech" affliction
+                pokemon_leech = re.search(r"(?:The opposing )?([^ ]+) was seeded!", line).group(1)
+                match_scoreboard[pokemon_leech][6]["Leech"] = pokemon_attacking
+            # Pokemon sets up hazards
+            elif "Pointed stones float in the air around" in line or "scattered on the ground all around" in line:
+                # Hazards on user's side of the field set by opposing team type
+                receiving_team = opponent_type[1] if match_scoreboard[pokemon_attacking][0] == opponent_type[0] else opponent_type[0]
+                if "Pointed stones float in the air around" in line:
+                    hazards[receiving_team]["Rocks"] = pokemon_attacking
+                elif "Spikes were scattered on the ground all around" in line:
+                    hazards[receiving_team]["Spikes"] = pokemon_attacking
+                else:
+                    hazards[receiving_team]["T-Spikes"] = pokemon_attacking
+            # Pokemon hit with binding move
+            elif any(bind_message in line for bind_message in bind_moves):
+                # Binded pokemon's name is at the end with Clamp
+                if "clamped down on" in line:
+                    pokemon_receiving = re.search(r"(?:The opposing )?([^ ]+) clamped down on (?:the opposing )?([^ ]+)!", line).group(2)
+                else:
+                    pokemon_receiving = re.search(r"(?:The opposing )?([^ ]+).*!", line).group(1)
+                # Update receiving pokemon's scoreboard with "bind" affliction
+                match_scoreboard[pokemon_receiving][6]["Bind"] = pokemon_attacking
             # Pokemon hit with contact-damage ability
             elif "was hurt!" in line or "sucked up the liquid ooze!" in line:
-                pokemon_contact = re.search(r"(?:The opposing )?([^ ]+)'s ([^\]]+)", previous_line).group(1)
+                pokemon_contact = re.search(r"(?<=\[)(?:The opposing )?([^ ]+)'s ([^\]]+)", previous_line).group(1)
             # Pokemon hit with Nightmare
             elif "began having a nightmare!" in line:
-                nightmare_user = pokemon_attacking
+                # Update receiving pokemon's scoreboard with "nightmare" affliction
+                pokemon_nightmare = re.search(r"(?:The opposing )?([^ ]+) began having a nightmare!", line).group(1)
+                match_scoreboard[pokemon_nightmare][6]["Nightmare"] = pokemon_attacking
             # Pokemon hit with Curse from Ghost type
             elif "cut its own HP and put a curse on" in line:
-                curse_user = pokemon_attacking
+                # Update receiving pokemon's scoreboard with "curse" affliction
+                pokemon_curse = re.search(r"(?:The opposing )?([^ ]+) cut its own HP and put a curse on (?:the opposing )?([^ ]+)!", line).group(2)
+                match_scoreboard[pokemon_curse][6]["Curse"] = pokemon_attacking
+            # Current state of the weather
+            elif any(weather_message in line for weather_message in weather):
+                # Pokemon used weather move
+                if " used " in previous_line:
+                    weather_user = pokemon_attacking
+                # Pokemon used weather ability
+                else:
+                    weather_user = re.search(r"(?<=\[)(?:The opposing )?([^ ]+)'s ([^\]]+)", previous_line).group(1)
             # Check for damage dealt
             elif "of its health!" in line:
                 pokemon_receiving = re.search(r"(?:The opposing )?[(]?([^ ]+) lost (\d+\.?\d*)% of its health!", line).group(1)
@@ -266,31 +338,54 @@ def match_data(logs):
                     # All pokemon perished from field, remove earliest perish user
                     if perish_faints == 0:
                         perish_user.pop(0)
-                # CASE 3.1: Pokemon faints from residual damage (poison/burn/leech)
-                elif "was hurt by poison!" in previous_line or "was hurt by its burn!" in previous_line or "health is sapped by Leech Seed!" in previous_line:
+                # CASE 3: Pokemon faints from binding move (Bind/Wrap/Fire Spin/etc.)
+                elif "is hurt by" in previous_line:
+                    # Give "defeats" score to binding pokemon
+                    match_scoreboard[match_scoreboard[pokemon_fainted][6]["Bind"]][1] += 1
+                    case_num = "BIND"
+                # CASE 3.1: Pokemon faints from residual damage (poison/burn)
+                elif "was hurt by poison!" in previous_line or "was hurt by its burn!" in previous_line:
+                    # Give "defeats" score to pokemon who statused
+                    match_scoreboard[match_scoreboard[pokemon_fainted][6]["Status"]][1] += 1
                     case_num = "STATUS"
-                    pass
+                # CASE 3: Pokemon faints from Leech Seed
+                elif "health is sapped by Leech Seed!" in previous_line:
+                    match_scoreboard[match_scoreboard[pokemon_fainted][6]["Leech"]][1] += 1
+                    case_num = "LEECH"
                 # CASE 3.2: Pokemon faints from residual damage (sandstorm/hail)
                 elif "is buffeted by the" in previous_line or "hurt by its Dry Skin" in previous_line:
+                    # Pokemon faints from own weather
+                    if pokemon_fainted == weather_user:
+                        match_scoreboard[weather_user][3] += 1
+                    # Pokemon faints from team's weather
+                    elif match_scoreboard[pokemon_fainted][0] == match_scoreboard[weather_user][0]:
+                        # Weather user won't receive "defeats" score
+                        pass
+                    else:
+                        # Update weather user's "defeats" score
+                        match_scoreboard[weather_user][1] += 1
                     case_num = "WEATHER"
-                    pass
                 # CASE 3.3: Pokemon faints from residual damage (hazards)
                 elif "Pointed stones dug into" in previous_line or "was hurt by the spikes!" in previous_line:
+                    # Give "defeats" score to pokemon(s) who set up hazards
+                    if "Pointed stones dug into" in previous_line:
+                        match_scoreboard[hazards[pokemon_fainted[0]]["Rocks"]][1] += 1
+                    else:
+                        match_scoreboard[hazards[pokemon_fainted[0]]["Spikes"]][1] += 1
                     case_num = "HAZARDS"
-                    pass
                 # CASE 4: Pokemon faints from Destiny Bond
                 elif "took its attacker down with it!" in previous_line:
                     # Give "defeats" score to pokemon who used Destiny Bond
                     pokemon_bonded = re.search(r"(?:The opposing )?([^ ]+) took its attacker down with it!", previous_line).group(1)
                     match_scoreboard[pokemon_bonded][1] += 1
                     case_num = "DESTINY"
-                # CASE 5: Pokemon faints from Nightmare (WORK IN PROGRESS)
+                # CASE 5: Pokemon faints from Nightmare
                 elif "is locked in a nightmare!" in previous_line:
-                    match_scoreboard[nightmare_user][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][6]["Nightmare"]][1] += 1
                     case_num = "NIGHTMARE"
                 # CASE 6: Pokemon faints from Curse
                 elif "is afflicted by the curse!" in previous_line:
-                    match_scoreboard[curse_user][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][6]["Curse"]][1] += 1
                     case_num = "CURSE"
                 # CASE 7.1: Pokemon faints from itself (confusion)
                 elif "It hurt itself in its confusion!" in previous_line:
@@ -308,7 +403,7 @@ def match_data(logs):
                         case_num = "SELF-DESTRUCT"
                 # CASE 8: Pokemon faints from own team member
                 elif match_scoreboard[pokemon_fainted][0] == match_scoreboard[pokemon_attacking][0]:
-                    # Attacking pokemon won't receive "faints" score
+                    # Attacking pokemon won't receive "defeats" score
                     case_num = "TK"
                     pass
                 # Update attacking pokemon's "defeats" stat
@@ -338,7 +433,7 @@ def transfer_match_data(dict, xl_file, sheetname, pokemon_data):
             if row[0] == pokemon:
                 # Pokemon found, append the stats to the existing row
                 pokemon_found = True
-                for col_index, stat in enumerate(scoreboard, start=3):
+                for col_index, stat in enumerate(scoreboard[:-1], start=3):
                     # Ignore "team type" value in dict
                     if col_index != 3:
                         worksheet.cell(row=row_index, column=col_index).value += stat
