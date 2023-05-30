@@ -1,0 +1,534 @@
+☆MTN Normal and ☆MTN Water joined
+Format: [Gen 5] Triples Custom Game
+MTN Normal's team:
+Snorlax / Girafarig / Swellow / Bibarel / Sawsbuck / Zangoose
+MTN Water's team:
+Tentacruel / Kingdra / Sharpedo / Gastrodon / Carracosta / Milotic
+
+Battle started between MTN Normal and MTN Water!
+
+Go! Girafarig!
+
+Go! Snorlax!
+
+Go! Sawsbuck!
+
+MTN Water sent out Tentacruel!
+
+MTN Water sent out Gastrodon!
+
+MTN Water sent out Carracosta!
+
+Turn 1
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use U-turn!
+(Snorlax lost 12.7% of its health!)
+
+The opposing Tentacruel went back to MTN Water!
+MTN Water sent out Kingdra!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Mud Bomb!
+(The opposing Kingdra lost 16.3% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Defend Order!
+Girafarig's Defense rose!
+Girafarig's Sp. Def rose!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Flamethrower!
+(Girafarig lost 20.8% of its health!)
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Self-Destruct!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+A critical hit on Snorlax!
+(The opposing Gastrodon lost 39.2% of its health!)
+(Girafarig lost 37.7% of its health!)
+(Snorlax lost 55.5% of its health!)
+
+The opposing Carracosta fainted!
+Snorlax used Metronome!
+
+Waggling a finger let it use Drill Run!
+(The opposing Kingdra lost 25.9% of its health!)
+
+MTN Water sent out Tentacruel!
+
+Turn 2
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Flamethrower!
+(Girafarig lost 18.5% of its health!)
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Tail Slap!
+(The opposing Gastrodon lost 10.5% of its health!)
+(The opposing Gastrodon lost 9.4% of its health!)
+(The opposing Gastrodon lost 9.4% of its health!)
+(The opposing Gastrodon lost 9.4% of its health!)
+(The opposing Gastrodon lost 10.5% of its health!)
+The Pokémon was hit 5 times!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Bind!
+(Snorlax lost 3.6% of its health!)
+Snorlax was squeezed by the opposing Kingdra!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Aromatherapy!
+A soothing aroma wafted through the area!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Octazooka!
+[The opposing Gastrodon's Storm Drain]
+The opposing Gastrodon took the attack!
+[The opposing Gastrodon's Storm Drain]
+The opposing Gastrodon's Sp. Atk rose!
+
+Snorlax is hurt by Bind!
+
+Turn 3
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Torment!
+Snorlax was subjected to torment!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Head Charge!
+(The opposing Gastrodon lost 11.7% of its health!)
+
+The opposing Gastrodon fainted!
+Sawsbuck was damaged by the recoil!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Torment!
+The opposing Tentacruel was subjected to torment!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Acid!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on Sawsbuck!
+(Snorlax lost 7.3% of its health!)
+(Sawsbuck lost 27.1% of its health!)
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Mean Look!
+The opposing Kingdra can no longer escape!
+
+Snorlax is hurt by Bind!
+
+MTN Water sent out Milotic!
+
+Turn 4
+
+MTN Water withdrew Tentacruel!
+MTN Water sent out Sharpedo!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Rock Smash!
+(The opposing Kingdra lost 13.3% of its health!)
+The opposing Kingdra's Defense fell!
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Smack Down!
+(Girafarig lost 12.3% of its health!)
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Sunny Day!
+The sunlight turned harsh!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Fusion Flare!
+[DEBUG] Sunny Day fire boost.
+[DEBUG] Sunny Day fire boost.
+It's not very effective...
+(The opposing Sharpedo lost 27.7% of its health!)
+
+Snorlax used Recycle!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+(The sunlight is strong.)
+Snorlax is hurt by Bind!
+
+Turn 5
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Feint Attack!
+(Snorlax lost 3.2% of its health!)
+
+Snorlax fainted!
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Baton Pass!
+
+Go! Zangoose!
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Air Cutter!
+Girafarig avoided the attack!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Zangoose lost 16.2% of its health!)
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Scratch!
+(Zangoose lost 13.5% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Hail!
+It started to hail!
+
+(The hail is crashing down.)
+Zangoose is buffeted by the hail!
+The opposing Sharpedo is buffeted by the hail!
+The opposing Milotic is buffeted by the hail!
+The opposing Kingdra is buffeted by the hail!
+Girafarig is buffeted by the hail!
+
+Go! Bibarel!
+
+Turn 6
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Electroweb!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Milotic!
+(The opposing Kingdra lost 11.9% of its health!)
+(The opposing Milotic lost 17.6% of its health!)
+The opposing Kingdra's Speed fell!
+The opposing Milotic's Speed fell!
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Night Shade!
+It doesn't affect Girafarig...
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Bounce!
+The opposing Sharpedo sprang up!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Healing Wish!
+
+Girafarig fainted!
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Charge!
+The opposing Kingdra's Sp. Def rose!
+The opposing Kingdra began charging power!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Rolling Kick!
+The opposing Sharpedo avoided the attack!
+
+(The hail is crashing down.)
+Zangoose is buffeted by the hail!
+The opposing Sharpedo is buffeted by the hail!
+Bibarel is buffeted by the hail!
+The opposing Milotic is buffeted by the hail!
+The opposing Kingdra is buffeted by the hail!
+
+Go! Sawsbuck!
+The healing wish came true for Sawsbuck!
+
+Turn 7
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Skull Bash!
+Zangoose tucked in its head!
+Zangoose's Defense rose!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Psystrike!
+(The opposing Milotic lost 17.1% of its health!)
+
+The opposing Sharpedo used Bounce!
+It's super effective!
+(Sawsbuck lost 64.3% of its health!)
+Sawsbuck is paralyzed! It may be unable to move!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Retaliate!
+[DEBUG] Boosted for a faint last turn.
+[DEBUG] Boosted for a faint last turn.
+(The opposing Sharpedo lost 60% of its health!)
+[The opposing Sharpedo's Rough Skin]
+Bibarel was hurt!
+
+The opposing Sharpedo fainted!
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Magic Coat!
+The opposing Milotic shrouded itself with Magic Coat!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Electro Ball!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+[DEBUG] charge boost.
+[DEBUG] charge boost.
+(Zangoose lost 31.8% of its health!)
+
+(The hail is crashing down.)
+Zangoose is buffeted by the hail!
+Bibarel is buffeted by the hail!
+The opposing Milotic is buffeted by the hail!
+The opposing Kingdra is buffeted by the hail!
+Sawsbuck is buffeted by the hail!
+
+MTN Water sent out Tentacruel!
+
+Turn 8
+
+Zangoose used Skull Bash!
+(The opposing Milotic lost 35.9% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Constrict!
+(Bibarel lost 3.6% of its health!)
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Aura Sphere!
+It's not very effective...
+(The opposing Tentacruel lost 10% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Blizzard!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on Sawsbuck!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bibarel.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Sawsbuck lost 30% of its health!)
+(Bibarel lost 20.1% of its health!)
+(Zangoose lost 20.3% of its health!)
+
+Sawsbuck fainted!
+Zangoose fainted!
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Poison Gas!
+Bibarel avoided the attack!
+
+(The hail is crashing down.)
+The opposing Tentacruel is buffeted by the hail!
+Bibarel is buffeted by the hail!
+The opposing Milotic is buffeted by the hail!
+The opposing Kingdra is buffeted by the hail!
+
+Go! Swellow!
+
+Turn 9
+
+Swellow used Metronome!
+
+Waggling a finger let it use Defense Curl!
+Swellow's Defense rose!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Flame Burst!
+It's not very effective...
+(Bibarel lost 13.7% of its health!)
+The bursting flame hit Swellow!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Sweet Kiss!
+The opposing Tentacruel became confused!
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Hail!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Peck!
+(Bibarel lost 15.1% of its health!)
+
+The hail stopped.
+
+Turn 10
+
+Swellow used Metronome!
+
+Waggling a finger let it use Poison Fang!
+(The opposing Kingdra lost 8.9% of its health!)
+
+The opposing Kingdra fainted!
+The opposing Tentacruel is confused!
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Lunar Dance!
+But it failed!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Attract!
+It doesn't affect the opposing Milotic...
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Double Kick!
+(Swellow lost 10.8% of its health!)
+(Swellow lost 10.8% of its health!)
+The Pokémon was hit 2 times!
+
+Turn 11
+
+Swellow used Metronome!
+
+Waggling a finger let it use Pound!
+(The opposing Milotic lost 5.9% of its health!)
+
+The opposing Milotic fainted!
+The opposing Tentacruel is confused!
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Embargo!
+Bibarel can't use items anymore!
+[DEBUG] End handler suppressed by Embargo, Klutz or Magic Room.
+[DEBUG] End handler suppressed by Embargo, Klutz or Magic Room.
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Magnet Bomb!
+It's not very effective...
+(The opposing Tentacruel lost 7.9% of its health!)
+
+Turn 12
+
+Swellow used Metronome!
+
+Waggling a finger let it use Mach Punch!
+But it failed!
+The opposing Tentacruel snapped out of its confusion!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Sludge Wave!
+(Bibarel lost 18.0% of its health!)
+
+Bibarel fainted!
+
+Automatic center!
+
+Turn 13
+
+Swellow used Metronome!
+
+Waggling a finger let it use Drill Peck!
+(The opposing Tentacruel lost 32.1% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Dark Void!
+Swellow fell asleep!
+
+Turn 14
+
+Swellow is fast asleep.
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Double-Edge!
+(Swellow lost 37.5% of its health!)
+The opposing Tentacruel was damaged by the recoil!
+
+Turn 15
+
+Swellow is fast asleep.
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Air Slash!
+(Swellow lost 26.7% of its health!)
+
+Turn 16
+
+Swellow is fast asleep.
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Meditate!
+The opposing Tentacruel's Attack rose!
+
+Turn 17
+
+Swellow woke up!
+
+Swellow used Metronome!
+
+Waggling a finger let it use Uproar!
+(The opposing Tentacruel lost 28.6% of its health!)
+Swellow caused an uproar!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Brick Break!
+(Swellow lost 8.3% of its health!)
+
+Swellow fainted!
+
+MTN Water won the battle!

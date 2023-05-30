@@ -1,0 +1,640 @@
+☆MTN Normal and ☆MTN Water joined
+Format: [Gen 5] Triples Custom Game
+MTN Normal's team:
+Snorlax / Girafarig / Swellow / Bibarel / Sawsbuck / Zangoose
+MTN Water's team:
+Tentacruel / Kingdra / Sharpedo / Gastrodon / Carracosta / Milotic
+
+Battle started between MTN Normal and MTN Water!
+
+Go! Girafarig!
+
+Go! Snorlax!
+
+Go! Sawsbuck!
+
+MTN Water sent out Kingdra!
+
+MTN Water sent out Gastrodon!
+
+MTN Water sent out Carracosta!
+
+Turn 1
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Poison Gas!
+The opposing Kingdra was poisoned!
+The opposing Gastrodon was poisoned!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Wonder Room!
+It created a bizarre area in which Defense and Sp. Def stats are swapped!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Thrash!
+(Snorlax lost 27.3% of its health!)
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Dark Void!
+Girafarig fell asleep!
+Snorlax fell asleep!
+Sawsbuck fell asleep!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Icicle Crash!
+(Girafarig lost 33.1% of its health!)
+
+Snorlax is fast asleep.
+
+The opposing Kingdra was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+
+Turn 2
+
+Sawsbuck is fast asleep.
+
+The opposing Kingdra used Thrash!
+(Snorlax lost 24.5% of its health!)
+
+Girafarig is fast asleep.
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Air Slash!
+(Snorlax lost 11.8% of its health!)
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Lick!
+It doesn't affect Snorlax...
+
+Snorlax is fast asleep.
+
+The opposing Kingdra was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+
+Turn 3
+
+Sawsbuck is fast asleep.
+Girafarig woke up!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Stun Spore!
+The opposing Carracosta is paralyzed! It may be unable to move!
+
+The opposing Kingdra used Thrash!
+(Sawsbuck lost 56.4% of its health!)
+The opposing Kingdra became confused due to fatigue!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Vine Whip!
+(Snorlax lost 6.4% of its health!)
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Metal Sound!
+Snorlax's Sp. Def fell harshly!
+
+Snorlax is fast asleep.
+
+The opposing Kingdra was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+
+Turn 4
+
+Sawsbuck woke up!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Autotomize!
+Sawsbuck's Speed rose sharply!
+Sawsbuck became nimble!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Conversion!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Kingdra is confused!
+It hurt itself in its confusion!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Mud Shot!
+(Girafarig lost 25.4% of its health!)
+Girafarig's Speed fell!
+Snorlax woke up!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Zap Cannon!
+The opposing Kingdra avoided the attack!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Bulldoze!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(The opposing Gastrodon lost 9.9% of its health!)
+(Girafarig lost 17.7% of its health!)
+(Snorlax lost 8.2% of its health!)
+The opposing Gastrodon's Speed fell!
+Girafarig's Speed fell!
+Snorlax's Speed fell!
+
+The opposing Kingdra was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+
+Turn 5
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Submission!
+(The opposing Kingdra lost 25.2% of its health!)
+Sawsbuck was damaged by the recoil!
+
+The opposing Kingdra is confused!
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Foul Play!
+(Snorlax lost 16.8% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Ally Switch!
+Girafarig and Sawsbuck switched places!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Sonic Boom!
+Sawsbuck avoided the attack!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Aqua Jet!
+[The opposing Gastrodon's Storm Drain]
+The opposing Gastrodon took the attack!
+[The opposing Gastrodon's Storm Drain]
+The opposing Gastrodon's Sp. Atk rose!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Fire Fang!
+[DEBUG] Thick Fat weaken.
+[DEBUG] Thick Fat weaken.
+(Snorlax lost 5% of its health!)
+
+Snorlax fainted!
+
+The opposing Kingdra was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+Wonder Room wore off, and Defense and Sp. Def stats returned to normal!
+
+Go! Bibarel!
+
+Turn 6
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Lava Plume!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bibarel.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Gastrodon.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Carracosta.
+(Bibarel lost 11.5% of its health!)
+(The opposing Gastrodon lost 5.3% of its health!)
+(The opposing Carracosta lost 3.7% of its health!)
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Kingdra is confused!
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Razor Wind!
+The opposing Kingdra whipped up a whirlwind!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Rock Climb!
+It's not very effective...
+(The opposing Carracosta lost 11.9% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Heal Block!
+The opposing Kingdra was prevented from healing!
+The opposing Gastrodon was prevented from healing!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Comet Punch!
+(Bibarel lost 6.5% of its health!)
+(Bibarel lost 5.8% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Poison Gas!
+Sawsbuck was poisoned!
+Bibarel was poisoned!
+
+Sawsbuck was hurt by poison!
+The opposing Kingdra was hurt by poison!
+
+The opposing Kingdra fainted!
+Bibarel was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+
+MTN Water sent out Tentacruel!
+
+Turn 7
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Double Team!
+Sawsbuck's evasiveness rose!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Aqua Ring!
+The opposing Tentacruel surrounded itself with a veil of water!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Flamethrower!
+It's not very effective...
+(The opposing Tentacruel lost 10% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Draco Meteor!
+A critical hit!
+(The opposing Tentacruel lost 60.7% of its health!)
+Girafarig's Sp. Atk fell harshly!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Magnet Bomb!
+It's not very effective...
+(Bibarel lost 8.6% of its health!)
+
+The opposing Carracosta is paralyzed! It can't move!
+
+A veil of water restored the opposing Tentacruel's HP!
+Sawsbuck was hurt by poison!
+Bibarel was hurt by poison!
+The opposing Gastrodon was hurt by poison!
+
+The opposing Gastrodon fainted!
+
+MTN Water sent out Sharpedo!
+
+Turn 8
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Thunder Fang!
+It's super effective!
+(The opposing Sharpedo lost 52.3% of its health!)
+The opposing Sharpedo is paralyzed! It may be unable to move!
+[The opposing Sharpedo's Rough Skin]
+Sawsbuck was hurt!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Sawsbuck had its HP restored.
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Fire Blast!
+It's super effective!
+(Sawsbuck lost 50.7% of its health!)
+
+Sawsbuck fainted!
+Bibarel used Metronome!
+
+Waggling a finger let it use Pay Day!
+It's not very effective...
+(The opposing Carracosta lost 6.7% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Power Swap!
+Girafarig switched all changes to its Attack and Sp. Atk with its target!
+
+The opposing Carracosta is paralyzed! It can't move!
+
+A veil of water restored the opposing Tentacruel's HP!
+Bibarel was hurt by poison!
+
+Go! Zangoose!
+
+Turn 9
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Supersonic!
+The opposing Sharpedo became confused!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Slam!
+Girafarig avoided the attack!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Roost!
+Bibarel had its HP restored.
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Incinerate!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Tentacruel.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Sharpedo.
+(The opposing Tentacruel lost 2.9% of its health!)
+(The opposing Sharpedo lost 4.6% of its health!)
+The opposing Tentacruel's Leppa Berry was burned up!
+The opposing Sharpedo's Leppa Berry was burned up!
+
+The opposing Sharpedo is confused!
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Double Kick!
+It's super effective!
+(Zangoose lost 18.9% of its health!)
+It's super effective!
+(Zangoose lost 20.3% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Flare Blitz!
+It's not very effective...
+(Bibarel lost 19.4% of its health!)
+The opposing Carracosta was damaged by the recoil!
+
+A veil of water restored the opposing Tentacruel's HP!
+Bibarel was hurt by poison!
+
+Turn 10
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Stored Power!
+[DEBUG] BP: 20.
+[DEBUG] BP: 20.
+(The opposing Carracosta lost 6.0% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Coil!
+The opposing Tentacruel's Attack rose!
+The opposing Tentacruel's Defense rose!
+The opposing Tentacruel's accuracy rose!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Heart Stamp!
+It's super effective!
+(The opposing Tentacruel lost 20% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Heal Order!
+Girafarig had its HP restored.
+
+The opposing Sharpedo is confused!
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Magnet Rise!
+The opposing Sharpedo levitated with electromagnetism!
+
+The opposing Carracosta is paralyzed! It can't move!
+
+A veil of water restored the opposing Tentacruel's HP!
+Bibarel was hurt by poison!
+
+Turn 11
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Camouflage!
+Zangoose's type changed to Ground!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Sharpen!
+The opposing Tentacruel's Attack rose!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Fire Pledge!
+It's not very effective...
+(The opposing Sharpedo lost 9.2% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Miracle Eye!
+The opposing Sharpedo was identified!
+
+The opposing Sharpedo is confused!
+The opposing Sharpedo is paralyzed! It can't move!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Ice Punch!
+It's super effective!
+(Zangoose lost 41.9% of its health!)
+Zangoose was frozen solid!
+
+A veil of water restored the opposing Tentacruel's HP!
+Bibarel was hurt by poison!
+
+Turn 12
+
+Zangoose is frozen solid!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Fake Out!
+(Fake Out only works on your first turn out.)
+But it failed!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Wood Hammer!
+(The opposing Tentacruel lost 22.9% of its health!)
+Bibarel was damaged by the recoil!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Conversion!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Sharpedo is confused!
+The opposing Sharpedo is paralyzed! It can't move!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Steel Wing!
+It's not very effective...
+(Bibarel lost 12.2% of its health!)
+The opposing Carracosta's Defense rose!
+
+A veil of water restored the opposing Tentacruel's HP!
+Bibarel was hurt by poison!
+
+Bibarel fainted!
+
+Go! Swellow!
+
+Turn 13
+
+Swellow used Metronome!
+
+Waggling a finger let it use Judgment!
+(The opposing Sharpedo lost 33.8% of its health!)
+
+The opposing Sharpedo fainted!
+Zangoose is frozen solid!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Smack Down!
+(Girafarig lost 33.8% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Curse!
+Girafarig's Speed fell!
+Girafarig's Attack rose!
+Girafarig's Defense rose!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Shift Gear!
+The opposing Carracosta's Speed rose sharply!
+The opposing Carracosta's Attack rose!
+
+A veil of water restored the opposing Tentacruel's HP!
+
+MTN Water sent out Milotic!
+
+Turn 14
+
+Swellow used Metronome!
+
+Waggling a finger let it use Rock Polish!
+Swellow's Speed rose sharply!
+Zangoose thawed out!
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Crunch!
+(The opposing Milotic lost 19.4% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Round!
+(Girafarig lost 19.2% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Drill Run!
+[DEBUG] Negating (sp)def boost/penalty..
+[DEBUG] Negating (sp)def boost/penalty..
+A critical hit!
+(Girafarig lost 20.8% of its health!)
+
+Girafarig fainted!
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Hammer Arm!
+(Swellow lost 75.8% of its health!)
+The opposing Carracosta's Speed fell!
+
+A veil of water restored the opposing Tentacruel's HP!
+
+Turn 15
+
+Swellow used Metronome!
+
+Waggling a finger let it use Quiver Dance!
+Swellow's Sp. Atk rose!
+Swellow's Sp. Def rose!
+Swellow's Speed rose!
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Dynamic Punch!
+It's super effective!
+[DEBUG] Solid Rock neutralize.
+[DEBUG] Solid Rock neutralize.
+(The opposing Carracosta lost 31.3% of its health!)
+The opposing Carracosta became confused!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Foul Play!
+(Swellow lost 24.2% of its health!)
+
+Swellow fainted!
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Trump Card!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+(Zangoose lost 14.2% of its health!)
+
+The opposing Carracosta is confused!
+It hurt itself in its confusion!
+
+A veil of water restored the opposing Tentacruel's HP!
+
+Turn 16
+
+Zangoose used Metronome!
+
+Waggling a finger let it use Ice Shard!
+It's not very effective...
+(The opposing Carracosta lost 3.7% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Psych Up!
+But it failed!
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Horn Drill!
+(Zangoose lost 4.7% of its health!)
+
+Zangoose fainted!
+It's a one-hit KO!
+
+MTN Water won the battle!

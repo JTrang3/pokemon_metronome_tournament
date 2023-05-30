@@ -1,38 +1,70 @@
-# To-Do List:
-# 1) Parse team names from usernames & get rosters - DONE
-# 2) Collect all moves used by Metronome from battle logs to database - DONE
-# 3) Connect moves with corresponding type, power, accuracy, etc. - DONE
-#   3.1) Add check if move's stats is already recorded in database - DONE
-#   3.2) Add check for valid moves - DONE
-# 4) Compile battle stats (defeats, faints, damage, etc.) from battle logs to database - DONE
-#   4.1) Record pokemon's "defeats" stat - DONE
-#   4.2) Record pokemon's "faints" stat - DONE
-#   4.3) Record pokemon's "damage_given" stat - DONE
-#   4.4) Record pokemon's "damage_taken" stat - DONE
-# 5) Compile team stats (win, lose, match history) from battle logs to databse - DONE
-#   5.1) Record team's roster - DONE
-#   5.2) Record team's win/lose record - DONE
-#   5.3) Record team's match history - DONE
-# 6) Go back to match_data() and improve edge cases - DONE
-#   6.1) Revise logic regarding Future Sight/Doom Desire attacks - DONE
-#   6.2) Add case for faints from hazard damage (Spikes, Stealth Rock) - DONE
-#   6.3) Add case for faints from Leech Seed - DONE
-#   6.4) Add case for faints from weather (Hail, Sandstorm) - DONE
-#   6.5) Add case for faints from Destiny Bond - DONE
-#   6.6) Add case for faints from abilities (Rough Skin, Liquid Ooze, Aftermath) - DONE
-#   6.7) Add case for faints from Nightmare - DONE
-#   6.8) Add case for faints from Curse - DONE
-#   6.9) Add case for faints from binding moves - DONE
-# 7) Go back to match_data() and restructure scoreboard for edge cases - DONE
-#   7.1) Revise logic to add "defeats" scores for the following cases:
-#       Status - DONE
-#       Leech Seed - DONE
-#       Weather - DONE
-#       Hazards - DONE
-#       Nightmare - DONE
-#       Curse - DONE
+import os, re, ast
+import openpyxl
+from bs4 import BeautifulSoup
+import tkinter as tk
+from tkinter import filedialog
 
-import re, openpyxl, ast
+# Select replay(s) to extract data from
+def select_replays():
+    # Get the current working directory
+    current_directory = os.getcwd()
+    # Specify the folder name within the current directory
+    folder_name = "replays"
+    # Create the Tkinter root window
+    root = tk.Tk()
+    root.withdraw()  # Hide the root window
+    # Open the file dialog and allow the user to select multiple files
+    file_paths = filedialog.askopenfilenames(initialdir=os.path.join(current_directory, folder_name), title="Select which replays to extract data from:")
+    # Convert the returned tuple of file paths to a list
+    selected_files = list(file_paths)
+    # Convert absolute paths to relative paths
+    selected_files = [os.path.relpath(file, current_directory) for file in selected_files]
+    # Close the Tkinter root window (optional)
+    root.destroy()
+    return selected_files
+
+# Convert html replay file into readable textfile
+def convert_html_to_text(logs):
+    # Get the name of the replay without the paths or extension
+    base_name = os.path.splitext(os.path.basename(logs))[0]
+    # Read the HTML file
+    with open(logs, 'r') as file:
+        html_content = file.read()
+    # Create a BeautifulSoup object
+    soup = BeautifulSoup(html_content, "html.parser")
+    # Process battle logs from elements in "inner message-log" div and store the lines
+    message_log = soup.find("div", class_="inner message-log")
+    elements = message_log.find_all(['div', 'h2'])
+    lines = ''
+    for element in elements:
+        # Adjust team & roster format
+        if element.name == 'div' and element.get('class') == ['chat', 'battle-history']:
+            # Find the "strong" and "em" tags within the sub-div to add newlines
+            strong_tag = element.find('strong')
+            em_tag = element.find('em')
+            if strong_tag:
+                lines += (strong_tag.get_text(strip=False) + '\n')
+            if em_tag:
+                lines += (em_tag.get_text(strip=False) + '\n')
+        # Adjust elements that print more than one line
+        elif element.name == 'div' and element.get('class') == ['battle-history']:
+            # Find all "break" tags within the sub-div
+            break_tags = element.find_all('br')
+            if len(break_tags) > 1:
+                # Add newline for each additional line printed
+                for break_tag in break_tags[:-1]:
+                    break_tag.insert_after('\n')
+            lines += (element.get_text(strip=False) + '\n')
+        else:
+            # Add newline to the text of the element
+            lines += (element.get_text(strip=False) + '\n')
+    # Remove empty line at the end of the file
+    lines = lines[:-1]
+    # Write the lines as a new text file into logs folder
+    textfile = "logs\\" + base_name + ".txt"
+    with open(textfile, 'w') as file:
+        file.writelines(lines)
+    return textfile
 
 # Gather all the moves used by Metronome in the entire battle
 def metronome_data(logs):
@@ -114,10 +146,10 @@ def connect_move_with_stats(data_file, data_sheetname, target_file, target_sheet
 # Initialize dictionary w/ pokemon's team & match data
 def get_teams_and_roster(logs):
     with open(logs, 'r') as file:
-        # Read first 4 lines in battle logs for teams
-        file_content = "".join(file.readlines()[0:4])
+        # Read lines 3-6 in battle logs for teams
+        file_content = "".join(file.readlines()[2:6])
         # Search for team type and rosters using a pattern
-        pattern = r"MTN\s+(\w+)'s team:\n([\w\s/]+)\n"
+        pattern = r"MTN\s+(\w+)'s team:\n([\w\s/-]+)\n"
         teams = re.findall(pattern, file_content)
         return teams
 
@@ -193,7 +225,7 @@ def match_data(logs):
         roster = team[1].split(" / ")
         for pokemon in roster:
             # Apply initial scoreboard to each pokemon in roster
-            match_scoreboard[pokemon] = [team_type, 0, 0, 0, 0, 0, {}] 
+            match_scoreboard[pokemon.split('-')[0]] = [team_type, 0, 0, 0, 0, 0, {}] 
     # Read the contents of the file
     with open(logs, 'r') as file:
         next_line = file.readlines()
@@ -224,7 +256,7 @@ def match_data(logs):
                 if any(future_message in next_line[line_index] for future_message in future_outcomes):
                     future_attacking.pop(0)
             # Pokemon uses Perish Song
-            elif "All Pokémon that heard the song will faint in three turns!" in line:
+            elif "that heard the song will faint in three turns!" in line:
                 # Store Perish Song users in a list to check precedence
                 perish_user.append(pokemon_attacking)
             # Gather all pokemon fainted by Perish Song
@@ -243,7 +275,7 @@ def match_data(logs):
                         match_scoreboard[pokemon_receiving][6]["Status"] = ability_status.group(1)
                 # Receiving pokemon statused by hazards
                 elif "Go!" in previous_line or "sent out" in previous_line or "was hurt by the spikes!" in previous_line or "Pointed stones dug into" in previous_line:
-                    match_scoreboard[pokemon_status][6]["Status"] = hazards[pokemon_status[0]]["T-Spikes"]
+                    match_scoreboard[pokemon_status][6]["Status"] = hazards[match_scoreboard[pokemon_status][0]]["T-Spikes"]
                 # Receiving pokemon statused by attacker's move
                 else:
                     match_scoreboard[pokemon_status][6]["Status"] = pokemon_attacking
@@ -287,7 +319,7 @@ def match_data(logs):
             # Current state of the weather
             elif any(weather_message in line for weather_message in weather):
                 # Pokemon used weather move
-                if " used " in previous_line:
+                if " use " in previous_line:
                     weather_user = pokemon_attacking
                 # Pokemon used weather ability
                 else:
@@ -434,7 +466,7 @@ def transfer_match_data(dict, xl_file, sheetname, pokemon_data):
                 # Pokemon found, append the stats to the existing row
                 pokemon_found = True
                 for col_index, stat in enumerate(scoreboard[:-1], start=3):
-                    # Ignore "team type" value in dict
+                    # Ignore "team type" & "affliction" values in dict
                     if col_index != 3:
                         worksheet.cell(row=row_index, column=col_index).value += stat
         if pokemon_found == False:
@@ -444,7 +476,8 @@ def transfer_match_data(dict, xl_file, sheetname, pokemon_data):
             # Call function to get pokemon's type
             type = get_pokemon_type(pokemon, pokemon_data, sheetname)
             worksheet.cell(row=new_row, column=2).value = str(type)
-            for col_index, stat in enumerate(scoreboard, start=3):
+            for col_index, stat in enumerate(scoreboard[:-1], start=3):
+                # Ignore "affliction" value in dict
                 worksheet.cell(row=new_row, column=col_index).value = stat
     # Save the workbook
     workbook.save(xl_file)
@@ -517,16 +550,30 @@ def transfer_team_data(dict, xl_file, sheetname):
     return
     
 def main():
-    battle_log = "battle_logs_test_bug_dark.txt"
+    logs = []
+    user_replays = select_replays()
 
-    moves = metronome_data(battle_log)
-    scoreboard = match_data(battle_log)
-    team_record = team_data(battle_log, scoreboard)
+    for replay in user_replays:
+        replay_log = convert_html_to_text(replay)
+        logs.append(replay_log)
 
-    transfer_metronome_data(moves, "tournament_statistics.xlsx", "Metronome_Data")
-    connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data")
-    transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Pokemon_Data", "pokemon_data_gen5.xlsx")
-    transfer_team_data(team_record, "tournament_statistics.xlsx", "Team_Data")
+    for log in logs:
+        moves = metronome_data(log)
+        scoreboard = match_data(log)
+        team_record = team_data(log, scoreboard)
+
+        # print(f"\n{log}\n")
+        # # TEST: View complete scoreboard
+        # for key, values in scoreboard.items():
+        #     print(f"{key}: {values}")
+        # # TEST: View complete match records
+        # for key, values in team_record.items():
+        #     print(f"{key}: {values}")
+
+        transfer_metronome_data(moves, "tournament_statistics.xlsx", "Metronome_Data")
+        connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data")
+        transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Pokemon_Data", "pokemon_data_gen5.xlsx")
+        transfer_team_data(team_record, "tournament_statistics.xlsx", "Team_Data")
     
     # TEST: Count each move used & total moves used in a battle
     # for move, count in moves.items():

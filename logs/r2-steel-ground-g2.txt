@@ -1,0 +1,674 @@
+☆MTN Steel and ☆MTN Ground joined
+Format: [Gen 5] Triples Custom Game
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+MTN Ground's team:
+Golem / Donphan / Flygon / Hippowdon / Excadrill / Nidoqueen
+
+Battle started between MTN Steel and MTN Ground!
+
+Go! Steelix!
+
+Go! Bastiodon!
+
+Go! Metagross!
+
+MTN Ground sent out Donphan!
+
+MTN Ground sent out Flygon!
+
+MTN Ground sent out Hippowdon!
+[The opposing Hippowdon's Sand Stream]
+A sandstorm kicked up!
+
+Turn 1
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use False Swipe!
+It's not very effective...
+(Steelix lost 3.0% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Beat Up!
+[DEBUG] BP for Steelix hit: 13.
+[DEBUG] BP for Steelix hit: 13.
+(The opposing Flygon lost 5% of its health!)
+[DEBUG] BP for Bastiodon hit: 10.
+[DEBUG] BP for Bastiodon hit: 10.
+(The opposing Flygon lost 4.3% of its health!)
+[DEBUG] BP for Metagross hit: 18.
+[DEBUG] BP for Metagross hit: 18.
+(The opposing Flygon lost 6.4% of its health!)
+[DEBUG] BP for Bisharp hit: 17.
+[DEBUG] BP for Bisharp hit: 17.
+(The opposing Flygon lost 7.1% of its health!)
+[DEBUG] BP for Escavalier hit: 18.
+[DEBUG] BP for Escavalier hit: 18.
+(The opposing Flygon lost 7.1% of its health!)
+[DEBUG] BP for Mawile hit: 13.
+[DEBUG] BP for Mawile hit: 13.
+(The opposing Flygon lost 4.3% of its health!)
+The Pokémon was hit 6 times!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Fusion Bolt!
+(Metagross lost 29.3% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Sunny Day!
+The sunlight turned harsh!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Flatter!
+The opposing Flygon's Sp. Atk rose!
+The opposing Flygon became confused!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Take Down!
+(The opposing Hippowdon lost 16.7% of its health!)
+Steelix was damaged by the recoil!
+
+(The sunlight is strong.)
+
+Turn 2
+
+The opposing Flygon is confused!
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Tackle!
+It's not very effective...
+(Bastiodon lost 2.5% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Fire Spin!
+[DEBUG] Sunny Day fire boost.
+[DEBUG] Sunny Day fire boost.
+It's not very effective...
+(The opposing Flygon lost 11.4% of its health!)
+The opposing Flygon became trapped in the fiery vortex!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Blaze Kick!
+[DEBUG] Sunny Day fire boost.
+[DEBUG] Sunny Day fire boost.
+It's super effective!
+(Metagross lost 70% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Stone Edge!
+It's not very effective...
+(Steelix lost 4.4% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Zap Cannon!
+It doesn't affect the opposing Hippowdon...
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+(The opposing Donphan lost 16.7% of its health!)
+
+(The sunlight is strong.)
+The opposing Flygon is hurt by Fire Spin!
+
+Turn 3
+
+The opposing Flygon is confused!
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Guard Split!
+The opposing Flygon shared its guard with the target!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Fire Spin!
+[DEBUG] Sunny Day fire boost.
+[DEBUG] Sunny Day fire boost.
+(The opposing Donphan lost 18.7% of its health!)
+The opposing Donphan became trapped in the fiery vortex!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Fire Pledge!
+[DEBUG] Sunny Day fire boost.
+[DEBUG] Sunny Day fire boost.
+It's super effective!
+(Metagross lost 0.7% of its health!)
+
+Metagross fainted!
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Dual Chop!
+It's not very effective...
+(Bastiodon lost 5% of its health!)
+It's not very effective...
+A critical hit!
+(Bastiodon lost 10% of its health!)
+The Pokémon was hit 2 times!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Quick Attack!
+A critical hit!
+(The opposing Hippowdon lost 17.3% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Blaze Kick!
+[DEBUG] Sunny Day fire boost.
+[DEBUG] Sunny Day fire boost.
+It's not very effective...
+A critical hit!
+(The opposing Flygon lost 33.6% of its health!)
+
+(The sunlight is strong.)
+
+Go! Escavalier!
+
+Turn 4
+
+The opposing Flygon is confused!
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Dragon Tail!
+It's not very effective...
+A critical hit!
+(Steelix lost 15.6% of its health!)
+
+Bisharp was dragged out!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Tickle!
+Bastiodon's Attack fell!
+Bastiodon's Defense fell!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+It's not very effective...
+A critical hit!
+(Bisharp lost 12.8% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Fake Out!
+(Fake Out only works on your first turn out.)
+But it failed!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Spikes!
+Spikes were scattered on the ground all around the opposing team!
+
+(The sunlight is strong.)
+
+Turn 5
+
+The opposing Flygon is confused!
+It hurt itself in its confusion!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Rollout!
+[DEBUG] BP: 30.
+[DEBUG] BP: 30.
+It's not very effective...
+(The opposing Flygon lost 4.3% of its health!)
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Stealth Rock!
+Pointed stones float in the air around your team!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Future Sight!
+The opposing Hippowdon foresaw an attack!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Barrier!
+Bastiodon's Defense rose sharply!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Comet Punch!
+(The opposing Flygon lost 0.7% of its health!)
+
+The opposing Flygon fainted!
+The Pokémon was hit 1 time!
+
+The harsh sunlight faded.
+
+MTN Ground sent out Golem!
+The opposing Golem was hurt by the spikes!
+
+Turn 6
+
+Bisharp used Rollout!
+[DEBUG] BP: 60.
+[DEBUG] BP: 60.
+It's not very effective...
+(The opposing Golem lost 9.3% of its health!)
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Present!
+Bastiodon had its HP restored.
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Frenzy Plant!
+It's not very effective...
+(Bisharp lost 22.4% of its health!)
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Assurance!
+It's not very effective...
+(Escavalier lost 6.9% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Aromatherapy!
+A soothing aroma wafted through the area!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Psych Up!
+Escavalier copied the opposing Golem's stat changes!
+
+Turn 7
+
+Bisharp used Rollout!
+[DEBUG] BP: 120.
+[DEBUG] BP: 120.
+It's not very effective...
+(The opposing Hippowdon lost 16.1% of its health!)
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Stomp!
+It's not very effective...
+(Bastiodon lost 2.5% of its health!)
+
+The opposing Hippowdon must recharge!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Electro Ball!
+[DEBUG] BP: 60.
+[DEBUG] BP: 60.
+(Bastiodon lost 12.5% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Fiery Dance!
+It's not very effective...
+A critical hit!
+(The opposing Golem lost 19.3% of its health!)
+Bastiodon's Sp. Atk rose!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Hypnosis!
+The opposing Donphan fell asleep!
+
+Bisharp took the Future Sight attack!
+It doesn't affect Bisharp...
+
+Turn 8
+
+Bisharp used Rollout!
+[DEBUG] BP: 240.
+[DEBUG] BP: 240.
+It's not very effective...
+(The opposing Hippowdon lost 31.5% of its health!)
+
+The opposing Donphan is fast asleep.
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Pin Missile!
+A critical hit!
+(Bisharp lost 11.2% of its health!)
+A critical hit!
+(Bisharp lost 11.2% of its health!)
+(Bisharp lost 6.4% of its health!)
+A critical hit!
+(Bisharp lost 12% of its health!)
+(Bisharp lost 5.6% of its health!)
+The Pokémon was hit 5 times!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Aqua Ring!
+The opposing Golem surrounded itself with a veil of water!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Mega Drain!
+It's super effective!
+(The opposing Hippowdon lost 18.5% of its health!)
+The opposing Hippowdon had its energy drained!
+
+The opposing Hippowdon fainted!
+Escavalier used Metronome!
+
+Waggling a finger let it use Hex!
+[DEBUG] BP doubled from status condition.
+[DEBUG] BP doubled from status condition.
+(The opposing Donphan lost 28.7% of its health!)
+
+A veil of water restored the opposing Golem's HP!
+
+MTN Ground sent out Nidoqueen!
+The opposing Nidoqueen was hurt by the spikes!
+
+Turn 9
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Barrier!
+The opposing Nidoqueen's Defense rose sharply!
+
+Bisharp used Rollout!
+[DEBUG] BP: 480.
+[DEBUG] BP: 480.
+It's not very effective...
+(The opposing Nidoqueen lost 37.0% of its health!)
+
+The opposing Donphan is fast asleep.
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Magic Coat!
+The opposing Golem shrouded itself with Magic Coat!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Kinesis!
+The opposing Nidoqueen avoided the attack!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Silver Wind!
+(The opposing Golem lost 30% of its health!)
+
+A veil of water restored the opposing Golem's HP!
+
+Turn 10
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Acid Spray!
+It doesn't affect Bastiodon...
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Rock Smash!
+It's not very effective...
+(The opposing Nidoqueen lost 3.0% of its health!)
+The opposing Nidoqueen's Defense fell!
+
+The opposing Donphan is fast asleep.
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Flash!
+Bisharp's accuracy fell!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Shift Gear!
+Bastiodon's Speed rose sharply!
+Bastiodon's Attack rose!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Rock Throw!
+It's not very effective...
+(The opposing Golem lost 7.9% of its health!)
+
+A veil of water restored the opposing Golem's HP!
+
+Turn 11
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Razor Wind!
+The opposing Nidoqueen whipped up a whirlwind!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Stun Spore!
+The opposing Nidoqueen avoided the attack!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Perish Song!
+[Bastiodon's Soundproof]
+It doesn't affect Bastiodon...
+All Pokémon that heard the song will faint in three turns!
+The opposing Donphan woke up!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Bisharp had its HP restored.
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Head Smash!
+Bisharp avoided the attack!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Petal Dance!
+It's super effective!
+(The opposing Donphan lost 36% of its health!)
+
+The opposing Donphan fainted!
+
+A veil of water restored the opposing Golem's HP!
+The opposing Nidoqueen's perish count fell to 3.
+Bisharp's perish count fell to 3.
+The opposing Golem's perish count fell to 3.
+Escavalier's perish count fell to 3.
+
+MTN Ground sent out Excadrill!
+The opposing Excadrill was hurt by the spikes!
+
+Turn 12
+
+The opposing Nidoqueen used Razor Wind!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bisharp.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bastiodon.
+(Bisharp lost 11.2% of its health!)
+(Bastiodon lost 5% of its health!)
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Ember!
+(Bastiodon lost 9.2% of its health!)
+Bastiodon was burned!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Bind!
+The opposing Golem avoided the attack!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Fissure!
+The opposing Golem avoided the attack!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Tailwind!
+The Tailwind blew from behind the opposing team!
+
+Escavalier used Petal Dance!
+It's super effective!
+(The opposing Golem lost 44.3% of its health!)
+
+The opposing Golem fainted!
+Escavalier became confused due to fatigue!
+
+Bastiodon was hurt by its burn!
+The opposing Nidoqueen's perish count fell to 2.
+Bisharp's perish count fell to 2.
+Escavalier's perish count fell to 2.
+
+Turn 13
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+[Bastiodon's Soundproof]
+It doesn't affect Bastiodon...
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Baton Pass!
+But it failed!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Metal Sound!
+The opposing Nidoqueen's Sp. Def fell harshly!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Stun Spore!
+The opposing Excadrill is paralyzed! It may be unable to move!
+
+Escavalier is confused!
+Escavalier used Metronome!
+
+Waggling a finger let it use Air Slash!
+(The opposing Nidoqueen lost 34.5% of its health!)
+
+Bastiodon was hurt by its burn!
+The opposing Nidoqueen's perish count fell to 1.
+Bisharp's perish count fell to 1.
+Escavalier's perish count fell to 1.
+
+Turn 14
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Cut!
+It's not very effective...
+(Bastiodon lost 1.7% of its health!)
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Rock Climb!
+The opposing Nidoqueen avoided the attack!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Shift Gear!
+Bastiodon's Speed rose sharply!
+Bastiodon's Attack rose!
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Twineedle!
+It's not very effective...
+(Escavalier lost 3.8% of its health!)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] immune to status.
+[DEBUG] immune to status.
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+It's not very effective...
+(Escavalier lost 3.8% of its health!)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] immune to status.
+[DEBUG] immune to status.
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+The Pokémon was hit 2 times!
+
+Escavalier is confused!
+It hurt itself in its confusion!
+
+Bastiodon was hurt by its burn!
+The opposing Nidoqueen's perish count fell to 0.
+Bisharp's perish count fell to 0.
+Escavalier's perish count fell to 0.
+
+The opposing Nidoqueen fainted!
+Bisharp fainted!
+Escavalier fainted!
+
+Go! Mawile!
+
+Go! Steelix!
+Pointed stones dug into Mawile!
+Pointed stones dug into Steelix!
+
+Turn 15
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Frenzy Plant!
+(The opposing Excadrill lost 58.8% of its health!)
+
+Mawile used Metronome!
+
+Waggling a finger let it use Pluck!
+It's not very effective...
+(The opposing Excadrill lost 8.8% of its health!)
+Mawile stole and ate its target's Leppa Berry!
+Mawile restored PP to its move Metronome using its Leppa Berry!
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Double-Edge!
+It's not very effective...
+(Steelix lost 12.6% of its health!)
+The opposing Excadrill was damaged by the recoil!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Ally Switch!
+Steelix and Mawile switched places!
+
+Bastiodon was hurt by its burn!
+The opposing team's Tailwind petered out!
+
+Turn 16
+
+Bastiodon must recharge!
+
+Mawile used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+[DEBUG] BP doubled on paralyzed target.
+[DEBUG] BP doubled on paralyzed target.
+It's not very effective...
+(The opposing Excadrill lost 16.5% of its health!)
+
+The opposing Excadrill fainted!
+
+MTN Steel won the battle!

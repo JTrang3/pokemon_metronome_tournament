@@ -1,0 +1,489 @@
+☆MTN Steel and ☆MTN Flying joined
+Format: [Gen 5] Triples Custom Game
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+MTN Flying's team:
+Scyther / Skarmory / Pelipper / Honchkrow / Braviary / Dragonite
+
+Battle started between MTN Steel and MTN Flying!
+
+Go! Steelix!
+
+Go! Bastiodon!
+
+Go! Metagross!
+
+MTN Flying sent out Pelipper!
+
+MTN Flying sent out Skarmory!
+
+MTN Flying sent out Dragonite!
+
+Turn 1
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Double Team!
+The opposing Dragonite's evasiveness rose!
+
+The opposing Skarmory used Metronome!
+
+Waggling a finger let it use Glaciate!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bastiodon.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Metagross.
+(Steelix lost 11.1% of its health!)
+(Bastiodon lost 4.2% of its health!)
+(Metagross lost 4.3% of its health!)
+Steelix's Speed fell!
+Bastiodon's Speed fell!
+Metagross's Speed fell!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Eruption!
+[DEBUG] BP: 143.57142857142858.
+[DEBUG] BP: 143.57142857142858.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Pelipper.
+[DEBUG] BP: 143.57142857142858.
+[DEBUG] BP: 143.57142857142858.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Skarmory!
+(The opposing Pelipper lost 22.5% of its health!)
+(The opposing Skarmory lost 84.8% of its health!)
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Wish!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Fire Spin!
+It's super effective!
+A critical hit!
+(The opposing Skarmory lost 15.2% of its health!)
+
+The opposing Skarmory fainted!
+Steelix used Metronome!
+
+Waggling a finger let it use Skull Bash!
+Steelix tucked in its head!
+Steelix's Defense rose!
+
+MTN Flying sent out Braviary!
+
+Turn 2
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Trump Card!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+It's not very effective...
+(Steelix lost 8.9% of its health!)
+
+The opposing Braviary used Metronome!
+
+Waggling a finger let it use Sharpen!
+The opposing Braviary's Attack rose!
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Block!
+Metagross can no longer escape!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Hurricane!
+(The opposing Braviary lost 46.9% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Sludge!
+(The opposing Pelipper lost 19.2% of its health!)
+The opposing Pelipper was poisoned!
+
+Steelix used Skull Bash!
+The opposing Dragonite avoided the attack!
+
+Pelipper's wish came true!
+The opposing Pelipper was hurt by poison!
+
+Turn 3
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Thrash!
+It's not very effective...
+(Bastiodon lost 8.3% of its health!)
+
+The opposing Braviary used Metronome!
+
+Waggling a finger let it use Double Slap!
+It's not very effective...
+(Steelix lost 2.2% of its health!)
+It's not very effective...
+(Steelix lost 2.2% of its health!)
+It's not very effective...
+(Steelix lost 3.0% of its health!)
+It's not very effective...
+(Steelix lost 2.2% of its health!)
+The Pokémon was hit 4 times!
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Water Pulse!
+It's super effective!
+(Bastiodon lost 45% of its health!)
+Bastiodon became confused!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Swords Dance!
+Metagross's Attack rose sharply!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Fire Pledge!
+(The opposing Braviary lost 13.1% of its health!)
+
+Bastiodon is confused!
+It hurt itself in its confusion!
+
+The opposing Pelipper was hurt by poison!
+
+Turn 4
+
+The opposing Dragonite used Thrash!
+It's not very effective...
+(Bastiodon lost 10% of its health!)
+
+The opposing Braviary used Metronome!
+
+Waggling a finger let it use Lunar Dance!
+
+The opposing Braviary fainted!
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Flame Wheel!
+(Bastiodon lost 10% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Double Hit!
+(The opposing Pelipper lost 30.8% of its health!)
+(The opposing Pelipper lost 34.2% of its health!)
+The Pokémon was hit 2 times!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Yawn!
+The opposing Dragonite grew drowsy!
+
+Bastiodon is confused!
+Bastiodon used Metronome!
+
+Waggling a finger let it use Slash!
+A critical hit!
+(The opposing Pelipper lost 10% of its health!)
+
+The opposing Pelipper fainted!
+
+MTN Flying sent out Scyther!
+
+MTN Flying sent out Honchkrow!
+The opposing Scyther became cloaked in mystical moonlight!
+
+Turn 5
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Charge Beam!
+[DEBUG] Base Power: 50.
+[DEBUG] Base Power: 50.
+[DEBUG] Technician boost.
+[DEBUG] Technician boost.
+(Metagross lost 15.7% of its health!)
+The opposing Scyther's Sp. Atk rose!
+
+The opposing Dragonite used Thrash!
+It's not very effective...
+(Steelix lost 9.6% of its health!)
+The opposing Dragonite became confused due to fatigue!
+
+The opposing Honchkrow used Metronome!
+
+Waggling a finger let it use Acid Spray!
+It doesn't affect Metagross...
+
+Metagross used Metronome!
+
+Waggling a finger let it use Triple Kick!
+It's not very effective...
+(The opposing Scyther lost 1.5% of its health!)
+It's not very effective...
+(The opposing Scyther lost 3.8% of its health!)
+It's not very effective...
+(The opposing Scyther lost 5.4% of its health!)
+The Pokémon was hit 3 times!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+It's super effective!
+[DEBUG] Multiscale weaken.
+[DEBUG] Multiscale weaken.
+(The opposing Dragonite lost 9.6% of its health!)
+Bastiodon snapped out of its confusion!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Rock Smash!
+The opposing Dragonite avoided the attack!
+
+The opposing Dragonite fell asleep!
+
+Turn 6
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Ice Beam!
+[DEBUG] Base Power: 95.
+[DEBUG] Base Power: 95.
+It's not very effective...
+(Bastiodon lost 15% of its health!)
+
+Bastiodon fainted!
+The opposing Dragonite is fast asleep.
+
+The opposing Honchkrow used Metronome!
+
+Waggling a finger let it use Hydro Pump!
+(Metagross lost 34.3% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Thunder Wave!
+The opposing Scyther is paralyzed! It may be unable to move!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Growl!
+The opposing Scyther's Attack fell!
+The opposing Dragonite's Attack fell!
+
+Go! Escavalier!
+
+Turn 7
+
+The opposing Dragonite woke up!
+
+The opposing Dragonite is confused!
+It hurt itself in its confusion!
+
+The opposing Honchkrow used Metronome!
+
+Waggling a finger let it use Power Gem!
+(Escavalier lost 24.6% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Pursuit!
+It's not very effective...
+(The opposing Honchkrow lost 16.3% of its health!)
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Ice Shard!
+[DEBUG] Base Power: 40.
+[DEBUG] Base Power: 40.
+[DEBUG] Technician boost.
+[DEBUG] Technician boost.
+It's not very effective...
+(Escavalier lost 5.4% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Dark Pulse!
+(The opposing Scyther lost 27.7% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Return!
+(The opposing Scyther lost 16.2% of its health!)
+
+Turn 8
+
+The opposing Dragonite snapped out of its confusion!
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Hurricane!
+It's not very effective...
+(Steelix lost 36.3% of its health!)
+Steelix became confused!
+
+The opposing Honchkrow used Metronome!
+
+Waggling a finger let it use Bug Bite!
+It's not very effective...
+(Escavalier lost 9.2% of its health!)
+The opposing Honchkrow stole and ate its target's Leppa Berry!
+The opposing Honchkrow restored PP to its move Metronome using its Leppa Berry!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Fusion Bolt!
+It's super effective!
+(The opposing Honchkrow lost 83.8% of its health!)
+
+The opposing Honchkrow fainted!
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Psybeam!
+[DEBUG] Base Power: 65.
+[DEBUG] Base Power: 65.
+It's not very effective...
+(Steelix lost 11.9% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Magnet Rise!
+Escavalier levitated with electromagnetism!
+
+Steelix is confused!
+It hurt itself in its confusion!
+
+Turn 9
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Hail!
+It started to hail!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Ember!
+It's super effective!
+(The opposing Scyther lost 33.8% of its health!)
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Rapid Spin!
+[DEBUG] Base Power: 20.
+[DEBUG] Base Power: 20.
+[DEBUG] Technician boost.
+[DEBUG] Technician boost.
+It's not very effective...
+(Metagross lost 2.9% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Flame Burst!
+It's super effective!
+(The opposing Scyther lost 11.5% of its health!)
+The bursting flame hit the opposing Dragonite!
+
+The opposing Scyther fainted!
+Steelix is confused!
+It hurt itself in its confusion!
+
+(The hail is crashing down.)
+The opposing Dragonite is buffeted by the hail!
+Metagross is buffeted by the hail!
+Escavalier is buffeted by the hail!
+Steelix is buffeted by the hail!
+
+Steelix fainted!
+
+Go! Mawile!
+
+Turn 10
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+(Escavalier lost 13.1% of its health!)
+Escavalier's Speed fell!
+
+Mawile used Metronome!
+
+Waggling a finger let it use Storm Throw!
+It's not very effective...
+A critical hit!
+(The opposing Dragonite lost 8.4% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Flamethrower!
+But it failed!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Entrainment!
+[The opposing Dragonite's Multiscale]
+[The opposing Dragonite's Shell Armor]
+The opposing Dragonite acquired Shell Armor!
+
+(The hail is crashing down.)
+The opposing Dragonite is buffeted by the hail!
+Mawile is buffeted by the hail!
+Metagross is buffeted by the hail!
+Escavalier is buffeted by the hail!
+
+Turn 11
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Dream Eater!
+It doesn't affect Mawile...
+
+Mawile used Metronome!
+
+Waggling a finger let it use Defense Curl!
+Mawile's Defense rose!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Defense Curl!
+Metagross's Defense rose!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Lunar Dance!
+
+Escavalier fainted!
+
+(The hail is crashing down.)
+The opposing Dragonite is buffeted by the hail!
+Mawile is buffeted by the hail!
+Metagross is buffeted by the hail!
+
+Go! Bisharp!
+Bisharp became cloaked in mystical moonlight!
+
+Turn 12
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+Mawile was identified!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Draco Meteor!
+It's super effective!
+(The opposing Dragonite lost 50% of its health!)
+Bisharp's Sp. Atk fell harshly!
+
+The opposing Dragonite fainted!
+
+MTN Steel won the battle!

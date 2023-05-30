@@ -1,0 +1,698 @@
+☆MTN Steel and ☆MTN Ice joined
+Format: [Gen 5] Triples Custom Game
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+MTN Ice's team:
+Jynx / Piloswine / Walrein / Weavile / Beartic / Abomasnow
+
+Battle started between MTN Steel and MTN Ice!
+
+Go! Steelix!
+
+Go! Bastiodon!
+
+Go! Metagross!
+
+MTN Ice sent out Walrein!
+
+MTN Ice sent out Piloswine!
+
+MTN Ice sent out Abomasnow!
+[The opposing Abomasnow's Snow Warning]
+It started to hail!
+
+Turn 1
+
+The opposing Abomasnow used Metronome!
+
+Waggling a finger let it use Coil!
+The opposing Abomasnow's Attack rose!
+The opposing Abomasnow's Defense rose!
+The opposing Abomasnow's accuracy rose!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Body Slam!
+(The opposing Piloswine lost 34.4% of its health!)
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Energy Ball!
+(Bastiodon lost 19.2% of its health!)
+
+The opposing Piloswine used Metronome!
+
+Waggling a finger let it use Struggle Bug!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Steelix.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bastiodon.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Steelix lost 3.0% of its health!)
+(Bastiodon lost 2.5% of its health!)
+(Metagross lost 5% of its health!)
+Steelix's Sp. Atk fell!
+Bastiodon's Sp. Atk fell!
+Metagross's Sp. Atk fell!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Bind!
+(The opposing Abomasnow lost 2.4% of its health!)
+The opposing Abomasnow was squeezed by Steelix!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Gunk Shot!
+It's super effective!
+(The opposing Abomasnow lost 29.1% of its health!)
+
+(The hail is crashing down.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Metagross is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Steelix is buffeted by the hail!
+Bastiodon is buffeted by the hail!
+The opposing Abomasnow is hurt by Bind!
+
+Turn 2
+
+The opposing Abomasnow used Metronome!
+
+Waggling a finger let it use Leech Life!
+It's not very effective...
+(Steelix lost 3.0% of its health!)
+Steelix had its energy drained!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+(The opposing Piloswine lost 7.5% of its health!)
+(The opposing Piloswine lost 6.9% of its health!)
+(The opposing Piloswine lost 6.9% of its health!)
+The Pokémon was hit 3 times!
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Psycho Cut!
+It's not very effective...
+A critical hit!
+(Metagross lost 8.6% of its health!)
+
+The opposing Piloswine used Metronome!
+
+Waggling a finger let it use Brine!
+It's super effective!
+(Steelix lost 35.6% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Entrainment!
+[The opposing Abomasnow's Snow Warning]
+[The opposing Abomasnow's Soundproof]
+The opposing Abomasnow acquired Soundproof!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Splash!
+But nothing happened!
+
+(The hail is crashing down.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Metagross is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Steelix is buffeted by the hail!
+Bastiodon is buffeted by the hail!
+The opposing Abomasnow is hurt by Bind!
+
+Turn 3
+
+The opposing Abomasnow used Metronome!
+
+Waggling a finger let it use Knock Off!
+It's not very effective...
+(Steelix lost 2.2% of its health!)
+The opposing Abomasnow knocked off Steelix's Leppa Berry!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Glare!
+The opposing Walrein is paralyzed! It may be unable to move!
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Thunder Punch!
+(Metagross lost 17.9% of its health!)
+
+The opposing Piloswine used Metronome!
+
+Waggling a finger let it use Wood Hammer!
+(Steelix lost 20.7% of its health!)
+The opposing Piloswine was damaged by the recoil!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Mega Drain!
+It's super effective!
+(The opposing Walrein lost 9.4% of its health!)
+The opposing Walrein had its energy drained!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Self-Destruct!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Bastiodon.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Bastiodon lost 5.8% of its health!)
+(The opposing Piloswine lost 37.5% of its health!)
+(The opposing Abomasnow lost 19.4% of its health!)
+
+Steelix fainted!
+
+(The hail is crashing down.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Metagross is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Bastiodon is buffeted by the hail!
+[The opposing Walrein's Ice Body]
+The opposing Walrein had its HP restored.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Go! Escavalier!
+
+Turn 4
+
+The opposing Abomasnow used Metronome!
+
+Waggling a finger let it use Sheer Cold!
+Escavalier avoided the attack!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Entrainment!
+[The opposing Piloswine's Thick Fat]
+[The opposing Piloswine's Light Metal]
+The opposing Piloswine acquired Light Metal!
+
+The opposing Piloswine used Metronome!
+
+Waggling a finger let it use Trump Card!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+It's not very effective...
+(Escavalier lost 5.4% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Belly Drum!
+(Bastiodon lost 50% of its health!)
+Bastiodon cut its own HP and maximized its Attack!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Ancient Power!
+It's super effective!
+(The opposing Abomasnow lost 26.7% of its health!)
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Withdraw!
+The opposing Walrein's Defense rose!
+
+(The hail is crashing down.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Metagross is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Bastiodon is buffeted by the hail!
+Escavalier is buffeted by the hail!
+[The opposing Walrein's Ice Body]
+The opposing Walrein had its HP restored.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 5
+
+The opposing Abomasnow used Metronome!
+
+Waggling a finger let it use Reflect Type!
+The opposing Abomasnow's type became the same as Bastiodon's type!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Mean Look!
+The opposing Piloswine can no longer escape!
+
+The opposing Piloswine used Metronome!
+
+Waggling a finger let it use Sludge!
+It doesn't affect Metagross...
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Vacuum Wave!
+It's super effective!
+(The opposing Piloswine lost 1.3% of its health!)
+
+The opposing Piloswine fainted!
+Escavalier used Metronome!
+
+Waggling a finger let it use Acid!
+It doesn't affect the opposing Abomasnow...
+
+The opposing Walrein is paralyzed! It can't move!
+
+(The hail is crashing down.)
+The opposing Abomasnow is buffeted by the hail!
+Metagross is buffeted by the hail!
+Bastiodon is buffeted by the hail!
+Escavalier is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Bastiodon fainted!
+
+MTN Ice sent out Beartic!
+
+Go! Bisharp!
+
+Turn 6
+
+The opposing Abomasnow used Metronome!
+
+Waggling a finger let it use Heart Stamp!
+It's not very effective...
+(Escavalier lost 11.5% of its health!)
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Toxic!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+Metagross used Metronome!
+
+Waggling a finger let it use Attract!
+It doesn't affect the opposing Beartic...
+
+The opposing Beartic used Metronome!
+
+Waggling a finger let it use Retaliate!
+[DEBUG] Boosted for a faint last turn.
+[DEBUG] Boosted for a faint last turn.
+It's not very effective...
+(Escavalier lost 18.5% of its health!)
+
+Escavalier flinched and couldn't move!
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Smack Down!
+It's not very effective...
+(Metagross lost 5.7% of its health!)
+
+(The hail is crashing down.)
+The opposing Abomasnow is buffeted by the hail!
+Metagross is buffeted by the hail!
+Bisharp is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Escavalier is buffeted by the hail!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+The opposing Abomasnow fainted!
+
+MTN Ice sent out Jynx!
+
+Turn 7
+
+The opposing Jynx used Metronome!
+
+Waggling a finger let it use Sandstorm!
+A sandstorm kicked up!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Tackle!
+(The opposing Walrein lost 10.6% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Needle Arm!
+(The opposing Beartic lost 20% of its health!)
+
+The opposing Beartic used Metronome!
+
+Waggling a finger let it use Seed Bomb!
+It's not very effective...
+(Bisharp lost 13.6% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Chip Away!
+[DEBUG] Negating (sp)def boost/penalty..
+[DEBUG] Negating (sp)def boost/penalty..
+(The opposing Jynx lost 43.2% of its health!)
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Overheat!
+It's super effective!
+(Metagross lost 28.6% of its health!)
+The opposing Walrein's Sp. Atk fell harshly!
+
+Metagross fainted!
+
+(The sandstorm is raging.)
+The opposing Jynx is buffeted by the sandstorm!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Beartic is buffeted by the sandstorm!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Walrein is buffeted by the sandstorm!
+
+Go! Mawile!
+
+Turn 8
+
+The opposing Jynx used Metronome!
+
+Waggling a finger let it use Last Resort!
+But it failed!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Supersonic!
+The opposing Walrein avoided the attack!
+
+Mawile used Metronome!
+
+Waggling a finger let it use Toxic!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Beartic used Metronome!
+
+Waggling a finger let it use Memento!
+[Mawile's Hyper Cutter]
+Mawile's Attack was not lowered!
+Mawile's Sp. Atk fell harshly!
+
+The opposing Beartic fainted!
+Escavalier used Metronome!
+
+Waggling a finger let it use Aromatherapy!
+A soothing aroma wafted through the area!
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Dragon Claw!
+It's not very effective...
+(Mawile lost 15.2% of its health!)
+
+(The sandstorm is raging.)
+The opposing Jynx is buffeted by the sandstorm!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Walrein is buffeted by the sandstorm!
+
+MTN Ice sent out Weavile!
+[The opposing Weavile's Pressure]
+The opposing Weavile is exerting its pressure!
+
+Turn 9
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Jump Kick!
+It's super effective!
+(Mawile lost 76.8% of its health!)
+
+The opposing Jynx used Metronome!
+
+Waggling a finger let it use Power Swap!
+The opposing Jynx switched all changes to its Attack and Sp. Atk with its target!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Tail Slap!
+A critical hit!
+(The opposing Jynx lost 32% of its health!)
+(The opposing Jynx lost 13.6% of its health!)
+
+The opposing Jynx fainted!
+The Pokémon was hit 2 times!
+
+Mawile used Metronome!
+
+Waggling a finger let it use Tri Attack!
+(The opposing Walrein lost 8.8% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Mist!
+Your team became shrouded in mist!
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Fake Out!
+(Fake Out only works on your first turn out.)
+But it failed!
+
+(The sandstorm is raging.)
+The opposing Weavile is buffeted by the sandstorm!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Walrein is buffeted by the sandstorm!
+
+Turn 10
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Rock Polish!
+The opposing Weavile's Speed rose sharply!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Chip Away!
+[DEBUG] Negating (sp)def boost/penalty..
+[DEBUG] Negating (sp)def boost/penalty..
+(The opposing Walrein lost 20.6% of its health!)
+
+Mawile used Metronome!
+
+Waggling a finger let it use Work Up!
+Mawile's Attack rose!
+Mawile's Sp. Atk rose!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Sand Tomb!
+(The opposing Weavile lost 14.6% of its health!)
+The opposing Weavile became trapped by the quicksand!
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Ice Shard!
+It's not very effective...
+(Bisharp lost 12% of its health!)
+
+(The sandstorm is raging.)
+The opposing Weavile is buffeted by the sandstorm!
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Walrein is buffeted by the sandstorm!
+The opposing Weavile is hurt by Sand Tomb!
+
+Turn 11
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Acid Armor!
+The opposing Weavile's Defense rose sharply!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Iron Head!
+(The opposing Walrein lost 26.5% of its health!)
+
+Mawile used Metronome!
+
+Waggling a finger let it use Tailwind!
+The Tailwind blew from behind your team!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+[DEBUG] Negating (sp)def boost/penalty..
+[DEBUG] Negating (sp)def boost/penalty..
+It's not very effective...
+A critical hit!
+(The opposing Weavile lost 27.7% of its health!)
+
+The opposing Walrein flinched and couldn't move!
+
+The sandstorm subsided.
+The opposing Weavile is hurt by Sand Tomb!
+
+Turn 12
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+Bisharp fell asleep!
+
+Bisharp is fast asleep.
+
+Mawile used Metronome!
+
+Waggling a finger let it use Milk Drink!
+Mawile had its HP restored.
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+(The opposing Weavile lost 16.9% of its health!)
+
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Power Split!
+The opposing Walrein shared its power with the target!
+
+The opposing Weavile is hurt by Sand Tomb!
+
+Turn 13
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[Mawile's Hyper Cutter]
+[Mawile's Simple]
+Mawile acquired Simple!
+
+Bisharp is fast asleep.
+
+Mawile used Metronome!
+
+Waggling a finger let it use Dragon Dance!
+Mawile's Attack rose sharply!
+Mawile's Speed rose sharply!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Bubble Beam!
+(The opposing Weavile lost 10% of its health!)
+
+The opposing Weavile fainted!
+The opposing Walrein used Metronome!
+
+Waggling a finger let it use Aromatherapy!
+A soothing aroma wafted through the area!
+The opposing Walrein was cured of paralysis!
+
+Your team is no longer protected by mist!
+
+Turn 14
+
+Mawile used Metronome!
+
+Waggling a finger let it use Glare!
+The opposing Walrein is paralyzed! It may be unable to move!
+Bisharp woke up!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Fusion Bolt!
+It's super effective!
+(The opposing Walrein lost 10% of its health!)
+
+The opposing Walrein fainted!
+
+MTN Steel won the battle!

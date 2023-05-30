@@ -1,0 +1,35 @@
+# To-Do List:
+# 1) Parse team names from usernames & get rosters - DONE
+# 2) Collect all moves used by Metronome from battle logs to database - DONE
+# 3) Connect moves with corresponding type, power, accuracy, etc. - DONE
+#   3.1) Add check if move's stats is already recorded in database - DONE
+#   3.2) Add check for valid moves - DONE
+# 4) Compile battle stats (defeats, faints, damage, etc.) from battle logs to database - DONE
+#   4.1) Record pokemon's "defeats" stat - DONE
+#   4.2) Record pokemon's "faints" stat - DONE
+#   4.3) Record pokemon's "damage_given" stat - DONE
+#   4.4) Record pokemon's "damage_taken" stat - DONE
+# 5) Compile team stats (win, lose, match history) from battle logs to databse - DONE
+#   5.1) Record team's roster - DONE
+#   5.2) Record team's win/lose record - DONE
+#   5.3) Record team's match history - DONE
+# 6) Go back to match_data() and improve edge cases - DONE
+#   6.1) Revise logic regarding Future Sight/Doom Desire attacks - DONE
+#   6.2) Add case for faints from hazard damage (Spikes, Stealth Rock) - DONE
+#   6.3) Add case for faints from Leech Seed - DONE
+#   6.4) Add case for faints from weather (Hail, Sandstorm) - DONE
+#   6.5) Add case for faints from Destiny Bond - DONE
+#   6.6) Add case for faints from abilities (Rough Skin, Liquid Ooze, Aftermath) - DONE
+#   6.7) Add case for faints from Nightmare - DONE
+#   6.8) Add case for faints from Curse - DONE
+#   6.9) Add case for faints from binding moves - DONE
+# 7) Go back to match_data() and restructure scoreboard for edge cases - DONE
+#   7.1) Revise logic to add "defeats" scores for the following cases:
+#       Status - DONE
+#       Leech Seed - DONE
+#       Weather - DONE
+#       Hazards - DONE
+#       Nightmare - DONE
+#       Curse - DONE
+# 8) Convert .html files to .txt files
+# 9) Choose which files to extract data from

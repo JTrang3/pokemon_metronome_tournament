@@ -1,0 +1,401 @@
+☆MTN Flying and ☆MTN Fire joined
+Format: [Gen 5] Triples Custom Game
+MTN Flying's team:
+Scyther / Skarmory / Pelipper / Honchkrow / Braviary / Dragonite
+MTN Fire's team:
+Magmar / Magcargo / Camerupt / Rotom-Heat / Chandelure / Arcanine
+
+Battle started between MTN Flying and MTN Fire!
+
+Go! Scyther!
+
+Go! Pelipper!
+
+Go! Skarmory!
+
+MTN Fire sent out Magmar!
+
+MTN Fire sent out Rotom (Rotom-Heat)!
+
+MTN Fire sent out Chandelure!
+
+Turn 1
+
+Scyther used Metronome!
+
+Waggling a finger let it use Blaze Kick!
+[The opposing Chandelure's Flash Fire]
+The power of the opposing Chandelure's Fire-type moves rose!
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Lava Plume!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Rotom.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Pelipper.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on Skarmory!
+(The opposing Rotom lost 12.8% of its health!)
+(Pelipper lost 15% of its health!)
+(Skarmory lost 64% of its health!)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] immune to status.
+[DEBUG] immune to status.
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+Skarmory was burned!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Water Gun!
+(Scyther lost 14.6% of its health!)
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Splash!
+But nothing happened!
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Thunder Fang!
+It's not very effective...
+(The opposing Rotom lost 3.5% of its health!)
+
+Pelipper used Metronome!
+
+Waggling a finger let it use Magnet Rise!
+Pelipper levitated with electromagnetism!
+
+Skarmory was hurt by its burn!
+
+Turn 2
+
+Scyther used Metronome!
+
+Waggling a finger let it use Facade!
+It doesn't affect the opposing Chandelure...
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Pin Missile!
+Skarmory avoided the attack!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Night Daze!
+It's not very effective...
+(Skarmory lost 15.2% of its health!)
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Psystrike!
+(Pelipper lost 51.7% of its health!)
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Bubble!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Magmar!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Rotom!
+(The opposing Magmar lost 8% of its health!)
+(The opposing Rotom lost 7.1% of its health!)
+
+Pelipper used Metronome!
+
+Waggling a finger let it use Howl!
+Pelipper's Attack rose!
+
+Skarmory was hurt by its burn!
+
+Skarmory fainted!
+
+Go! Dragonite!
+
+Turn 3
+
+Scyther used Metronome!
+
+Waggling a finger let it use Feint Attack!
+[DEBUG] Base Power: 60.
+[DEBUG] Base Power: 60.
+[DEBUG] Technician boost.
+[DEBUG] Technician boost.
+(The opposing Rotom lost 29.8% of its health!)
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Sacred Sword!
+[DEBUG] Negating (sp)def boost/penalty..
+[DEBUG] Negating (sp)def boost/penalty..
+(The opposing Rotom lost 35.5% of its health!)
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Substitute!
+The opposing Magmar put in a substitute!
+(The opposing Magmar lost 24.8% of its health!)
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Steel Wing!
+It's not very effective...
+(Pelipper lost 12.5% of its health!)
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Dive!
+The opposing Chandelure hid underwater!
+
+Pelipper used Metronome!
+
+Waggling a finger let it use Scald!
+It's super effective!
+(The opposing Rotom lost 11.3% of its health!)
+
+The opposing Rotom fainted!
+
+MTN Fire sent out Camerupt!
+
+Turn 4
+
+Scyther used Metronome!
+
+Waggling a finger let it use Lovely Kiss!
+The opposing Chandelure avoided the attack!
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Hex!
+(The opposing Camerupt lost 21.5% of its health!)
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Ominous Wind!
+(Pelipper lost 20.8% of its health!)
+
+Pelipper fainted!
+The opposing Chandelure used Dive!
+(Scyther lost 21.5% of its health!)
+
+The opposing Camerupt used Metronome!
+
+Waggling a finger let it use Acid!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Multiscale weaken.
+[DEBUG] Multiscale weaken.
+(Scyther lost 11.5% of its health!)
+(Dragonite lost 3.0% of its health!)
+
+Go! Honchkrow!
+
+Turn 5
+
+Scyther used Metronome!
+
+Waggling a finger let it use Metal Sound!
+The opposing Chandelure avoided the attack!
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Tail Slap!
+The opposing Camerupt avoided the attack!
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Psych Up!
+The opposing Magmar copied Honchkrow's stat changes!
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Bolt Strike!
+It's super effective!
+(Scyther lost 52.3% of its health!)
+
+Scyther fainted!
+Honchkrow used Metronome!
+
+Waggling a finger let it use Imprison!
+Honchkrow sealed any moves its target shares with it!
+
+The opposing Camerupt can't use its sealed Metronome!
+
+Go! Braviary!
+
+Turn 6
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Skull Bash!
+Dragonite tucked in its head!
+Dragonite's Defense rose!
+The opposing Magmar has no moves left!
+
+The opposing Magmar used Struggle!
+(Dragonite lost 6.0% of its health!)
+The opposing Magmar was damaged by the recoil!
+
+Braviary used Metronome!
+
+Waggling a finger let it use Rock Throw!
+It's super effective!
+(The opposing Chandelure lost 45% of its health!)
+The opposing Chandelure has no moves left!
+
+The opposing Chandelure used Struggle!
+(Honchkrow lost 12.5% of its health!)
+The opposing Chandelure was damaged by the recoil!
+
+Honchkrow used Metronome!
+
+Waggling a finger let it use Recover!
+Honchkrow had its HP restored.
+The opposing Camerupt has no moves left!
+
+The opposing Camerupt used Struggle!
+(Dragonite lost 6.6% of its health!)
+The opposing Camerupt was damaged by the recoil!
+
+Turn 7
+
+Dragonite used Skull Bash!
+The opposing Magmar's substitute faded!
+The opposing Magmar has no moves left!
+
+The opposing Magmar used Struggle!
+(Dragonite lost 6.0% of its health!)
+The opposing Magmar was damaged by the recoil!
+
+Braviary used Metronome!
+
+Waggling a finger let it use Razor Wind!
+Braviary whipped up a whirlwind!
+The opposing Chandelure has no moves left!
+
+The opposing Chandelure used Struggle!
+(Braviary lost 10.6% of its health!)
+The opposing Chandelure was damaged by the recoil!
+
+Honchkrow used Metronome!
+
+Waggling a finger let it use Leaf Blade!
+(The opposing Camerupt lost 33.1% of its health!)
+The opposing Camerupt has no moves left!
+
+The opposing Camerupt used Struggle!
+(Dragonite lost 6.0% of its health!)
+The opposing Camerupt was damaged by the recoil!
+
+The opposing Camerupt fainted!
+
+MTN Fire sent out Arcanine!
+
+Turn 8
+
+The opposing Arcanine has no moves left!
+
+The opposing Arcanine used Struggle!
+(Braviary lost 16.9% of its health!)
+The opposing Arcanine was damaged by the recoil!
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Self-Destruct!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Honchkrow lost 69.4% of its health!)
+(The opposing Magmar lost 17.6% of its health!)
+(The opposing Arcanine lost 47.3% of its health!)
+
+Dragonite fainted!
+The opposing Magmar fainted!
+Braviary used Razor Wind!
+It doesn't affect the opposing Chandelure...
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(The opposing Arcanine lost 14.5% of its health!)
+The opposing Chandelure has no moves left!
+
+The opposing Chandelure used Struggle!
+(Braviary lost 11.9% of its health!)
+The opposing Chandelure was damaged by the recoil!
+
+The opposing Chandelure fainted!
+Honchkrow used Metronome!
+
+Waggling a finger let it use Pain Split!
+The battlers shared their pain!
+
+MTN Fire sent out Magcargo!
+
+Turn 9
+
+The opposing Arcanine has no moves left!
+
+The opposing Arcanine used Struggle!
+(Braviary lost 17.5% of its health!)
+The opposing Arcanine was damaged by the recoil!
+
+The opposing Arcanine fainted!
+Braviary used Metronome!
+
+Waggling a finger let it use U-turn!
+But it failed!
+
+Honchkrow used Metronome!
+
+Waggling a finger let it use Power Whip!
+(The opposing Magcargo lost 47.3% of its health!)
+The opposing Magcargo has no moves left!
+
+The opposing Magcargo used Struggle!
+(Honchkrow lost 14.4% of its health!)
+The opposing Magcargo was damaged by the recoil!
+
+Turn 10
+
+Braviary used Metronome!
+
+Waggling a finger let it use Teeter Dance!
+Honchkrow became confused!
+
+Honchkrow is confused!
+Honchkrow used Metronome!
+
+Waggling a finger let it use Toxic Spikes!
+Poison spikes were scattered on the ground all around the opposing team!
+The opposing Magcargo has no moves left!
+
+The opposing Magcargo used Struggle!
+(Honchkrow lost 7.5% of its health!)
+
+Honchkrow fainted!
+The opposing Magcargo was damaged by the recoil!
+
+Automatic center!
+
+Turn 11
+
+Braviary used Metronome!
+
+Waggling a finger let it use Peck!
+It's not very effective...
+(The opposing Magcargo lost 1.8% of its health!)
+
+The opposing Magcargo fainted!
+
+MTN Flying won the battle!

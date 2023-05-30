@@ -1,0 +1,1016 @@
+☆MTN Steel and ☆MTN Ground joined
+Format: [Gen 5] Triples Custom Game
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+MTN Ground's team:
+Golem / Donphan / Flygon / Hippowdon / Excadrill / Nidoqueen
+
+Battle started between MTN Steel and MTN Ground!
+
+Go! Steelix!
+
+Go! Bastiodon!
+
+Go! Metagross!
+
+MTN Ground sent out Hippowdon!
+
+MTN Ground sent out Flygon!
+
+MTN Ground sent out Donphan!
+[The opposing Hippowdon's Sand Stream]
+A sandstorm kicked up!
+
+Turn 1
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Bounce!
+The opposing Flygon sprang up!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Mean Look!
+The opposing Flygon avoided the attack!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Lick!
+It's not very effective...
+A critical hit!
+(Bastiodon lost 5.8% of its health!)
+Bastiodon is paralyzed! It may be unable to move!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Steelix's HP is full!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+Steelix used Metronome!
+
+Waggling a finger let it use Rock Polish!
+Steelix's Speed rose sharply!
+
+Bastiodon is paralyzed! It can't move!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 2
+
+The opposing Flygon used Bounce!
+It's not very effective...
+A critical hit!
+(Bastiodon lost 9.2% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Flare Blitz!
+(The opposing Hippowdon lost 35.1% of its health!)
+Metagross was damaged by the recoil!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Inferno!
+The opposing Flygon avoided the attack!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Taunt!
+Steelix fell for the taunt!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Revenge!
+[DEBUG] BP doubled for getting hit by p1c: Metagross.
+[DEBUG] BP doubled for getting hit by p1c: Metagross.
+(Metagross lost 30.7% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Psywave!
+(The opposing Flygon lost 31.4% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 3
+
+Steelix, come back!
+Go! Escavalier!
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Synthesis!
+The opposing Flygon had its HP restored.
+
+Metagross used Metronome!
+
+Waggling a finger let it use Earth Power!
+(The opposing Hippowdon lost 25.6% of its health!)
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Focus Energy!
+The opposing Donphan is getting pumped!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Kinesis!
+Bastiodon's accuracy fell!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Sand Tomb!
+The opposing Donphan avoided the attack!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 4
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Bone Rush!
+(Escavalier lost 10% of its health!)
+(Escavalier lost 9.2% of its health!)
+The Pokémon was hit 2 times!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Electro Ball!
+It doesn't affect the opposing Hippowdon...
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Astonish!
+It's not very effective...
+(Bastiodon lost 4.2% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+It's not very effective...
+(Bastiodon lost 8.3% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Ice Ball!
+The opposing Donphan avoided the attack!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Dragon Dance!
+Bastiodon's Attack rose!
+Bastiodon's Speed rose!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 5
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Acid!
+It doesn't affect Escavalier...
+It doesn't affect Bastiodon...
+It doesn't affect Metagross...
+
+Metagross used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+The opposing Flygon was identified!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+It's not very effective...
+(Escavalier lost 13.1% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Bug Bite!
+(Metagross lost 15% of its health!)
+The opposing Hippowdon stole and ate its target's Leppa Berry!
+The opposing Hippowdon restored PP to its move Metronome using its Leppa Berry!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Flame Burst!
+It's not very effective...
+(The opposing Flygon lost 12.1% of its health!)
+The bursting flame hit the opposing Hippowdon!
+The bursting flame hit the opposing Donphan!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Metal Burst!
+But it failed!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 6
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Magma Storm!
+It's super effective!
+(Metagross lost 40.7% of its health!)
+
+Metagross fainted!
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Kinesis!
+Bastiodon's accuracy fell!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Circle Throw!
+It's super effective!
+(Bastiodon lost 56.7% of its health!)
+
+Steelix was dragged out!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Heavy Slam!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+(The opposing Donphan lost 20% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Go! Bisharp!
+
+Turn 7
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Moonlight!
+The opposing Flygon had its HP restored.
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Double Hit!
+(The opposing Flygon lost 12.9% of its health!)
+(The opposing Flygon lost 12.9% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Rock Climb!
+It's not very effective...
+(Escavalier lost 13.1% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Leaf Tornado!
+Bisharp avoided the attack!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Icicle Crash!
+It's super effective!
+A critical hit!
+(The opposing Hippowdon lost 33.3% of its health!)
+
+The opposing Hippowdon fainted!
+Escavalier used Metronome!
+
+Waggling a finger let it use Avalanche!
+It's super effective!
+(The opposing Flygon lost 74.3% of its health!)
+
+The opposing Flygon fainted!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+MTN Ground sent out Golem!
+
+MTN Ground sent out Excadrill!
+
+Turn 8
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Discharge!
+It doesn't affect the opposing Golem...
+It doesn't affect Steelix...
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Bisharp lost 15.2% of its health!)
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Last Resort!
+But it failed!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Razor Leaf!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Escavalier.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Escavalier lost 2.3% of its health!)
+(Steelix lost 7.4% of its health!)
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Surf!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Excadrill!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Donphan!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on Steelix!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(The opposing Excadrill lost 36.5% of its health!)
+(The opposing Donphan lost 34.7% of its health!)
+(Escavalier lost 18.5% of its health!)
+(Steelix lost 37.0% of its health!)
+(Bisharp lost 21.6% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Reflect Type!
+Steelix's type became the same as the opposing Golem's type!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Poison Sting!
+It's not very effective...
+(The opposing Golem lost 0.7% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 9
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Glare!
+Bisharp is paralyzed! It may be unable to move!
+
+Bisharp is paralyzed! It can't move!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Heal Order!
+The opposing Donphan had its HP restored.
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Frost Breath!
+It's not very effective...
+(Escavalier lost 5.4% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Night Slash!
+(The opposing Golem lost 14.3% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+The opposing Golem avoided the attack!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 10
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Shadow Sneak!
+It's not very effective...
+(Bisharp lost 4.8% of its health!)
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Grudge!
+The opposing Donphan wants its target to bear a grudge!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Double-Edge!
+It's not very effective...
+(Steelix lost 10.4% of its health!)
+[DEBUG] damage event failed.
+[DEBUG] damage event failed.
+
+Steelix used Metronome!
+
+Waggling a finger let it use Shadow Ball!
+A critical hit!
+(The opposing Donphan lost 52.7% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Horn Leech!
+It's super effective!
+(The opposing Donphan lost 36.7% of its health!)
+The opposing Donphan had its energy drained!
+
+The opposing Donphan fainted!
+Escavalier's Metronome lost all of its PP due to the grudge!
+(Escavalier ate its Leppa Berry!)
+Escavalier restored PP to its move Metronome using its Leppa Berry!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Super Fang!
+(The opposing Golem lost 42.1% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+MTN Ground sent out Nidoqueen!
+
+Turn 11
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Roar!
+
+Mawile was dragged out!
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Roost!
+The opposing Nidoqueen's HP is full!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Magical Leaf!
+It's not very effective...
+(Mawile lost 9.6% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Eruption!
+[DEBUG] BP: 67.77777777777777.
+[DEBUG] BP: 67.77777777777777.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Excadrill!
+[DEBUG] BP: 67.77777777777777.
+[DEBUG] BP: 67.77777777777777.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Golem.
+[DEBUG] BP: 67.77777777777777.
+[DEBUG] BP: 67.77777777777777.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+A critical hit on the opposing Nidoqueen!
+(The opposing Excadrill lost 28.2% of its health!)
+(The opposing Golem lost 4.3% of its health!)
+(The opposing Nidoqueen lost 19.4% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Sweet Scent!
+The opposing Golem's evasiveness fell!
+The opposing Nidoqueen's evasiveness fell!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+
+Turn 12
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Heat Wave!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Steelix.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on Mawile!
+(Steelix lost 5.9% of its health!)
+(Mawile lost 41.6% of its health!)
+Steelix was burned!
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Triple Kick!
+It's super effective!
+(Steelix lost 4.4% of its health!)
+It's super effective!
+(Steelix lost 8.9% of its health!)
+It's super effective!
+(Steelix lost 13.3% of its health!)
+The Pokémon was hit 3 times!
+
+Mawile used Metronome!
+
+Waggling a finger let it use Crunch!
+(The opposing Golem lost 20.7% of its health!)
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Force Palm!
+(Escavalier lost 18.5% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Petal Dance!
+(The opposing Excadrill lost 32.9% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Heat Wave!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Golem.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(The opposing Golem lost 7.1% of its health!)
+(The opposing Nidoqueen lost 16.4% of its health!)
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Steelix was hurt by its burn!
+
+Turn 13
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Volt Tackle!
+(Mawile lost 48.8% of its health!)
+
+Mawile fainted!
+The opposing Excadrill was damaged by the recoil!
+
+The opposing Excadrill fainted!
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Fly!
+The opposing Nidoqueen flew up high!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Perish Song!
+The opposing Nidoqueen avoided the attack!
+All Pokémon that heard the song will faint in three turns!
+
+Steelix used Petal Dance!
+It's super effective!
+(The opposing Golem lost 10.7% of its health!)
+
+The opposing Golem fainted!
+Escavalier used Metronome!
+
+Waggling a finger let it use Mega Drain!
+The opposing Nidoqueen avoided the attack!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Steelix was hurt by its burn!
+
+Steelix fainted!
+Escavalier's perish count fell to 3.
+
+Go! Bastiodon!
+
+Go! Bisharp!
+
+Turn 14
+
+The opposing Nidoqueen used Fly!
+(Escavalier lost 26.9% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Leer!
+The opposing Nidoqueen's Defense fell!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Poison Tail!
+It's not very effective...
+(The opposing Nidoqueen lost 5.5% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+But it failed!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Escavalier's perish count fell to 2.
+
+Turn 15
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Defense Curl!
+The opposing Nidoqueen's Defense rose!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+(The opposing Nidoqueen lost 20.6% of its health!)
+
+Bisharp is paralyzed! It can't move!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Dive!
+Bastiodon hid underwater!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+Escavalier's perish count fell to 1.
+
+Turn 16
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Giga Impact!
+It's not very effective...
+(Bisharp lost 29.6% of its health!)
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Inferno!
+(The opposing Nidoqueen lost 22.4% of its health!)
+The opposing Nidoqueen was burned!
+
+Bisharp is paralyzed! It can't move!
+
+Bastiodon used Dive!
+But it failed!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Nidoqueen was hurt by its burn!
+Escavalier's perish count fell to 0.
+
+Escavalier fainted!
+
+Turn 17
+
+The opposing Nidoqueen must recharge!
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Skill Swap!
+[Bisharp's Sheer Force]
+[The opposing Nidoqueen's Inner Focus]
+Bisharp swapped Abilities with its target!
+[Bisharp's Inner Focus]
+[The opposing Nidoqueen's Sheer Force]
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Mega Punch!
+But it failed!
+
+(The sandstorm is raging.)
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+[DEBUG] natural status immunity.
+[DEBUG] natural status immunity.
+[DEBUG] weather immunity.
+[DEBUG] weather immunity.
+The opposing Nidoqueen was hurt by its burn!
+
+The opposing Nidoqueen fainted!
+
+MTN Steel won the battle!

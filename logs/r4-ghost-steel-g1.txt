@@ -1,0 +1,689 @@
+☆MTN Ghost and ☆MTN Steel joined
+Format: [Gen 5] Triples Custom Game
+MTN Ghost's team:
+Gengar / Misdreavus / Dusclops / Drifblim / Jellicent / Sableye
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+
+Battle started between MTN Ghost and MTN Steel!
+
+Go! Gengar!
+
+Go! Drifblim!
+
+Go! Jellicent!
+
+MTN Steel sent out Steelix!
+
+MTN Steel sent out Bastiodon!
+
+MTN Steel sent out Metagross!
+
+Turn 1
+
+Gengar used Metronome!
+
+Waggling a finger let it use Tailwind!
+The Tailwind blew from behind your team!
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Stomp!
+It's not very effective...
+(The opposing Bastiodon lost 2.5% of its health!)
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Facade!
+It doesn't affect Gengar...
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Icicle Spear!
+(The opposing Steelix lost 4.4% of its health!)
+(The opposing Steelix lost 4.4% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Calm Mind!
+The opposing Bastiodon's Sp. Atk rose!
+The opposing Bastiodon's Sp. Def rose!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Ancient Power!
+It's super effective!
+(Drifblim lost 28.6% of its health!)
+
+Turn 2
+
+Gengar used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Blue Flare!
+It's super effective!
+A critical hit!
+(The opposing Steelix lost 91.1% of its health!)
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Steelix fainted!
+Jellicent used Metronome!
+
+Waggling a finger let it use Dragon Rush!
+The opposing Bastiodon avoided the attack!
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Mud Sport!
+Electricity's power was weakened!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Screech!
+Jellicent's Defense fell harshly!
+
+MTN Steel sent out Bisharp!
+
+Turn 3
+
+Gengar used Metronome!
+
+Waggling a finger let it use Brave Bird!
+It's not very effective...
+(The opposing Bisharp lost 20.8% of its health!)
+Gengar was damaged by the recoil!
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Surf!
+[Jellicent's Water Absorb]
+It doesn't affect Jellicent...
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Bastiodon!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(Gengar lost 24.2% of its health!)
+(The opposing Bisharp lost 20% of its health!)
+(The opposing Bastiodon lost 20% of its health!)
+(The opposing Metagross lost 15% of its health!)
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Quiver Dance!
+Jellicent's Sp. Atk rose!
+Jellicent's Sp. Def rose!
+Jellicent's Speed rose!
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Spit Up!
+But it failed!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Ancient Power!
+(Jellicent lost 10% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Tri Attack!
+It doesn't affect Gengar...
+
+Turn 4
+
+Gengar used Metronome!
+
+Waggling a finger let it use Fusion Flare!
+It's super effective!
+(The opposing Metagross lost 57.1% of its health!)
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Future Sight!
+Jellicent foresaw an attack!
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Stockpile!
+Drifblim stockpiled 1!
+Drifblim's Defense rose!
+Drifblim's Sp. Def rose!
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Splash!
+But nothing happened!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Superpower!
+It doesn't affect Drifblim...
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Wing Attack!
+(Drifblim lost 9.5% of its health!)
+
+Your team's Tailwind petered out!
+
+Turn 5
+
+Gengar used Metronome!
+
+Waggling a finger let it use Camouflage!
+Gengar's type changed to Ground!
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Heal Order!
+Jellicent had its HP restored.
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Volt Switch!
+(The opposing Metagross lost 5.7% of its health!)
+
+Drifblim went back to MTN Ghost!
+Go! Misdreavus!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Swift!
+It doesn't affect Misdreavus...
+It doesn't affect Jellicent...
+
+The opposing Metagross used Metronome!
+[DEBUG] BP: 50.
+[DEBUG] BP: 50.
+
+Waggling a finger let it use Weather Ball!
+(Gengar lost 24.2% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Fake Tears!
+Misdreavus's Sp. Def fell harshly!
+
+Turn 6
+
+Gengar used Metronome!
+
+Waggling a finger let it use Barrage!
+It's not very effective...
+(The opposing Metagross lost 1.4% of its health!)
+It's not very effective...
+(The opposing Metagross lost 1.4% of its health!)
+It's not very effective...
+(The opposing Metagross lost 1.4% of its health!)
+The Pokémon was hit 3 times!
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Trump Card!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+It's not very effective...
+(The opposing Bisharp lost 8.8% of its health!)
+
+Misdreavus used Metronome!
+
+Waggling a finger let it use Barrier!
+Misdreavus's Defense rose sharply!
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Drain Punch!
+(Gengar lost 39.2% of its health!)
+Gengar had its energy drained!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Frustration!
+It doesn't affect Misdreavus...
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Ancient Power!
+It's not very effective...
+(Gengar lost 5% of its health!)
+
+Gengar fainted!
+
+The opposing Bisharp took the Future Sight attack!
+It doesn't affect the opposing Bisharp...
+
+Go! Drifblim!
+
+Turn 7
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Ally Switch!
+Jellicent and Drifblim switched places!
+
+Misdreavus used Metronome!
+
+Waggling a finger let it use Trump Card!
+[DEBUG] BP: 40.
+[DEBUG] BP: 40.
+It's not very effective...
+(The opposing Bastiodon lost 1.7% of its health!)
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Spark!
+(The opposing Bisharp lost 5.6% of its health!)
+The opposing Bisharp is paralyzed! It may be unable to move!
+
+The opposing Bisharp used Metronome!
+
+Waggling a finger let it use Tri Attack!
+It doesn't affect Misdreavus...
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Triple Kick!
+It doesn't affect Jellicent...
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Lava Plume!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Bisharp!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's super effective on the opposing Metagross!
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on Jellicent.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+(The opposing Bisharp lost 44.8% of its health!)
+(The opposing Metagross lost 30% of its health!)
+(Jellicent lost 5.6% of its health!)
+(Misdreavus lost 60% of its health!)
+(Drifblim lost 15.2% of its health!)
+Jellicent was burned!
+Drifblim was burned!
+
+The opposing Bisharp fainted!
+
+Jellicent was hurt by its burn!
+Drifblim was hurt by its burn!
+
+MTN Steel sent out Mawile!
+
+Turn 8
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Lick!
+It's not very effective...
+(The opposing Bastiodon lost 1.7% of its health!)
+
+Misdreavus used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Psywave!
+(The opposing Mawile lost 34.4% of its health!)
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Dive!
+The opposing Metagross hid underwater!
+
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Flatter!
+Misdreavus's Sp. Atk rose!
+Misdreavus became confused!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Screech!
+Jellicent avoided the attack!
+
+Jellicent was hurt by its burn!
+Drifblim was hurt by its burn!
+
+Turn 9
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Thunder Punch!
+(The opposing Bastiodon lost 3.3% of its health!)
+
+Misdreavus is confused!
+Misdreavus used Metronome!
+
+Waggling a finger let it use Aqua Tail!
+(The opposing Mawile lost 29.6% of its health!)
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Reflect!
+Reflect made your team stronger against physical moves!
+
+The opposing Metagross used Dive!
+[DEBUG] Reflect weaken.
+[DEBUG] Reflect weaken.
+(Misdreavus lost 13.3% of its health!)
+
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+(Misdreavus lost 26.7% of its health!)
+
+Misdreavus fainted!
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Wing Attack!
+[DEBUG] Reflect weaken.
+[DEBUG] Reflect weaken.
+(Drifblim lost 8.1% of its health!)
+
+Jellicent was hurt by its burn!
+Drifblim was hurt by its burn!
+
+Go! Dusclops!
+[Dusclops's Pressure]
+Dusclops is exerting its pressure!
+
+Turn 10
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Leer!
+The opposing Bastiodon's Defense fell!
+The opposing Metagross's Defense fell!
+
+Drifblim used Metronome!
+
+Waggling a finger let it use Reflect!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Metagross used Metronome!
+
+Waggling a finger let it use Horn Attack!
+It doesn't affect Dusclops...
+
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Extreme Speed!
+It doesn't affect Dusclops...
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Flare Blitz!
+[DEBUG] Reflect weaken.
+[DEBUG] Reflect weaken.
+(Dusclops lost 23.8% of its health!)
+The opposing Bastiodon was damaged by the recoil!
+
+Dusclops used Metronome!
+
+Waggling a finger let it use Rapid Spin!
+It's not very effective...
+A critical hit!
+(The opposing Bastiodon lost 3.3% of its health!)
+
+Jellicent was hurt by its burn!
+Drifblim was hurt by its burn!
+
+Drifblim fainted!
+
+Go! Sableye!
+
+Turn 11
+
+Sableye used Metronome!
+
+Waggling a finger let it use Wring Out!
+[DEBUG] BP for 45/125 HP: 43.
+[DEBUG] BP for 45/125 HP: 43.
+It's not very effective...
+A critical hit!
+(The opposing Mawile lost 16.8% of its health!)
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Volt Switch!
+(The opposing Metagross lost 5% of its health!)
+
+The opposing Metagross fainted!
+The opposing Mawile used Metronome!
+
+Waggling a finger let it use Swagger!
+Dusclops avoided the attack!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+It doesn't affect Dusclops...
+
+Dusclops used Metronome!
+
+Waggling a finger let it use Outrage!
+It's not very effective...
+(The opposing Mawile lost 19.2% of its health!)
+
+The opposing Mawile fainted!
+
+Jellicent was hurt by its burn!
+
+MTN Steel sent out Escavalier!
+
+Turn 12
+
+Sableye used Metronome!
+
+Waggling a finger let it use Sleep Powder!
+The opposing Escavalier fell asleep!
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Toxic Spikes!
+Poison spikes were scattered on the ground all around the opposing team!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Wood Hammer!
+[DEBUG] Reflect weaken.
+[DEBUG] Reflect weaken.
+(Sableye lost 22.4% of its health!)
+The opposing Bastiodon was damaged by the recoil!
+
+Dusclops used Outrage!
+It's not very effective...
+(The opposing Bastiodon lost 20% of its health!)
+Dusclops became confused due to fatigue!
+
+The opposing Escavalier is fast asleep.
+
+Jellicent was hurt by its burn!
+
+Turn 13
+
+Sableye used Metronome!
+
+Waggling a finger let it use Icicle Spear!
+It's not very effective...
+(The opposing Bastiodon lost 4.2% of its health!)
+It's not very effective...
+(The opposing Bastiodon lost 4.2% of its health!)
+It's not very effective...
+(The opposing Bastiodon lost 4.2% of its health!)
+The Pokémon was hit 3 times!
+
+Jellicent used Metronome!
+
+Waggling a finger let it use Stored Power!
+[DEBUG] BP: 80.
+[DEBUG] BP: 80.
+It's not very effective...
+(The opposing Bastiodon lost 10% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Drill Peck!
+[DEBUG] Reflect weaken.
+[DEBUG] Reflect weaken.
+(Jellicent lost 19.4% of its health!)
+
+Jellicent fainted!
+Dusclops is confused!
+Dusclops used Metronome!
+
+Waggling a finger let it use Sunny Day!
+The sunlight turned harsh!
+The opposing Escavalier woke up!
+
+The opposing Escavalier used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+[DEBUG] Reflect weaken.
+[DEBUG] Reflect weaken.
+(Sableye lost 18.4% of its health!)
+
+(The sunlight is strong.)
+Your team's Reflect wore off!
+
+Turn 14
+
+Sableye used Metronome!
+
+Waggling a finger let it use Sand Attack!
+The opposing Escavalier's accuracy fell!
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Giga Drain!
+(Dusclops lost 26.7% of its health!)
+Dusclops had its energy drained!
+(The opposing Bastiodon ate its Leppa Berry!)
+The opposing Bastiodon restored PP to its move Metronome using its Leppa Berry!
+Dusclops snapped out of its confusion!
+
+Dusclops used Metronome!
+
+Waggling a finger let it use Psych Up!
+Dusclops copied the opposing Escavalier's stat changes!
+
+The opposing Escavalier used Metronome!
+
+Waggling a finger let it use Splash!
+But nothing happened!
+
+(The sunlight is strong.)
+
+Turn 15
+
+Sableye used Metronome!
+
+Waggling a finger let it use Whirlwind!
+But it failed!
+[DEBUG] move failed because it did nothing.
+[DEBUG] move failed because it did nothing.
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[Dusclops's Pressure]
+[Dusclops's Simple]
+Dusclops acquired Simple!
+
+Dusclops used Metronome!
+
+Waggling a finger let it use Guillotine!
+The opposing Escavalier avoided the attack!
+
+The opposing Escavalier used Metronome!
+
+Waggling a finger let it use Curse!
+The opposing Escavalier's Speed fell!
+The opposing Escavalier's Attack rose!
+The opposing Escavalier's Defense rose!
+
+(The sunlight is strong.)
+
+Turn 16
+
+Sableye used Metronome!
+
+Waggling a finger let it use Frustration!
+It's not very effective...
+(The opposing Escavalier lost 3.1% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Dragon Tail!
+(Sableye lost 19.2% of its health!)
+
+Dusclops used Metronome!
+
+Waggling a finger let it use Pursuit!
+It's not very effective...
+(The opposing Bastiodon lost 6.7% of its health!)
+
+The opposing Escavalier used Metronome!
+
+Waggling a finger let it use Shadow Sneak!
+Sableye avoided the attack!
+
+(The sunlight is strong.)
+
+Turn 17
+
+Sableye used Metronome!
+
+Waggling a finger let it use Force Palm!
+(The opposing Escavalier lost 10.8% of its health!)
+
+The opposing Bastiodon used Metronome!
+
+Waggling a finger let it use Slash!
+It doesn't affect Dusclops...
+
+Dusclops used Metronome!
+
+Waggling a finger let it use Magical Leaf!
+(The opposing Bastiodon lost 10% of its health!)
+
+The opposing Escavalier used Metronome!
+
+Waggling a finger let it use Explosion!
+It doesn't affect Dusclops...
+It doesn't affect Sableye...
+[DEBUG] Spread modifier: 0.75.
+[DEBUG] Spread modifier: 0.75.
+It's not very effective on the opposing Bastiodon.
+(The opposing Bastiodon lost 5.8% of its health!)
+
+The opposing Escavalier fainted!
+The opposing Bastiodon fainted!
+
+MTN Ghost won the battle!
