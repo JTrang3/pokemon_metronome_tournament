@@ -27,44 +27,49 @@ def select_replays():
 def convert_html_to_text(logs):
     # Get the name of the replay without the paths or extension
     base_name = os.path.splitext(os.path.basename(logs))[0]
-    # Read the HTML file
-    with open(logs, 'r') as file:
-        html_content = file.read()
-    # Create a BeautifulSoup object
-    soup = BeautifulSoup(html_content, "html.parser")
-    # Process battle logs from elements in "inner message-log" div and store the lines
-    message_log = soup.find("div", class_="inner message-log")
-    elements = message_log.find_all(['div', 'h2'])
-    lines = ''
-    for element in elements:
-        # Adjust team & roster format
-        if element.name == 'div' and element.get('class') == ['chat', 'battle-history']:
-            # Find the "strong" and "em" tags within the sub-div to add newlines
-            strong_tag = element.find('strong')
-            em_tag = element.find('em')
-            if strong_tag:
-                lines += (strong_tag.get_text(strip=False) + '\n')
-            if em_tag:
-                lines += (em_tag.get_text(strip=False) + '\n')
-        # Adjust elements that print more than one line
-        elif element.name == 'div' and element.get('class') == ['battle-history']:
-            # Find all "break" tags within the sub-div
-            break_tags = element.find_all('br')
-            if len(break_tags) > 1:
-                # Add newline for each additional line printed
-                for break_tag in break_tags[:-1]:
-                    break_tag.insert_after('\n')
-            lines += (element.get_text(strip=False) + '\n')
-        else:
-            # Add newline to the text of the element
-            lines += (element.get_text(strip=False) + '\n')
-    # Remove empty line at the end of the file
-    lines = lines[:-1]
-    # Write the lines as a new text file into logs folder
     textfile = "logs\\" + base_name + ".txt"
-    with open(textfile, 'w') as file:
-        file.writelines(lines)
-    return textfile
+    # Check if textfile already exists before converting
+    if os.path.exists(textfile):
+        return textfile
+    else:
+        with open(logs, 'r') as file:
+            html_content = file.read()
+        # Create a BeautifulSoup object
+        soup = BeautifulSoup(html_content, "html.parser")
+        # Process battle logs from elements in "inner message-log" div and store the lines
+        message_log = soup.find("div", class_="inner message-log")
+        elements = message_log.find_all(['div', 'h2'])
+        lines = ''
+        for element in elements:
+            # Adjust team & roster format
+            if element.name == 'div' and element.get('class') == ['chat', 'battle-history']:
+                # Find the "strong" and "em" tags within the sub-div to add newlines
+                strong_tag = element.find('strong')
+                em_tag = element.find('em')
+                if strong_tag:
+                    lines += (strong_tag.get_text(strip=False) + '\n')
+                if em_tag:
+                    lines += (em_tag.get_text(strip=False) + '\n')
+            # Adjust elements that print more than one line
+            elif element.name == 'div' and element.get('class') == ['battle-history']:
+                # Find all "break" tags within the sub-div
+                break_tags = element.find_all('br')
+                if len(break_tags) > 1:
+                    # Add newline for each additional line printed
+                    for break_tag in break_tags[:-1]:
+                        break_tag.insert_after('\n')
+                lines += (element.get_text(strip=False) + '\n')
+            else:
+                # Add newline to the text of the element
+                if "DEBUG" not in element.get_text():
+                    lines += (element.get_text(strip=False) + '\n')
+        # Remove empty line at the end of the file
+        lines = lines[:-1]
+        # Write the lines as a new text file into logs folder
+        with open(textfile, 'w') as file:
+            file.writelines(lines)
+        return textfile
+    
 
 # Gather all the moves used by Metronome in the entire battle
 def metronome_data(logs):
@@ -231,7 +236,7 @@ def match_data(logs):
         next_line = file.readlines()
     with open(logs, 'r') as file:
         future_attacking, future_defeat_score = [], None
-        perish_user, perish_faints = [], 0
+        perish_user, perish_faints, perish_counted = [], 0, False
         case_num = 0
         line_index = 1
         future_outcomes = ["avoided the attack!", "It doesn't affect", "(Future Sight did not hit because the target is fainted.)", "(Doom Desire did not hit because the target is fainted.)"]
@@ -294,6 +299,7 @@ def match_data(logs):
                     hazards[receiving_team]["Spikes"] = pokemon_attacking
                 else:
                     hazards[receiving_team]["T-Spikes"] = pokemon_attacking
+                print(f"{hazards}")
             # Pokemon hit with binding move
             elif any(bind_message in line for bind_message in bind_moves):
                 # Binded pokemon's name is at the end with Clamp
@@ -367,9 +373,9 @@ def match_data(logs):
                         match_scoreboard[perish_user[0]][1] += 1
                         case_num = "PERISH"
                     perish_faints -= 1
-                    # All pokemon perished from field, remove earliest perish user
+                    # Counted all perished pokemon in current turn
                     if perish_faints == 0:
-                        perish_user.pop(0)
+                        perish_counted = True
                 # CASE 3: Pokemon faints from binding move (Bind/Wrap/Fire Spin/etc.)
                 elif "is hurt by" in previous_line:
                     # Give "defeats" score to binding pokemon
@@ -401,9 +407,9 @@ def match_data(logs):
                 elif "Pointed stones dug into" in previous_line or "was hurt by the spikes!" in previous_line:
                     # Give "defeats" score to pokemon(s) who set up hazards
                     if "Pointed stones dug into" in previous_line:
-                        match_scoreboard[hazards[pokemon_fainted[0]]["Rocks"]][1] += 1
+                        match_scoreboard[hazards[match_scoreboard[pokemon_fainted][0]]["Rocks"]][1] += 1
                     else:
-                        match_scoreboard[hazards[pokemon_fainted[0]]["Spikes"]][1] += 1
+                        match_scoreboard[hazards[match_scoreboard[pokemon_fainted][0]]["Spikes"]][1] += 1
                     case_num = "HAZARDS"
                 # CASE 4: Pokemon faints from Destiny Bond
                 elif "took its attacker down with it!" in previous_line:
@@ -444,6 +450,11 @@ def match_data(logs):
                     case_num = 0
                 # Testing proper faint cases
                 faint_case(pokemon_fainted, case_num)
+            elif "Turn " in line:
+                # All pokemon perished from field, remove earliest perish user
+                if perish_counted == True:
+                    perish_user.pop(0)
+                    perish_counted = False
             # Ignore empty lines in file
             if line.strip() != "":
                 previous_line = line
@@ -558,22 +569,23 @@ def main():
         logs.append(replay_log)
 
     for log in logs:
+        print(f"\n{log}")
+
         moves = metronome_data(log)
         scoreboard = match_data(log)
         team_record = team_data(log, scoreboard)
 
-        # print(f"\n{log}\n")
-        # # TEST: View complete scoreboard
-        # for key, values in scoreboard.items():
-        #     print(f"{key}: {values}")
-        # # TEST: View complete match records
-        # for key, values in team_record.items():
-        #     print(f"{key}: {values}")
+        # TEST: View complete scoreboard
+        for key, values in scoreboard.items():
+            print(f"{key}: {values}")
+        # TEST: View complete match records
+        for key, values in team_record.items():
+            print(f"{key}: {values}")
 
-        transfer_metronome_data(moves, "tournament_statistics.xlsx", "Metronome_Data")
-        connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data")
-        transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Pokemon_Data", "pokemon_data_gen5.xlsx")
-        transfer_team_data(team_record, "tournament_statistics.xlsx", "Team_Data")
+        # transfer_metronome_data(moves, "tournament_statistics.xlsx", "Metronome_Data")
+        # connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data")
+        # transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Pokemon_Data", "pokemon_data_gen5.xlsx")
+        # transfer_team_data(team_record, "tournament_statistics.xlsx", "Team_Data")
     
     # TEST: Count each move used & total moves used in a battle
     # for move, count in moves.items():
