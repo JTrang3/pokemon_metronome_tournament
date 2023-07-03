@@ -1,0 +1,419 @@
+☆MTN Electric and ☆MTN Poison joined
+Format: [Gen 5] Triples Custom Game
+MTN Electric's team:
+Electabuzz / Lanturn / Manectric / Magnezone / Galvantula / Emolga
+MTN Poison's team:
+Vileplume / Crobat / Seviper / Drapion / Scolipede / Nidoking
+
+Battle started between MTN Electric and MTN Poison!
+
+Go! Electabuzz!
+
+Go! Magnezone!
+
+Go! Manectric!
+
+MTN Poison sent out Vileplume!
+
+MTN Poison sent out Drapion!
+
+MTN Poison sent out Seviper!
+
+Turn 1
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Withdraw!
+Electabuzz's Defense rose!
+
+Manectric used Metronome!
+
+Waggling a finger let it use Stomp!
+(The opposing Drapion lost 16.9% of its health!)
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Twineedle!
+(Manectric lost 9.2% of its health!)
+Manectric was poisoned!
+(Manectric lost 10% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Seviper used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+(Electabuzz lost 20% of its health!)
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Thunderbolt!
+(The opposing Seviper lost 63.2% of its health!)
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Crush Grip!
+(Manectric lost 40% of its health!)
+[Manectric's Static]
+The opposing Vileplume is paralyzed! It may be unable to move!
+
+Manectric was hurt by poison!
+
+Turn 2
+
+Manectric used Metronome!
+
+Waggling a finger let it use Power Swap!
+Manectric switched all changes to its Attack and Sp. Atk with its target!
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Ice Punch!
+(The opposing Drapion lost 23.8% of its health!)
+The opposing Drapion was frozen solid!
+The opposing Drapion thawed out!
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Rollout!
+(Manectric lost 12.3% of its health!)
+[Manectric's Static]
+The opposing Drapion is paralyzed! It may be unable to move!
+
+The opposing Seviper used Metronome!
+
+Waggling a finger let it use Magnet Rise!
+The opposing Seviper levitated with electromagnetism!
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Psystrike!
+It's super effective!
+(The opposing Seviper lost 36.8% of its health!)
+
+The opposing Seviper fainted!
+The opposing Vileplume is paralyzed! It can't move!
+
+Manectric was hurt by poison!
+
+MTN Poison sent out Scolipede!
+
+Turn 3
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+It's not very effective...
+(Magnezone lost 5.4% of its health!)
+Magnezone's Speed fell!
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Dragon Rush!
+(The opposing Drapion lost 33.1% of its health!)
+
+Manectric used Metronome!
+
+Waggling a finger let it use Poison Tail!
+It's not very effective...
+(The opposing Drapion lost 6.2% of its health!)
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Round!
+(The opposing Vileplume lost 25.2% of its health!)
+
+The opposing Drapion used Rollout!
+(Electabuzz lost 16% of its health!)
+
+The opposing Vileplume is paralyzed! It can't move!
+
+Manectric was hurt by poison!
+
+Manectric fainted!
+
+Go! Lanturn!
+
+Turn 4
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Wish!
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+(The opposing Scolipede lost 7.5% of its health!)
+(The opposing Scolipede lost 7.5% of its health!)
+The Pokémon was hit 2 times!
+
+Lanturn used Metronome!
+
+Waggling a finger let it use Work Up!
+Lanturn's Attack rose!
+Lanturn's Sp. Atk rose!
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+But it failed!
+
+The opposing Drapion used Rollout!
+(Electabuzz lost 28.0% of its health!)
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Synthesis!
+The opposing Vileplume had its HP restored.
+
+Turn 5
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Barrage!
+It's not very effective...
+(Magnezone lost 1.5% of its health!)
+It's not very effective...
+A critical hit!
+(Magnezone lost 3.8% of its health!)
+It's not very effective...
+(Magnezone lost 1.5% of its health!)
+The Pokémon was hit 3 times!
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Take Down!
+A critical hit!
+(The opposing Scolipede lost 78.3% of its health!)
+Electabuzz was damaged by the recoil!
+
+Lanturn used Metronome!
+
+Waggling a finger let it use Psystrike!
+It's super effective!
+(The opposing Vileplume lost 66.7% of its health!)
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Tail Slap!
+(The opposing Scolipede lost 6.7% of its health!)
+
+The opposing Scolipede fainted!
+The Pokémon was hit 1 time!
+
+The opposing Drapion used Rollout!
+(Lanturn lost 55.7% of its health!)
+
+The opposing Vileplume is paralyzed! It can't move!
+
+MTN Poison sent out Nidoking!
+
+Turn 6
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Metal Claw!
+(The opposing Drapion lost 16.2% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Smack Down!
+It's not very effective...
+(Magnezone lost 6.9% of its health!)
+
+Lanturn used Metronome!
+
+Waggling a finger let it use Hone Claws!
+Lanturn's Attack rose!
+Lanturn's accuracy rose!
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Morning Sun!
+Magnezone had its HP restored.
+
+The opposing Drapion used Rollout!
+It's not very effective...
+(Magnezone lost 60.8% of its health!)
+
+The opposing Vileplume is paralyzed! It can't move!
+
+Turn 7
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Nasty Plot!
+Electabuzz's Sp. Atk rose sharply!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Charge Beam!
+It's not very effective...
+(Electabuzz lost 12% of its health!)
+
+Lanturn used Metronome!
+
+Waggling a finger let it use Scratch!
+(The opposing Drapion lost 3.8% of its health!)
+
+The opposing Drapion fainted!
+Magnezone used Metronome!
+
+Waggling a finger let it use Bone Rush!
+(The opposing Vileplume lost 6.7% of its health!)
+(The opposing Vileplume lost 6.7% of its health!)
+(The opposing Vileplume lost 8.1% of its health!)
+The Pokémon was hit 3 times!
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Barrage!
+Lanturn avoided the attack!
+
+MTN Poison sent out Crobat!
+
+Turn 8
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+It's not very effective...
+(Magnezone lost 5.4% of its health!)
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Fire Pledge!
+(The opposing Crobat lost 31.0% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Brave Bird!
+It's not very effective...
+(Lanturn lost 16.8% of its health!)
+The opposing Nidoking was damaged by the recoil!
+
+Lanturn used Metronome!
+
+Waggling a finger let it use Retaliate!
+(The opposing Crobat lost 35.2% of its health!)
+
+Magnezone used Metronome!
+
+Waggling a finger let it use Camouflage!
+Magnezone's type changed to Ground!
+
+The opposing Vileplume is paralyzed! It can't move!
+
+Turn 9
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Bullet Punch!
+It's not very effective...
+(Lanturn lost 2.2% of its health!)
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Shadow Sneak!
+(The opposing Nidoking lost 10.9% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Psycho Boost!
+(Magnezone lost 33.8% of its health!)
+The opposing Nidoking's Sp. Atk fell harshly!
+
+Magnezone fainted!
+Lanturn used Metronome!
+
+Waggling a finger let it use Bonemerang!
+(The opposing Vileplume lost 11.9% of its health!)
+
+The opposing Vileplume fainted!
+The Pokémon was hit 1 time!
+
+Go! Galvantula!
+
+Turn 10
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Spark!
+[Lanturn's Volt Absorb]
+Lanturn had its HP restored.
+
+Galvantula used Metronome!
+
+Waggling a finger let it use Head Charge!
+(The opposing Crobat lost 26.9% of its health!)
+Galvantula was damaged by the recoil!
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use X-Scissor!
+It's not very effective...
+A critical hit!
+(The opposing Nidoking lost 18.6% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Dark Pulse!
+(Galvantula lost 20% of its health!)
+
+Lanturn used Metronome!
+
+Waggling a finger let it use Tail Glow!
+Lanturn's Sp. Atk rose drastically!
+
+Turn 11
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Grass Knot!
+It's not very effective...
+(Galvantula lost 6.9% of its health!)
+
+Galvantula used Metronome!
+
+Waggling a finger let it use Tail Slap!
+(The opposing Crobat lost 6.2% of its health!)
+(The opposing Crobat lost 0.7% of its health!)
+
+The opposing Crobat fainted!
+The Pokémon was hit 2 times!
+
+Electabuzz used Metronome!
+
+Waggling a finger let it use Struggle Bug!
+It's not very effective...
+(The opposing Nidoking lost 6.4% of its health!)
+The opposing Nidoking's Sp. Atk fell!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Water Gun!
+(Electabuzz lost 4.8% of its health!)
+
+Electabuzz fainted!
+Lanturn used Metronome!
+
+Waggling a finger let it use Aurora Beam!
+But it failed!
+
+Go! Emolga!
+
+Turn 12
+
+Emolga used Metronome!
+
+Waggling a finger let it use Night Shade!
+(The opposing Nidoking lost 32.1% of its health!)
+
+Galvantula used Metronome!
+
+Waggling a finger let it use Assurance!
+A critical hit!
+(The opposing Nidoking lost 25.6% of its health!)
+
+The opposing Nidoking fainted!
+
+MTN Electric won the battle!

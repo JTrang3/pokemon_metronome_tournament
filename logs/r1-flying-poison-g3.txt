@@ -7,411 +7,295 @@ Vileplume / Crobat / Seviper / Drapion / Scolipede / Nidoking
 
 Battle started between MTN Flying and MTN Poison!
 
-Go! Scyther!
+Go! Pelipper!
 
 Go! Skarmory!
 
-Go! Pelipper!
+Go! Dragonite!
 
-MTN Poison sent out Drapion!
+MTN Poison sent out Scolipede!
 
 MTN Poison sent out Crobat!
 
-MTN Poison sent out Nidoking!
+MTN Poison sent out Drapion!
 
 Turn 1
 
 The opposing Crobat used Metronome!
 
-Waggling a finger let it use Rock Throw!
-It's super effective!
-(Scyther lost 55.4% of its health!)
+Waggling a finger let it use Explosion!
+A critical hit on the opposing Scolipede!
+It's not very effective on Skarmory.
+(The opposing Scolipede lost 100% of its health!)
+(The opposing Drapion lost 45.4% of its health!)
+(Pelipper lost 59.2% of its health!)
+(Skarmory lost 20.8% of its health!)
+(Dragonite lost 16.3% of its health!)
 
-Scyther used Metronome!
-
-Waggling a finger let it use Shadow Force!
-Scyther vanished instantly!
-
-The opposing Nidoking used Metronome!
-
-Waggling a finger let it use Wood Hammer!
-It's not very effective...
-A critical hit!
-(Skarmory lost 14.4% of its health!)
-The opposing Nidoking was damaged by the recoil!
-
+The opposing Crobat fainted!
+The opposing Scolipede fainted!
 The opposing Drapion used Metronome!
 
-Waggling a finger let it use Water Gun!
-(Skarmory lost 12% of its health!)
+Waggling a finger let it use Fusion Flare!
+It's super effective!
+(Skarmory lost 60.8% of its health!)
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Spark!
+But it failed!
 
 Skarmory used Metronome!
 
-Waggling a finger let it use Uproar!
-(The opposing Crobat lost 18.6% of its health!)
-Skarmory caused an uproar!
+Waggling a finger let it use Powder Snow!
+(The opposing Drapion lost 11.5% of its health!)
 
 Pelipper used Metronome!
 
-Waggling a finger let it use Iron Head!
-(The opposing Crobat lost 23.4% of its health!)
-[DEBUG] add volatile [flinch] interrupted.
-[DEBUG] add volatile [flinch] interrupted.
-[DEBUG] move failed because it did nothing.
-[DEBUG] move failed because it did nothing.
+Waggling a finger let it use Psychic!
+It doesn't affect the opposing Drapion...
 
-Skarmory is making an uproar!
+MTN Poison sent out Seviper!
+
+MTN Poison sent out Nidoking!
 
 Turn 2
 
-The opposing Crobat used Metronome!
-
-Waggling a finger let it use Sludge!
-Scyther avoided the attack!
-
-Scyther used Shadow Force!
-[DEBUG] Base Power: 120.
-[DEBUG] Base Power: 120.
-(The opposing Crobat lost 40% of its health!)
-
 The opposing Nidoking used Metronome!
 
-Waggling a finger let it use Crush Claw!
-(Scyther lost 30% of its health!)
+Waggling a finger let it use Blue Flare!
+It's not very effective...
+(Dragonite lost 17.5% of its health!)
 
 The opposing Drapion used Metronome!
 
-Waggling a finger let it use Reflect Type!
-The opposing Drapion's type became the same as Pelipper's type!
+Waggling a finger let it use Mud Shot!
+It doesn't affect Pelipper...
 
-Skarmory used Uproar!
-(The opposing Nidoking lost 15.4% of its health!)
-[DEBUG] move failed because it did nothing.
-[DEBUG] move failed because it did nothing.
+Dragonite used Metronome!
+
+Waggling a finger let it use Poison Tail!
+It's not very effective...
+(The opposing Seviper lost 13.5% of its health!)
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Weather Ball!
+(The opposing Drapion lost 13.1% of its health!)
 
 Pelipper used Metronome!
 
-Waggling a finger let it use Peck!
-(The opposing Drapion lost 12.3% of its health!)
+Waggling a finger let it use Sand Tomb!
+It's super effective!
+(The opposing Drapion lost 18.5% of its health!)
+The opposing Drapion became trapped by the quicksand!
 
-Skarmory is making an uproar!
+The opposing Seviper used Metronome!
+
+Waggling a finger let it use Rock Smash!
+(Skarmory lost 12% of its health!)
+
+The opposing Drapion is hurt by Sand Tomb!
 
 Turn 3
 
-The opposing Crobat used Metronome!
-
-Waggling a finger let it use Echoed Voice!
-[DEBUG] BP: 40.
-[DEBUG] BP: 40.
-It's not very effective...
-(Skarmory lost 6.4% of its health!)
-
-Scyther used Metronome!
-
-Waggling a finger let it use Razor Shell!
-[DEBUG] Base Power: 75.
-[DEBUG] Base Power: 75.
-(The opposing Crobat lost 17.9% of its health!)
-
-The opposing Crobat fainted!
 The opposing Nidoking used Metronome!
 
-Waggling a finger let it use Belly Drum!
-(The opposing Nidoking lost 50% of its health!)
-The opposing Nidoking cut its own HP and maximized its Attack!
+Waggling a finger let it use Punishment!
+(Dragonite lost 13.3% of its health!)
 
 The opposing Drapion used Metronome!
 
-Waggling a finger let it use Vacuum Wave!
-It's not very effective...
-(Pelipper lost 6.7% of its health!)
+Waggling a finger let it use Pound!
+(Pelipper lost 14.2% of its health!)
 
-Skarmory used Uproar!
-(The opposing Nidoking lost 16.0% of its health!)
-[DEBUG] move failed because it did nothing.
-[DEBUG] move failed because it did nothing.
+Dragonite used Metronome!
+
+Waggling a finger let it use Tail Glow!
+Dragonite's Sp. Atk rose drastically!
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Icy Wind!
+It's super effective on the opposing Nidoking!
+(The opposing Nidoking lost 15.4% of its health!)
+(The opposing Seviper lost 12.0% of its health!)
+(The opposing Drapion lost 5.4% of its health!)
+The opposing Nidoking's Speed fell!
+The opposing Seviper's Speed fell!
+
+The opposing Drapion fainted!
+The opposing Seviper used Metronome!
+
+Waggling a finger let it use Mud Bomb!
+It doesn't affect Pelipper...
 
 Pelipper used Metronome!
 
-Waggling a finger let it use Encore!
-The opposing Drapion must do an encore!
-
-Skarmory calmed down.
+Waggling a finger let it use Swords Dance!
+Pelipper's Attack rose sharply!
 
 MTN Poison sent out Vileplume!
 
 Turn 4
 
-Scyther used Metronome!
+Dragonite used Metronome!
 
-Waggling a finger let it use Searing Shot!
-[DEBUG] Base Power: 100.
-[DEBUG] Base Power: 100.
-[DEBUG] Spread modifier: 0.75.
-[DEBUG] Spread modifier: 0.75.
+Waggling a finger let it use Lava Plume!
 It's super effective on Skarmory!
-[DEBUG] Base Power: 100.
-[DEBUG] Base Power: 100.
-[DEBUG] Spread modifier: 0.75.
-[DEBUG] Spread modifier: 0.75.
-It's super effective on the opposing Vileplume!
-[DEBUG] Base Power: 100.
-[DEBUG] Base Power: 100.
-[DEBUG] Spread modifier: 0.75.
-[DEBUG] Spread modifier: 0.75.
-(Skarmory lost 44.8% of its health!)
-(The opposing Vileplume lost 38.5% of its health!)
-(The opposing Nidoking lost 14.7% of its health!)
-Skarmory was burned!
-The opposing Vileplume was burned!
-[DEBUG] move failed because it did nothing.
-[DEBUG] move failed because it did nothing.
-
-The opposing Nidoking fainted!
-The opposing Drapion used Metronome!
-
-Waggling a finger let it use Facade!
-It's not very effective...
-A critical hit!
-(Skarmory lost 16% of its health!)
-
-Skarmory used Metronome!
-
-Waggling a finger let it use Bolt Strike!
-The opposing Drapion avoided the attack!
-
-Pelipper used Metronome!
-
-Waggling a finger let it use Final Gambit!
-(The opposing Vileplume lost 61.5% of its health!)
-
-Pelipper fainted!
-The opposing Vileplume fainted!
-
-Skarmory was hurt by its burn!
+(Skarmory lost 6.4% of its health!)
+(The opposing Nidoking lost 47.4% of its health!)
+(The opposing Seviper lost 74.4% of its health!)
 
 Skarmory fainted!
+The opposing Seviper fainted!
+Pelipper used Metronome!
 
-MTN Poison sent out Seviper!
+Waggling a finger let it use Toxic Spikes!
+Poison spikes were scattered on the ground all around the opposing team!
 
-Go! Dragonite!
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Hyper Voice!
+A critical hit!
+(Dragonite lost 34.9% of its health!)
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Octazooka!
+It's not very effective...
+(Pelipper lost 12.5% of its health!)
+Pelipper's accuracy fell!
 
 Go! Honchkrow!
 
-MTN Poison sent out Scolipede!
-
 Turn 5
-
-The opposing Scolipede used Metronome!
-
-Waggling a finger let it use Shadow Punch!
-[DEBUG] Multiscale weaken.
-[DEBUG] Multiscale weaken.
-(Dragonite lost 4.8% of its health!)
-
-Scyther used Metronome!
-
-Waggling a finger let it use Rock Blast!
-[DEBUG] Base Power: 25.
-[DEBUG] Base Power: 25.
-[DEBUG] Technician boost.
-[DEBUG] Technician boost.
-It's super effective!
-(The opposing Scolipede lost 31.7% of its health!)
-[DEBUG] Base Power: 25.
-[DEBUG] Base Power: 25.
-[DEBUG] Technician boost.
-[DEBUG] Technician boost.
-It's super effective!
-(The opposing Scolipede lost 31.7% of its health!)
-The Pokémon was hit 2 times!
 
 Dragonite used Metronome!
 
-Waggling a finger let it use Shadow Sneak!
-(The opposing Scolipede lost 20.8% of its health!)
-
-The opposing Drapion used Metronome!
-
-Waggling a finger let it use Triple Kick!
-It's not very effective...
-(Dragonite lost 1.2% of its health!)
-It's not very effective...
-(Dragonite lost 2.4% of its health!)
-It's not very effective...
-(Dragonite lost 3.0% of its health!)
-The Pokémon was hit 3 times!
+Waggling a finger let it use Torment!
+The opposing Nidoking was subjected to torment!
 
 Honchkrow used Metronome!
 
-Waggling a finger let it use Night Shade!
-(The opposing Drapion lost 38.5% of its health!)
+Waggling a finger let it use Dig!
+Honchkrow burrowed its way under the ground!
 
-The opposing Seviper used Metronome!
+Pelipper used Metronome!
 
-Waggling a finger let it use Bone Club!
-It doesn't affect Dragonite...
+Waggling a finger let it use Powder Snow!
+The opposing Vileplume avoided the attack!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Rock Blast!
+Honchkrow avoided the attack!
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Stockpile!
+The opposing Vileplume stockpiled 1!
+The opposing Vileplume's Defense rose!
+The opposing Vileplume's Sp. Def rose!
 
 Turn 6
 
-The opposing Scolipede used Metronome!
-
-Waggling a finger let it use Acrobatics!
-A critical hit!
-(Dragonite lost 19.3% of its health!)
-
-Scyther used Metronome!
-
-Waggling a finger let it use Rock Tomb!
-The opposing Seviper avoided the attack!
-
-The opposing Drapion used Metronome!
-
-Waggling a finger let it use Fire Blast!
-(Honchkrow lost 35% of its health!)
-
 Dragonite used Metronome!
 
-Waggling a finger let it use Waterfall!
-(The opposing Scolipede lost 15.8% of its health!)
+Waggling a finger let it use Blaze Kick!
+(The opposing Nidoking lost 25% of its health!)
 
-The opposing Scolipede fainted!
-Honchkrow used Metronome!
+Honchkrow used Dig!
+(The opposing Vileplume lost 20% of its health!)
 
-Waggling a finger let it use Muddy Water!
-It's not very effective...
-(The opposing Drapion lost 16.9% of its health!)
+Pelipper used Metronome!
 
-The opposing Seviper used Metronome!
+Waggling a finger let it use Dual Chop!
+(The opposing Vileplume lost 11.9% of its health!)
+(The opposing Vileplume lost 12.6% of its health!)
+[The opposing Vileplume's Effect Spore]
+Pelipper fell asleep!
+The Pokémon was hit 2 times!
 
-Waggling a finger let it use Vacuum Wave!
-It's not very effective...
-(Scyther lost 3.1% of its health!)
+The opposing Nidoking used Recycle!
+But it failed!
 
-The opposing Drapion's encore ended!
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Strength!
+(Honchkrow lost 26.3% of its health!)
 
 Turn 7
 
-Scyther used Metronome!
-
-Waggling a finger let it use Telekinesis!
-The opposing Seviper was hurled into the air!
-
-The opposing Drapion used Metronome!
-
-Waggling a finger let it use Conversion!
-The opposing Drapion's type changed to Normal!
-
 Dragonite used Metronome!
 
-Waggling a finger let it use Tail Slap!
-(The opposing Seviper lost 11.3% of its health!)
-(The opposing Seviper lost 12.0% of its health!)
-The Pokémon was hit 2 times!
+Waggling a finger let it use Venoshock!
+It's not very effective...
+(The opposing Nidoking lost 12.2% of its health!)
 
+The opposing Nidoking fainted!
 Honchkrow used Metronome!
 
-Waggling a finger let it use Last Resort!
-But it failed!
+Waggling a finger let it use Seed Flare!
+It's not very effective...
+(The opposing Vileplume lost 6.7% of its health!)
+The opposing Vileplume's Sp. Def fell harshly!
 
-The opposing Seviper used Metronome!
+Pelipper is fast asleep.
 
-Waggling a finger let it use Heal Pulse!
-Scyther had its HP restored.
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Weather Ball!
+(Honchkrow lost 16.9% of its health!)
 
 Turn 8
 
-Scyther used Metronome!
-
-Waggling a finger let it use Calm Mind!
-Scyther's Sp. Atk rose!
-Scyther's Sp. Def rose!
-
 Dragonite used Metronome!
 
-Waggling a finger let it use Shadow Claw!
-(The opposing Seviper lost 33.1% of its health!)
-
-The opposing Drapion used Metronome!
-
-Waggling a finger let it use Assurance!
-It's not very effective...
-(Honchkrow lost 7.5% of its health!)
+Waggling a finger let it use Shock Wave!
+But it failed!
 
 Honchkrow used Metronome!
 
-Waggling a finger let it use Acrobatics!
-(The opposing Seviper lost 32.3% of its health!)
+Waggling a finger let it use Thunder Wave!
+The opposing Vileplume is paralyzed! It may be unable to move!
 
-The opposing Seviper used Metronome!
+Pelipper is fast asleep.
 
-Waggling a finger let it use Frustration!
-(Scyther lost 12.3% of its health!)
+The opposing Vileplume is paralyzed! It can't move!
 
 Turn 9
 
-Scyther used Metronome!
-
-Waggling a finger let it use Crabhammer!
-[DEBUG] Base Power: 90.
-[DEBUG] Base Power: 90.
-(The opposing Seviper lost 11.3% of its health!)
-
-The opposing Seviper fainted!
 Dragonite used Metronome!
 
-Waggling a finger let it use Meditate!
-Dragonite's Attack rose!
-
-The opposing Drapion used Metronome!
-
-Waggling a finger let it use Razor Leaf!
-[DEBUG] Spread modifier: 0.75.
-[DEBUG] Spread modifier: 0.75.
-It's not very effective on Dragonite.
-[DEBUG] Spread modifier: 0.75.
-[DEBUG] Spread modifier: 0.75.
-It's not very effective on Honchkrow.
-(Dragonite lost 1.8% of its health!)
-(Honchkrow lost 6.3% of its health!)
+Waggling a finger let it use Echoed Voice!
+But it failed!
 
 Honchkrow used Metronome!
 
-Waggling a finger let it use Lick!
-It doesn't affect the opposing Drapion...
+Waggling a finger let it use Mirror Shot!
+(The opposing Vileplume lost 33.3% of its health!)
+
+Pelipper is fast asleep.
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Sky Uppercut!
+(Honchkrow lost 27.5% of its health!)
 
 Turn 10
 
-Scyther used Metronome!
-
-Waggling a finger let it use Flare Blitz!
-But it failed!
-
 Dragonite used Metronome!
 
-Waggling a finger let it use Sweet Kiss!
-The opposing Drapion became confused!
-
-The opposing Drapion is confused!
-It hurt itself in its confusion!
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+Pelipper woke up!
 
 Honchkrow used Metronome!
 
-Waggling a finger let it use Bubble!
-(The opposing Drapion lost 7.7% of its health!)
+Waggling a finger let it use Dizzy Punch!
+(The opposing Vileplume lost 15.6% of its health!)
 
-Turn 11
-
-Scyther used Metronome!
-
-Waggling a finger let it use Vital Throw!
-But it failed!
-
-Dragonite used Metronome!
-
-Waggling a finger let it use Stomp!
-(The opposing Drapion lost 12.3% of its health!)
-
-The opposing Drapion fainted!
+The opposing Vileplume fainted!
 
 MTN Flying won the battle!

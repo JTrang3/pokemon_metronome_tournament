@@ -1,0 +1,422 @@
+☆MTN Psychic and ☆MTN Normal joined
+Format: [Gen 5] Triples Custom Game
+MTN Psychic's team:
+Alakazam / Slowking / Claydol / Bronzong / Sigilyph / Gardevoir
+MTN Normal's team:
+Snorlax / Girafarig / Swellow / Bibarel / Sawsbuck / Clefable
+
+Battle started between MTN Psychic and MTN Normal!
+
+Go! Slowking!
+
+Go! Bronzong!
+
+Go! Claydol!
+
+MTN Normal sent out Swellow!
+
+MTN Normal sent out Snorlax!
+
+MTN Normal sent out Bibarel!
+
+Turn 1
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Recover!
+The opposing Swellow's HP is full!
+
+Claydol used Metronome!
+
+Waggling a finger let it use Explosion!
+It's not very effective on Bronzong.
+(Bronzong lost 26.0% of its health!)
+(The opposing Swellow lost 92.5% of its health!)
+(The opposing Snorlax lost 30.9% of its health!)
+
+Claydol fainted!
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Sludge Wave!
+It doesn't affect Bronzong...
+(The opposing Snorlax lost 10.9% of its health!)
+(Slowking lost 13.5% of its health!)
+The opposing Snorlax was poisoned!
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Synchronoise!
+It doesn't affect the opposing Swellow...
+It doesn't affect the opposing Snorlax...
+It doesn't affect the opposing Bibarel...
+It's not very effective on Slowking.
+(Slowking lost 10.3% of its health!)
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Supersonic!
+Slowking avoided the attack!
+
+Slowking used Metronome!
+
+Waggling a finger let it use Dragon Breath!
+(The opposing Snorlax lost 12.7% of its health!)
+
+The opposing Snorlax was hurt by poison!
+
+Go! Alakazam!
+
+Turn 2
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Vacuum Wave!
+(Bronzong lost 11.0% of its health!)
+
+Alakazam used Metronome!
+
+Waggling a finger let it use Night Shade!
+It doesn't affect the opposing Snorlax...
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Lava Plume!
+It's not very effective on Slowking.
+It's super effective on Bronzong!
+(The opposing Snorlax lost 4.1% of its health!)
+(Slowking lost 6.5% of its health!)
+(Bronzong lost 15.7% of its health!)
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+It doesn't affect the opposing Snorlax...
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Stored Power!
+It's not very effective...
+(Slowking lost 2.6% of its health!)
+
+Slowking used Metronome!
+
+Waggling a finger let it use Last Resort!
+But it failed!
+
+The opposing Snorlax was hurt by poison!
+
+Turn 3
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Muddy Water!
+(Bronzong lost 15.7% of its health!)
+(Alakazam lost 23.5% of its health!)
+Bronzong's accuracy fell!
+Alakazam's accuracy fell!
+
+Alakazam used Metronome!
+
+Waggling a finger let it use Spite!
+It reduced the PP of the opposing Swellow's Metronome by 4!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Focus Energy!
+The opposing Bibarel is getting pumped!
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Water Gun!
+(The opposing Snorlax lost 8.2% of its health!)
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Guillotine!
+Alakazam avoided the attack!
+
+Slowking used Metronome!
+
+Waggling a finger let it use Cotton Guard!
+Slowking's Defense rose drastically!
+
+The opposing Snorlax was hurt by poison!
+
+The opposing Snorlax fainted!
+
+MTN Normal sent out Clefable!
+
+Turn 4
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Bubble!
+(Bronzong lost 4.7% of its health!)
+(Alakazam lost 5.2% of its health!)
+
+Alakazam used Metronome!
+
+Waggling a finger let it use Focus Blast!
+The opposing Swellow avoided the attack!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+Slowking was identified!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Bounce!
+The opposing Bibarel sprang up!
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Tackle!
+(The opposing Clefable lost 12.4% of its health!)
+
+Slowking used Metronome!
+
+Waggling a finger let it use Harden!
+Slowking's Defense rose!
+
+Turn 5
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Slack Off!
+The opposing Swellow had its HP restored.
+
+Alakazam used Metronome!
+
+Waggling a finger let it use Conversion!
+Alakazam's type changed to Normal!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Safeguard!
+The opposing team cloaked itself in a mystical veil!
+
+The opposing Bibarel used Bounce!
+A critical hit!
+(Alakazam lost 66.1% of its health!)
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Avalanche!
+It's super effective!
+(The opposing Swellow lost 57.5% of its health!)
+
+The opposing Swellow fainted!
+Slowking used Metronome!
+
+Waggling a finger let it use X-Scissor!
+(The opposing Bibarel lost 29.5% of its health!)
+
+MTN Normal sent out Girafarig!
+
+Turn 6
+
+Alakazam used Metronome!
+
+Waggling a finger let it use Giga Drain!
+(The opposing Clefable lost 25.9% of its health!)
+The opposing Clefable had its energy drained!
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Tail Glow!
+The opposing Girafarig's Sp. Atk rose drastically!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Ice Ball!
+It's not very effective...
+(Slowking lost 1.3% of its health!)
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Bulk Up!
+The opposing Bibarel's Attack rose sharply!
+The opposing Bibarel's Defense rose sharply!
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Tickle!
+The opposing Clefable's Attack fell!
+The opposing Clefable's Defense fell!
+
+Slowking used Metronome!
+
+Waggling a finger let it use Tail Whip!
+The opposing Clefable's Defense fell!
+The opposing Bibarel's Defense fell harshly!
+
+Turn 7
+
+Alakazam used Metronome!
+
+Waggling a finger let it use Substitute!
+But it does not have enough HP left to make a substitute!
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Ice Beam!
+(Alakazam lost 24.3% of its health!)
+
+Alakazam fainted!
+The opposing Clefable used Ice Ball!
+It's not very effective...
+(Bronzong lost 7.1% of its health!)
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Mirror Shot!
+It's not very effective...
+(Bronzong lost 7.1% of its health!)
+
+Bronzong used Metronome!
+
+Waggling a finger let it use Heal Block!
+The opposing Bibarel avoided the attack!
+The opposing Girafarig was prevented from healing!
+The opposing Clefable was prevented from healing!
+
+Slowking used Metronome!
+
+Waggling a finger let it use Round!
+(The opposing Bibarel lost 27.3% of its health!)
+
+Go! Gardevoir!
+[Gardevoir's Trace]
+[Gardevoir's Early Bird]
+Gardevoir traced the opposing Girafarig's Early Bird!
+
+Turn 8
+
+Gardevoir used Metronome!
+
+Waggling a finger let it use Magnet Bomb!
+(The opposing Girafarig lost 23.8% of its health!)
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Pin Missile!
+Bronzong avoided the attack!
+
+The opposing Clefable used Ice Ball!
+It's not very effective...
+A critical hit!
+(Bronzong lost 12.6% of its health!)
+
+Bronzong fainted!
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Barrage!
+A critical hit!
+(Slowking lost 21.3% of its health!)
+A critical hit!
+(Slowking lost 21.9% of its health!)
+The Pokémon was hit 2 times!
+
+Slowking used Metronome!
+
+Waggling a finger let it use Guard Split!
+Slowking shared its guard with the target!
+
+Go! Sigilyph!
+
+Turn 9
+
+Sigilyph used Metronome!
+
+Waggling a finger let it use Bone Club!
+(The opposing Bibarel lost 19.4% of its health!)
+
+Gardevoir used Metronome!
+
+Waggling a finger let it use Signal Beam!
+It's super effective!
+(The opposing Girafarig lost 63.1% of its health!)
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+Gardevoir avoided the attack!
+
+The opposing Clefable used Ice Ball!
+It's super effective!
+A critical hit!
+(Sigilyph lost 100% of its health!)
+
+Sigilyph fainted!
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Weather Ball!
+(Slowking lost 19.4% of its health!)
+
+Slowking used Metronome!
+
+Waggling a finger let it use Guillotine!
+The opposing Bibarel avoided the attack!
+
+The opposing team is no longer protected by Safeguard!
+
+Turn 10
+
+Gardevoir used Metronome!
+
+Waggling a finger let it use Leaf Blade!
+(The opposing Girafarig lost 13.1% of its health!)
+
+The opposing Girafarig fainted!
+The opposing Clefable used Ice Ball!
+It's not very effective...
+(Slowking lost 3.2% of its health!)
+
+Slowking fainted!
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Fake Tears!
+But it failed!
+
+MTN Normal sent out Sawsbuck!
+
+Turn 11
+
+Gardevoir used Metronome!
+
+Waggling a finger let it use Swift!
+(The opposing Sawsbuck lost 21.4% of its health!)
+(The opposing Clefable lost 14.7% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+It's super effective!
+(Gardevoir lost 36.4% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Poison Fang!
+A critical hit!
+(Gardevoir lost 30.1% of its health!)
+Gardevoir was badly poisoned!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Acrobatics!
+(Gardevoir lost 24.5% of its health!)
+
+Gardevoir was hurt by poison!
+The opposing Clefable's Heal Block wore off!
+
+Turn 12
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Magical Leaf!
+(Gardevoir lost 3.5% of its health!)
+
+Gardevoir fainted!
+
+MTN Normal won the battle!

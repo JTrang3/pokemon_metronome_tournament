@@ -1,0 +1,434 @@
+☆MTN Normal and ☆MTN Bug joined
+Format: [Gen 5] Triples Custom Game
+MTN Normal's team:
+Snorlax / Girafarig / Swellow / Bibarel / Sawsbuck / Clefable
+MTN Bug's team:
+Pinsir / Heracross / Armaldo / Vespiquen / Volcarona / Scizor
+
+Battle started between MTN Normal and MTN Bug!
+
+Go! Swellow!
+
+Go! Snorlax!
+
+Go! Bibarel!
+
+MTN Bug sent out Pinsir!
+
+MTN Bug sent out Armaldo!
+
+MTN Bug sent out Heracross!
+[The opposing Pinsir's Mold Breaker]
+The opposing Pinsir breaks the mold!
+
+Turn 1
+
+Swellow used Metronome!
+
+Waggling a finger let it use Roar!
+
+Volcarona was dragged out!
+
+The opposing Heracross used Metronome!
+
+Waggling a finger let it use Thunder!
+It's super effective!
+(Swellow lost 81.7% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Muddy Water!
+It's not very effective on Bibarel.
+(Snorlax lost 10% of its health!)
+(Bibarel lost 14.4% of its health!)
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Sandstorm!
+A sandstorm kicked up!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Baton Pass!
+
+Go! Clefable!
+
+(The sandstorm is raging.)
+Swellow is buffeted by the sandstorm!
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Pinsir is buffeted by the sandstorm!
+The opposing Heracross is buffeted by the sandstorm!
+Clefable is buffeted by the sandstorm!
+Bibarel is buffeted by the sandstorm!
+
+Turn 2
+
+Swellow used Metronome!
+
+Waggling a finger let it use Kinesis!
+The opposing Heracross's accuracy fell!
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Guillotine!
+Bibarel avoided the attack!
+
+The opposing Heracross used Metronome!
+
+Waggling a finger let it use Poison Sting!
+(Clefable lost 4.1% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use U-turn!
+(Bibarel lost 43.9% of its health!)
+
+The opposing Pinsir went back to MTN Bug!
+MTN Bug sent out Vespiquen!
+[The opposing Vespiquen's Pressure]
+The opposing Vespiquen is exerting its pressure!
+
+Clefable used Metronome!
+
+Waggling a finger let it use Belly Drum!
+(Clefable lost 50% of its health!)
+Clefable cut its own HP and maximized its Attack!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Amnesia!
+Bibarel's Sp. Def rose drastically!
+
+(The sandstorm is raging.)
+Swellow is buffeted by the sandstorm!
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Heracross is buffeted by the sandstorm!
+Clefable is buffeted by the sandstorm!
+Bibarel is buffeted by the sandstorm!
+The opposing Vespiquen is buffeted by the sandstorm!
+
+Turn 3
+
+Swellow used Metronome!
+
+Waggling a finger let it use Constrict!
+A critical hit!
+(The opposing Heracross lost 9.3% of its health!)
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Fire Pledge!
+(Swellow lost 6.7% of its health!)
+
+Swellow fainted!
+The opposing Heracross used Metronome!
+
+Waggling a finger let it use Stun Spore!
+Clefable avoided the attack!
+
+Clefable used Metronome!
+
+Waggling a finger let it use Submission!
+It's not very effective...
+(The opposing Heracross lost 53.6% of its health!)
+Clefable was damaged by the recoil!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Brave Bird!
+It's super effective!
+(The opposing Volcarona lost 59.3% of its health!)
+Bibarel was damaged by the recoil!
+
+The opposing Vespiquen used Metronome!
+
+Waggling a finger let it use Mirror Shot!
+It's not very effective...
+A critical hit!
+(Bibarel lost 10.1% of its health!)
+
+Bibarel fainted!
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Heracross is buffeted by the sandstorm!
+Clefable is buffeted by the sandstorm!
+The opposing Vespiquen is buffeted by the sandstorm!
+
+Go! Snorlax!
+
+Go! Girafarig!
+
+Turn 4
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Sucker Punch!
+But it failed!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Rock Climb!
+(The opposing Vespiquen lost 32.3% of its health!)
+
+The opposing Heracross used Metronome!
+
+Waggling a finger let it use Entrainment!
+Snorlax avoided the attack!
+
+Clefable used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(The opposing Vespiquen lost 37.7% of its health!)
+
+The opposing Vespiquen used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+(Clefable lost 17.1% of its health!)
+
+Clefable fainted!
+Snorlax used Metronome!
+
+Waggling a finger let it use Embargo!
+The opposing Heracross can't use items anymore!
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+Girafarig is buffeted by the sandstorm!
+The opposing Heracross is buffeted by the sandstorm!
+The opposing Vespiquen is buffeted by the sandstorm!
+Snorlax is buffeted by the sandstorm!
+
+Go! Sawsbuck!
+
+Turn 5
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Fusion Bolt!
+A critical hit!
+(Snorlax lost 30.9% of its health!)
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Role Play!
+[Sawsbuck's Sap Sipper]
+[Sawsbuck's Swarm]
+Sawsbuck copied the opposing Volcarona's Swarm Ability!
+
+The opposing Heracross used Metronome!
+
+Waggling a finger let it use Headbutt!
+(Snorlax lost 15.5% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Seed Bomb!
+It's not very effective...
+(The opposing Volcarona lost 4.8% of its health!)
+
+The opposing Vespiquen used Metronome!
+
+Waggling a finger let it use Dragon Rage!
+(Girafarig lost 30.8% of its health!)
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Poison Powder!
+The opposing Volcarona was poisoned!
+
+The sandstorm subsided.
+The opposing Volcarona was hurt by poison!
+
+The opposing Volcarona fainted!
+
+MTN Bug sent out Armaldo!
+
+Turn 6
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Icicle Spear!
+(The opposing Heracross lost 7.9% of its health!)
+(The opposing Heracross lost 6.4% of its health!)
+
+The opposing Heracross fainted!
+The Pokémon was hit 2 times!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Blast Burn!
+It's super effective!
+(The opposing Vespiquen lost 11.5% of its health!)
+
+The opposing Vespiquen fainted!
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Dragon Pulse!
+(Snorlax lost 15.5% of its health!)
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Acid Armor!
+Snorlax's Defense rose sharply!
+
+MTN Bug sent out Pinsir!
+
+MTN Bug sent out Scizor!
+[The opposing Pinsir's Mold Breaker]
+The opposing Pinsir breaks the mold!
+
+Turn 7
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use High Jump Kick!
+(The opposing Scizor lost 29.7% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Octazooka!
+It's not very effective...
+(Sawsbuck lost 10% of its health!)
+
+Girafarig must recharge!
+
+The opposing Scizor used Metronome!
+
+Waggling a finger let it use Dark Void!
+Sawsbuck avoided the attack!
+Girafarig avoided the attack!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Magma Storm!
+(Girafarig lost 43.8% of its health!)
+Girafarig became trapped by swirling magma!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Weather Ball!
+It's not very effective...
+(The opposing Armaldo lost 9.6% of its health!)
+
+Girafarig is hurt by Magma Storm!
+
+Turn 8
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Synchronoise!
+It doesn't affect the opposing Scizor...
+It doesn't affect the opposing Armaldo...
+It doesn't affect the opposing Pinsir...
+It's not very effective on Girafarig.
+(Snorlax lost 7.7% of its health!)
+(Girafarig lost 7.7% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Dynamic Punch!
+Snorlax avoided the attack!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Focus Energy!
+Girafarig is getting pumped!
+
+The opposing Scizor used Metronome!
+
+Waggling a finger let it use Heavy Slam!
+(Sawsbuck lost 37.1% of its health!)
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Smokescreen!
+Sawsbuck's accuracy fell!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+The opposing Armaldo was identified!
+
+Girafarig is hurt by Magma Storm!
+
+Girafarig fainted!
+
+Turn 9
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Water Sport!
+Fire's power was weakened!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Bubble!
+It's not very effective on Sawsbuck.
+(Snorlax lost 2.3% of its health!)
+(Sawsbuck lost 2.1% of its health!)
+
+The opposing Scizor used Metronome!
+
+Waggling a finger let it use Stored Power!
+(Sawsbuck lost 13.6% of its health!)
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Fire Spin!
+(Snorlax lost 1.4% of its health!)
+Snorlax became trapped in the fiery vortex!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Body Slam!
+It's not very effective...
+(The opposing Armaldo lost 18.5% of its health!)
+
+Snorlax is hurt by Fire Spin!
+
+Turn 10
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+The opposing Armaldo avoided the attack!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Sky Drop!
+The opposing Pinsir took Snorlax into the sky!
+
+The opposing Scizor used Metronome!
+
+Waggling a finger let it use Imprison!
+The opposing Scizor sealed any moves its target shares with it!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Quick Attack!
+Snorlax avoided the attack!
+
+Snorlax is hurt by Fire Spin!
+
+Snorlax fainted!
+
+Turn 11
+
+Sawsbuck has no moves left!
+
+Sawsbuck used Struggle!
+The opposing Pinsir avoided the attack!
+
+The opposing Pinsir used Sky Drop!
+But it failed!
+
+The opposing Scizor used Metronome!
+
+Waggling a finger let it use Brick Break!
+It's super effective!
+(Sawsbuck lost 37.1% of its health!)
+
+Sawsbuck fainted!
+
+MTN Bug won the battle!

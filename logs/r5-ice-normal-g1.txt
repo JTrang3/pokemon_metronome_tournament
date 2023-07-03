@@ -1,0 +1,476 @@
+☆MTN Ice and ☆MTN Normal joined
+Format: [Gen 5] Triples Custom Game
+MTN Ice's team:
+Jynx / Piloswine / Walrein / Weavile / Beartic / Abomasnow
+MTN Normal's team:
+Snorlax / Girafarig / Swellow / Bibarel / Sawsbuck / Clefable
+
+Battle started between MTN Ice and MTN Normal!
+
+Go! Weavile!
+
+Go! Walrein!
+
+Go! Abomasnow!
+
+MTN Normal sent out Sawsbuck!
+
+MTN Normal sent out Snorlax!
+
+MTN Normal sent out Bibarel!
+[Weavile's Pressure]
+Weavile is exerting its pressure!
+[Abomasnow's Snow Warning]
+It started to hail!
+
+Turn 1
+
+Weavile used Metronome!
+
+Waggling a finger let it use Pursuit!
+(The opposing Bibarel lost 23.7% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Acrobatics!
+(Weavile lost 20.8% of its health!)
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Block!
+The opposing Sawsbuck can no longer escape!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Extreme Speed!
+(Weavile lost 33.1% of its health!)
+
+Walrein used Metronome!
+
+Waggling a finger let it use Retaliate!
+(The opposing Bibarel lost 23.7% of its health!)
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Dragon Dance!
+The opposing Snorlax's Attack rose!
+The opposing Snorlax's Speed rose!
+
+(The hail is crashing down.)
+The opposing Sawsbuck is buffeted by the hail!
+The opposing Bibarel is buffeted by the hail!
+The opposing Snorlax is buffeted by the hail!
+
+Turn 2
+
+Weavile used Metronome!
+
+Waggling a finger let it use Reversal!
+It's super effective!
+(The opposing Bibarel lost 28.8% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Dark Pulse!
+(Abomasnow lost 13.9% of its health!)
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Outrage!
+(The opposing Sawsbuck lost 40.7% of its health!)
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Focus Energy!
+The opposing Bibarel is getting pumped!
+
+Walrein used Metronome!
+
+Waggling a finger let it use Aqua Ring!
+Walrein surrounded itself with a veil of water!
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Magma Storm!
+It's super effective!
+(Weavile lost 46.2% of its health!)
+
+Weavile fainted!
+
+(The hail is crashing down.)
+The opposing Sawsbuck is buffeted by the hail!
+The opposing Bibarel is buffeted by the hail!
+The opposing Snorlax is buffeted by the hail!
+
+Go! Jynx!
+
+Turn 3
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Thunder Wave!
+Abomasnow is paralyzed! It may be unable to move!
+
+Jynx used Metronome!
+
+Waggling a finger let it use Stun Spore!
+The opposing Bibarel is paralyzed! It may be unable to move!
+
+Abomasnow used Outrage!
+(The opposing Snorlax lost 23.6% of its health!)
+
+The opposing Bibarel is paralyzed! It can't move!
+
+Walrein used Metronome!
+
+Waggling a finger let it use Rage!
+(The opposing Bibarel lost 8.6% of its health!)
+(Rage started on Walrein!)
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Shell Smash!
+The opposing Snorlax's Defense fell!
+The opposing Snorlax's Sp. Def fell!
+The opposing Snorlax's Attack rose sharply!
+The opposing Snorlax's Sp. Atk rose sharply!
+The opposing Snorlax's Speed rose sharply!
+
+(The hail is crashing down.)
+The opposing Sawsbuck is buffeted by the hail!
+The opposing Snorlax is buffeted by the hail!
+The opposing Bibarel is buffeted by the hail!
+
+The opposing Bibarel fainted!
+
+MTN Normal sent out Girafarig!
+
+Turn 4
+
+Jynx used Metronome!
+
+Waggling a finger let it use Future Sight!
+Jynx foresaw an attack!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Horn Drill!
+Abomasnow avoided the attack!
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Round!
+(Walrein lost 19.4% of its health!)
+Walrein's Attack rose!
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Overheat!
+It's super effective!
+(Jynx lost 100% of its health!)
+The opposing Snorlax's Sp. Atk fell harshly!
+
+Jynx fainted!
+Walrein used Metronome!
+
+Waggling a finger let it use Waterfall!
+It's not very effective...
+(The opposing Sawsbuck lost 26.4% of its health!)
+
+Abomasnow used Outrage!
+(The opposing Snorlax lost 33.6% of its health!)
+Abomasnow became confused due to fatigue!
+
+(The hail is crashing down.)
+The opposing Sawsbuck is buffeted by the hail!
+The opposing Girafarig is buffeted by the hail!
+The opposing Snorlax is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+A veil of water restored Walrein's HP!
+
+Go! Beartic!
+
+Turn 5
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Rock Smash!
+It's super effective!
+(Abomasnow lost 15.8% of its health!)
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Rest!
+The opposing Girafarig slept and became healthy!
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Barrier!
+The opposing Snorlax's Defense rose sharply!
+
+Walrein used Metronome!
+
+Waggling a finger let it use Fury Cutter!
+It's super effective!
+(The opposing Girafarig lost 21.5% of its health!)
+
+Beartic used Metronome!
+
+Waggling a finger let it use Wring Out!
+(The opposing Snorlax lost 6.4% of its health!)
+
+Abomasnow is confused!
+It hurt itself in its confusion!
+
+(The hail is crashing down.)
+The opposing Sawsbuck is buffeted by the hail!
+The opposing Girafarig is buffeted by the hail!
+The opposing Snorlax is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+A veil of water restored Walrein's HP!
+
+Turn 6
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Skill Swap!
+[The opposing Sawsbuck's Snow Warning]
+[Abomasnow's Sap Sipper]
+The opposing Sawsbuck swapped Abilities with its target!
+[The opposing Sawsbuck's Sap Sipper]
+[Abomasnow's Snow Warning]
+
+The opposing Girafarig is fast asleep.
+
+The opposing Snorlax used Metronome!
+
+Waggling a finger let it use Blizzard!
+It's not very effective on Beartic.
+It's not very effective on Walrein.
+(Beartic lost 11.6% of its health!)
+(Walrein lost 5.3% of its health!)
+(Abomasnow lost 17.0% of its health!)
+
+Walrein used Metronome!
+
+Waggling a finger let it use Power Trick!
+Walrein switched its Attack and Defense!
+
+Beartic used Metronome!
+
+Waggling a finger let it use Struggle Bug!
+A critical hit on the opposing Snorlax!
+It's super effective on the opposing Girafarig!
+A critical hit on the opposing Girafarig!
+(The opposing Snorlax lost 6.8% of its health!)
+(The opposing Girafarig lost 29.2% of its health!)
+The opposing Girafarig's Sp. Atk fell!
+
+The opposing Snorlax fainted!
+Abomasnow is confused!
+It hurt itself in its confusion!
+
+(The hail is crashing down.)
+The opposing Sawsbuck is buffeted by the hail!
+The opposing Girafarig is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+
+The opposing Sawsbuck fainted!
+(Future Sight did not hit because the target is fainted.)
+
+MTN Normal sent out Swellow!
+
+MTN Normal sent out Clefable!
+
+Turn 7
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Lock-On!
+The opposing Swellow took aim at Walrein!
+The opposing Girafarig woke up!
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Sky Attack!
+The opposing Girafarig became cloaked in a harsh light!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Flail!
+(Abomasnow lost 7.3% of its health!)
+
+Walrein used Metronome!
+
+Waggling a finger let it use Pin Missile!
+It's not very effective...
+(The opposing Swellow lost 6.7% of its health!)
+It's not very effective...
+(The opposing Swellow lost 6.7% of its health!)
+The Pokémon was hit 2 times!
+
+Beartic used Metronome!
+
+Waggling a finger let it use Ember!
+(The opposing Girafarig lost 13.8% of its health!)
+
+Abomasnow is confused!
+Abomasnow used Metronome!
+
+Waggling a finger let it use Spike Cannon!
+(The opposing Clefable lost 4.7% of its health!)
+(The opposing Clefable lost 4.1% of its health!)
+(The opposing Clefable lost 4.1% of its health!)
+(The opposing Clefable lost 4.1% of its health!)
+(The opposing Clefable lost 4.1% of its health!)
+The Pokémon was hit 5 times!
+
+(The hail is crashing down.)
+The opposing Swellow is buffeted by the hail!
+The opposing Girafarig is buffeted by the hail!
+The opposing Clefable is buffeted by the hail!
+
+Turn 8
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Crunch!
+(Walrein lost 14.7% of its health!)
+
+The opposing Girafarig used Sky Attack!
+(Beartic lost 27.7% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Howl!
+The opposing Clefable's Attack rose!
+
+Walrein used Metronome!
+
+Waggling a finger let it use Vise Grip!
+(The opposing Clefable lost 20% of its health!)
+
+Beartic used Metronome!
+
+Waggling a finger let it use Extrasensory!
+(The opposing Clefable lost 18.8% of its health!)
+Abomasnow snapped out of its confusion!
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Sky Drop!
+Abomasnow took the opposing Clefable into the sky!
+
+(The hail is crashing down.)
+The opposing Swellow is buffeted by the hail!
+The opposing Girafarig is buffeted by the hail!
+The opposing Clefable is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+A veil of water restored Walrein's HP!
+
+Turn 9
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+Walrein was identified!
+
+The opposing Girafarig used Metronome!
+
+Waggling a finger let it use Thunder!
+It's super effective!
+(Walrein lost 34.1% of its health!)
+
+Walrein used Metronome!
+
+Waggling a finger let it use Giga Impact!
+The opposing Clefable avoided the attack!
+
+Beartic used Metronome!
+
+Waggling a finger let it use Beat Up!
+It's super effective!
+(The opposing Girafarig lost 10.8% of its health!)
+
+The opposing Girafarig fainted!
+The Pokémon was hit 1 time!
+
+Abomasnow used Sky Drop!
+(The opposing Clefable lost 14.1% of its health!)
+The opposing Clefable was freed from the Sky Drop!
+
+(The hail is crashing down.)
+The opposing Swellow is buffeted by the hail!
+The opposing Clefable is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+A veil of water restored Walrein's HP!
+
+Turn 10
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Entrainment!
+[Abomasnow's Sap Sipper]
+[Abomasnow's Guts]
+Abomasnow acquired Guts!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Close Combat!
+It's super effective!
+(Beartic lost 60.6% of its health!)
+The opposing Clefable's Defense fell!
+The opposing Clefable's Sp. Def fell!
+
+Beartic fainted!
+Walrein used Metronome!
+
+Waggling a finger let it use Present!
+(The opposing Clefable lost 8.2% of its health!)
+
+The opposing Clefable fainted!
+Abomasnow used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+The opposing Swellow was identified!
+
+(The hail is crashing down.)
+The opposing Swellow is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+A veil of water restored Walrein's HP!
+
+Go! Piloswine!
+
+Turn 11
+
+The opposing Swellow used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+(Walrein lost 17.1% of its health!)
+
+Walrein used Metronome!
+
+Waggling a finger let it use Growth!
+Walrein's Attack rose!
+Walrein's Sp. Atk rose!
+
+Piloswine used Metronome!
+
+Waggling a finger let it use Fire Fang!
+But it failed!
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Storm Throw!
+A critical hit!
+(The opposing Swellow lost 63.3% of its health!)
+
+The opposing Swellow fainted!
+
+MTN Ice won the battle!

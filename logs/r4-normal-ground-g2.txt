@@ -1,0 +1,410 @@
+☆MTN Normal and ☆MTN Ground joined
+Format: [Gen 5] Triples Custom Game
+MTN Normal's team:
+Snorlax / Girafarig / Swellow / Bibarel / Sawsbuck / Clefable
+MTN Ground's team:
+Golem / Donphan / Flygon / Hippowdon / Excadrill / Nidoqueen
+
+Battle started between MTN Normal and MTN Ground!
+
+Go! Swellow!
+
+Go! Snorlax!
+
+Go! Sawsbuck!
+
+MTN Ground sent out Hippowdon!
+
+MTN Ground sent out Flygon!
+
+MTN Ground sent out Excadrill!
+[The opposing Hippowdon's Sand Stream]
+A sandstorm kicked up!
+
+Turn 1
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Vital Throw!
+It's super effective!
+(Snorlax lost 32.7% of its health!)
+
+Swellow used Metronome!
+
+Waggling a finger let it use Acid Armor!
+Swellow's Defense rose sharply!
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Dragon Dance!
+The opposing Flygon's Attack rose!
+The opposing Flygon's Speed rose!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Nightmare!
+But it failed!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Dragon Claw!
+(Snorlax lost 15% of its health!)
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Defend Order!
+Snorlax's Defense rose!
+Snorlax's Sp. Def rose!
+
+(The sandstorm is raging.)
+Swellow is buffeted by the sandstorm!
+Sawsbuck is buffeted by the sandstorm!
+Snorlax is buffeted by the sandstorm!
+
+Turn 2
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Beat Up!
+(Swellow lost 5.8% of its health!)
+(Swellow lost 5.8% of its health!)
+(Swellow lost 7.5% of its health!)
+(Swellow lost 5.8% of its health!)
+(Swellow lost 5.8% of its health!)
+(Swellow lost 5% of its health!)
+The Pokémon was hit 6 times!
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+It's super effective!
+(Sawsbuck lost 77.1% of its health!)
+
+Swellow used Metronome!
+
+Waggling a finger let it use Dual Chop!
+It's not very effective...
+(The opposing Excadrill lost 4.1% of its health!)
+It's not very effective...
+(The opposing Excadrill lost 4.7% of its health!)
+The Pokémon was hit 2 times!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Block!
+The opposing Flygon can no longer escape!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Octazooka!
+Snorlax avoided the attack!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Lucky Chant!
+Lucky Chant shielded your team from critical hits!
+
+(The sandstorm is raging.)
+Swellow is buffeted by the sandstorm!
+Sawsbuck is buffeted by the sandstorm!
+Snorlax is buffeted by the sandstorm!
+
+Turn 3
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Cotton Spore!
+Snorlax's Speed fell harshly!
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+(Swellow lost 24.2% of its health!)
+
+Swellow used Metronome!
+
+Waggling a finger let it use Splash!
+But nothing happened!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Defend Order!
+Sawsbuck's Defense rose!
+Sawsbuck's Sp. Def rose!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Cut!
+(Snorlax lost 6.8% of its health!)
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+It's not very effective...
+(The opposing Excadrill lost 8.8% of its health!)
+
+(The sandstorm is raging.)
+Swellow is buffeted by the sandstorm!
+Sawsbuck is buffeted by the sandstorm!
+Snorlax is buffeted by the sandstorm!
+
+Turn 4
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Octazooka!
+Swellow avoided the attack!
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Giga Drain!
+It's not very effective...
+(Swellow lost 16.7% of its health!)
+
+Swellow used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+Sawsbuck used Metronome!
+
+Waggling a finger let it use Double Team!
+Sawsbuck's evasiveness rose!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Nasty Plot!
+The opposing Hippowdon's Sp. Atk rose sharply!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Tail Whip!
+The opposing Hippowdon's Defense fell!
+The opposing Flygon's Defense fell!
+The opposing Excadrill's Defense fell!
+
+(The sandstorm is raging.)
+Swellow is buffeted by the sandstorm!
+Sawsbuck is buffeted by the sandstorm!
+Snorlax is buffeted by the sandstorm!
+
+Swellow fainted!
+Sawsbuck fainted!
+The opposing Excadrill's perish count fell to 3.
+The opposing Flygon's perish count fell to 3.
+The opposing Hippowdon's perish count fell to 3.
+Snorlax's perish count fell to 3.
+
+Go! Girafarig!
+
+Go! Clefable!
+
+Turn 5
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+(Girafarig lost 33.1% of its health!)
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+(Snorlax lost 10.5% of its health!)
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Twister!
+It's super effective on the opposing Flygon!
+It's not very effective on the opposing Excadrill.
+(The opposing Flygon lost 17.1% of its health!)
+(The opposing Excadrill lost 4.7% of its health!)
+
+Clefable used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+(The opposing Flygon lost 23.6% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Leech Seed!
+Clefable was seeded!
+
+Snorlax used Metronome!
+
+Waggling a finger let it use Luster Purge!
+It's not very effective...
+(The opposing Excadrill lost 10.6% of its health!)
+
+(The sandstorm is raging.)
+Girafarig is buffeted by the sandstorm!
+Clefable is buffeted by the sandstorm!
+Snorlax is buffeted by the sandstorm!
+Clefable's health is sapped by Leech Seed!
+The opposing Excadrill's perish count fell to 2.
+The opposing Flygon's perish count fell to 2.
+The opposing Hippowdon's perish count fell to 2.
+Snorlax's perish count fell to 2.
+
+Turn 6
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Ancient Power!
+(Girafarig lost 16.2% of its health!)
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Ice Ball!
+Snorlax avoided the attack!
+
+Girafarig used Metronome!
+
+Waggling a finger let it use Swagger!
+The opposing Excadrill's Attack rose sharply!
+The opposing Excadrill became confused!
+
+Clefable used Metronome!
+
+Waggling a finger let it use Hex!
+(The opposing Hippowdon lost 13.1% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Scratch!
+(Snorlax lost 5.5% of its health!)
+
+Snorlax fainted!
+
+(The sandstorm is raging.)
+Girafarig is buffeted by the sandstorm!
+Clefable is buffeted by the sandstorm!
+Clefable's health is sapped by Leech Seed!
+The opposing Excadrill's perish count fell to 1.
+The opposing Flygon's perish count fell to 1.
+The opposing Hippowdon's perish count fell to 1.
+Your team's Lucky Chant wore off!
+
+Go! Bibarel!
+
+Turn 7
+
+The opposing Excadrill is confused!
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Wood Hammer!
+(Girafarig lost 38.5% of its health!)
+
+Girafarig fainted!
+The opposing Excadrill was damaged by the recoil!
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+It doesn't affect Clefable...
+
+Clefable used Metronome!
+
+Waggling a finger let it use Fire Fang!
+(The opposing Hippowdon lost 24.4% of its health!)
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Leer!
+The opposing Hippowdon's Defense fell!
+The opposing Flygon's Defense fell!
+The opposing Excadrill's Defense fell!
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Needle Arm!
+(Clefable lost 14.7% of its health!)
+[Clefable's Cute Charm]
+The opposing Hippowdon fell in love!
+
+(The sandstorm is raging.)
+Clefable is buffeted by the sandstorm!
+Bibarel is buffeted by the sandstorm!
+Clefable's health is sapped by Leech Seed!
+The opposing Excadrill's perish count fell to 0.
+The opposing Flygon's perish count fell to 0.
+The opposing Hippowdon's perish count fell to 0.
+
+The opposing Excadrill fainted!
+The opposing Flygon fainted!
+The opposing Hippowdon fainted!
+
+MTN Ground sent out Donphan!
+
+MTN Ground sent out Golem!
+
+MTN Ground sent out Nidoqueen!
+
+Turn 8
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Gear Grind!
+It's not very effective...
+(Bibarel lost 10.1% of its health!)
+It's not very effective...
+(Bibarel lost 10.8% of its health!)
+The Pokémon was hit 2 times!
+
+Clefable used Metronome!
+
+Waggling a finger let it use Reflect!
+Reflect made your team stronger against physical moves!
+
+Bibarel used Metronome!
+
+Waggling a finger let it use Coil!
+Bibarel's Attack rose sharply!
+Bibarel's Defense rose sharply!
+Bibarel's accuracy rose sharply!
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Double-Edge!
+(Bibarel lost 14.4% of its health!)
+The opposing Donphan was damaged by the recoil!
+
+The opposing Golem used Metronome!
+
+Waggling a finger let it use Low Sweep!
+It's super effective!
+(Bibarel lost 15.1% of its health!)
+Bibarel's Speed fell harshly!
+
+(The sandstorm is raging.)
+Clefable is buffeted by the sandstorm!
+Bibarel is buffeted by the sandstorm!
+Clefable's health is sapped by Leech Seed!
+
+Turn 9
+
+The opposing Nidoqueen used Metronome!
+
+Waggling a finger let it use Giga Impact!
+A critical hit!
+(Bibarel lost 38.1% of its health!)
+
+Bibarel fainted!
+Clefable used Metronome!
+
+Waggling a finger let it use Roar of Time!
+(The opposing Donphan lost 44% of its health!)
+
+The opposing Donphan used Metronome!
+
+Waggling a finger let it use Fury Attack!
+(Clefable lost 2.9% of its health!)
+(Clefable lost 2.9% of its health!)
+(Clefable lost 2.9% of its health!)
+(Clefable lost 2.4% of its health!)
+A critical hit!
+(Clefable lost 1.2% of its health!)
+
+Clefable fainted!
+The Pokémon was hit 5 times!
+
+MTN Ground won the battle!

@@ -1,0 +1,463 @@
+☆MTN Steel and ☆MTN Water joined
+Format: [Gen 5] Triples Custom Game
+MTN Steel's team:
+Steelix / Metagross / Bastiodon / Bisharp / Escavalier / Mawile
+MTN Water's team:
+Tentacruel / Kingdra / Sharpedo / Gastrodon / Carracosta / Milotic
+
+Battle started between MTN Steel and MTN Water!
+
+Go! Metagross!
+
+Go! Bastiodon!
+
+Go! Escavalier!
+
+MTN Water sent out Kingdra!
+
+MTN Water sent out Gastrodon!
+
+MTN Water sent out Sharpedo!
+
+Turn 1
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Bone Club!
+It's super effective!
+(Bastiodon lost 66.7% of its health!)
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Last Resort!
+But it failed!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Camouflage!
+Metagross's type changed to Ground!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Pluck!
+It's not very effective...
+(Bastiodon lost 3.3% of its health!)
+The opposing Gastrodon stole and ate its target's Leppa Berry!
+The opposing Gastrodon restored PP to its move Metronome using its Leppa Berry!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Leech Seed!
+The opposing Kingdra was seeded!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Flame Wheel!
+It's not very effective...
+A critical hit!
+(The opposing Kingdra lost 11.9% of its health!)
+
+The opposing Kingdra's health is sapped by Leech Seed!
+
+Turn 2
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Swallow!
+But it failed!
+
+Metagross used Metronome!
+
+Waggling a finger let it use Growl!
+The opposing Gastrodon's Attack fell!
+The opposing Sharpedo's Attack fell!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Leech Life!
+A critical hit!
+(Metagross lost 10% of its health!)
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Gastro Acid!
+The opposing Sharpedo's Ability was suppressed!
+
+Escavalier used Metronome!
+
+Waggling a finger let it use Double Kick!
+(The opposing Gastrodon lost 10.5% of its health!)
+A critical hit!
+(The opposing Gastrodon lost 19.3% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Kingdra's health is sapped by Leech Seed!
+The opposing Sharpedo's perish count fell to 3.
+The opposing Kingdra's perish count fell to 3.
+Metagross's perish count fell to 3.
+The opposing Gastrodon's perish count fell to 3.
+Bastiodon's perish count fell to 3.
+Escavalier's perish count fell to 3.
+
+Turn 3
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+A critical hit!
+(Bastiodon lost 48.3% of its health!)
+The opposing Sharpedo's Attack rose!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Drill Peck!
+It's not very effective...
+(Bastiodon lost 5% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Power Swap!
+Metagross switched all changes to its Attack and Sp. Atk with its target!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Disable!
+Escavalier's Metronome was disabled!
+
+Bastiodon used Metronome!
+
+Waggling a finger let it use Defense Curl!
+Bastiodon's Defense rose!
+
+Escavalier's Metronome is disabled!
+
+The opposing Kingdra's health is sapped by Leech Seed!
+The opposing Sharpedo's perish count fell to 2.
+The opposing Kingdra's perish count fell to 2.
+Metagross's perish count fell to 2.
+The opposing Gastrodon's perish count fell to 2.
+Bastiodon's perish count fell to 2.
+Escavalier's perish count fell to 2.
+
+Turn 4
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Double Kick!
+It's super effective!
+(Bastiodon lost 16.7% of its health!)
+
+Bastiodon fainted!
+The Pokémon was hit 1 time!
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Thunder Shock!
+(Escavalier lost 14.6% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Luster Purge!
+(The opposing Gastrodon lost 20.5% of its health!)
+The opposing Gastrodon's Sp. Def fell!
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Dragon Rush!
+Escavalier avoided the attack!
+
+Escavalier used Recycle!
+But it failed!
+
+The opposing Sharpedo's perish count fell to 1.
+The opposing Kingdra's perish count fell to 1.
+Metagross's perish count fell to 1.
+The opposing Gastrodon's perish count fell to 1.
+Escavalier's perish count fell to 1.
+
+Go! Steelix!
+
+Turn 5
+
+The opposing Sharpedo used Metronome!
+
+Waggling a finger let it use Razor Leaf!
+It's super effective on Metagross!
+A critical hit on Steelix!
+(Metagross lost 22.9% of its health!)
+(Steelix lost 17.0% of its health!)
+
+The opposing Kingdra used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+It's not very effective...
+(Escavalier lost 0.8% of its health!)
+
+Metagross used Metronome!
+
+Waggling a finger let it use Attract!
+It doesn't affect the opposing Gastrodon...
+
+The opposing Gastrodon used Metronome!
+
+Waggling a finger let it use Heal Order!
+The opposing Gastrodon had its HP restored.
+
+Steelix used Metronome!
+
+Waggling a finger let it use Fling!
+It's not very effective...
+(The opposing Sharpedo lost 2.3% of its health!)
+The opposing Sharpedo restored PP to its move Metronome using its Leppa Berry!
+Steelix flung its Leppa Berry!
+
+Escavalier used Recycle!
+But it failed!
+
+The opposing Kingdra's health is sapped by Leech Seed!
+The opposing Sharpedo's perish count fell to 0.
+The opposing Kingdra's perish count fell to 0.
+Metagross's perish count fell to 0.
+The opposing Gastrodon's perish count fell to 0.
+Escavalier's perish count fell to 0.
+
+The opposing Sharpedo fainted!
+The opposing Kingdra fainted!
+Metagross fainted!
+The opposing Gastrodon fainted!
+Escavalier fainted!
+
+MTN Water sent out Carracosta!
+
+MTN Water sent out Tentacruel!
+
+Go! Bisharp!
+
+MTN Water sent out Milotic!
+
+Go! Mawile!
+
+Turn 6
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Leech Life!
+It's not very effective...
+(Steelix lost 1.5% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Tri Attack!
+It's not very effective...
+(Mawile lost 13.6% of its health!)
+
+Bisharp used Metronome!
+
+Waggling a finger let it use Thunderbolt!
+It's super effective!
+(The opposing Milotic lost 31.8% of its health!)
+
+Mawile used Metronome!
+
+Waggling a finger let it use Fire Spin!
+It's not very effective...
+(The opposing Tentacruel lost 4.3% of its health!)
+The opposing Tentacruel became trapped in the fiery vortex!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Super Fang!
+(Bisharp lost 49.6% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Swallow!
+But it failed!
+
+The opposing Tentacruel is hurt by Fire Spin!
+
+Turn 7
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Low Kick!
+It's super effective!
+(Mawile lost 25.6% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Rock Smash!
+It's super effective!
+(Bisharp lost 50.4% of its health!)
+
+Bisharp fainted!
+Mawile used Metronome!
+
+Waggling a finger let it use Iron Head!
+It's not very effective...
+(The opposing Tentacruel lost 22.1% of its health!)
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Electroweb!
+It doesn't affect Steelix...
+
+Steelix used Metronome!
+
+Waggling a finger let it use Sludge Bomb!
+It's not very effective...
+(The opposing Tentacruel lost 9.3% of its health!)
+
+The opposing Tentacruel is hurt by Fire Spin!
+
+Turn 8
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+It's not very effective...
+(Mawile lost 12.8% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Sweet Scent!
+Steelix's evasiveness fell!
+Mawile's evasiveness fell!
+
+Mawile used Metronome!
+
+Waggling a finger let it use Megahorn!
+It's not very effective...
+(The opposing Tentacruel lost 18.6% of its health!)
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Entrainment!
+[Steelix's Rock Head]
+[Steelix's Solid Rock]
+Steelix acquired Solid Rock!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Wrap!
+It's not very effective...
+(The opposing Carracosta lost 1.5% of its health!)
+The opposing Carracosta was wrapped by Steelix!
+
+The opposing Tentacruel is hurt by Fire Spin!
+The opposing Carracosta is hurt by Wrap!
+
+Turn 9
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Rock Wrecker!
+It's not very effective...
+(Steelix lost 5.2% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Steamroller!
+It's not very effective...
+(Mawile lost 12% of its health!)
+
+Mawile flinched and couldn't move!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Charge Beam!
+It doesn't affect Steelix...
+
+Steelix used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+(The opposing Carracosta lost 14.2% of its health!)
+
+The opposing Tentacruel is hurt by Fire Spin!
+The opposing Carracosta is hurt by Wrap!
+
+Turn 10
+
+The opposing Tentacruel must recharge!
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Spore!
+Mawile fell asleep!
+
+Mawile is fast asleep.
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Draco Meteor!
+It's not very effective...
+(Steelix lost 25.2% of its health!)
+The opposing Carracosta's Sp. Atk fell harshly!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Flame Burst!
+It's not very effective...
+A critical hit!
+(The opposing Carracosta lost 9.0% of its health!)
+The bursting flame hit the opposing Milotic!
+
+The opposing Tentacruel was freed from Fire Spin!
+The opposing Carracosta is hurt by Wrap!
+
+Turn 11
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Psybeam!
+It's not very effective...
+(Mawile lost 8.8% of its health!)
+
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Fissure!
+Steelix avoided the attack!
+
+Mawile is fast asleep.
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Rollout!
+It's not very effective...
+(Steelix lost 2.2% of its health!)
+
+Steelix used Metronome!
+
+Waggling a finger let it use Needle Arm!
+(The opposing Tentacruel lost 18.6% of its health!)
+
+The opposing Carracosta is hurt by Wrap!
+
+Turn 12
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Surf!
+It's not very effective on the opposing Milotic.
+It's super effective on Steelix!
+(The opposing Milotic lost 8.8% of its health!)
+(Steelix lost 46.7% of its health!)
+(Mawile lost 27.2% of its health!)
+
+Mawile fainted!
+The opposing Milotic used Metronome!
+
+Waggling a finger let it use Superpower!
+It's super effective!
+(Steelix lost 14.1% of its health!)
+The opposing Milotic's Attack fell!
+The opposing Milotic's Defense fell!
+
+Steelix fainted!
+
+MTN Water won the battle!

@@ -1,0 +1,422 @@
+☆MTN Flying and ☆MTN Grass joined
+Format: [Gen 5] Triples Custom Game
+MTN Flying's team:
+Scyther / Skarmory / Pelipper / Honchkrow / Braviary / Dragonite
+MTN Grass's team:
+Victreebel / Jumpluff / Shiftry / Tangrowth / Ferrothorn / Exeggutor
+
+Battle started between MTN Flying and MTN Grass!
+
+Go! Braviary!
+
+Go! Skarmory!
+
+Go! Scyther!
+
+MTN Grass sent out Tangrowth!
+
+MTN Grass sent out Jumpluff!
+
+MTN Grass sent out Ferrothorn!
+
+Turn 1
+
+The opposing Jumpluff used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(Braviary lost 26.9% of its health!)
+
+Scyther used Metronome!
+
+Waggling a finger let it use Hypnosis!
+The opposing Jumpluff fell asleep!
+
+Braviary used Metronome!
+
+Waggling a finger let it use Heart Stamp!
+A critical hit!
+(The opposing Jumpluff lost 58.5% of its health!)
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Mist Ball!
+(The opposing Tangrowth lost 17.5% of its health!)
+
+The opposing Tangrowth used Metronome!
+
+Waggling a finger let it use Water Pledge!
+(Skarmory lost 17.6% of its health!)
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Aurora Beam!
+It's super effective!
+(Braviary lost 38.8% of its health!)
+
+Turn 2
+
+The opposing Jumpluff is fast asleep.
+
+Scyther used Metronome!
+
+Waggling a finger let it use Rapid Spin!
+(The opposing Jumpluff lost 14.1% of its health!)
+
+Braviary used Metronome!
+
+Waggling a finger let it use Curse!
+Braviary's Speed fell!
+Braviary's Attack rose!
+Braviary's Defense rose!
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Ice Fang!
+It's super effective!
+(The opposing Jumpluff lost 27.4% of its health!)
+
+The opposing Jumpluff fainted!
+The opposing Tangrowth used Metronome!
+
+Waggling a finger let it use Calm Mind!
+The opposing Tangrowth's Sp. Atk rose!
+The opposing Tangrowth's Sp. Def rose!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Thunderbolt!
+It's super effective!
+(Skarmory lost 60.8% of its health!)
+
+MTN Grass sent out Exeggutor!
+
+Turn 3
+
+Scyther used Metronome!
+
+Waggling a finger let it use Trick Room!
+Scyther twisted the dimensions!
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Bubble!
+It's not very effective on the opposing Tangrowth.
+It's not very effective on the opposing Exeggutor.
+It's not very effective on the opposing Ferrothorn.
+(The opposing Tangrowth lost 1.3% of its health!)
+(The opposing Exeggutor lost 1.2% of its health!)
+(The opposing Ferrothorn lost 1.5% of its health!)
+The opposing Exeggutor's Speed fell!
+
+The opposing Exeggutor used Metronome!
+
+Waggling a finger let it use Calm Mind!
+The opposing Exeggutor's Sp. Atk rose!
+The opposing Exeggutor's Sp. Def rose!
+
+Braviary used Metronome!
+
+Waggling a finger let it use Teleport!
+But it failed!
+
+The opposing Tangrowth used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Twister!
+It's not very effective on Skarmory.
+(Braviary lost 9.4% of its health!)
+(Skarmory lost 4.8% of its health!)
+
+The opposing Ferrothorn's perish count fell to 3.
+The opposing Exeggutor's perish count fell to 3.
+The opposing Tangrowth's perish count fell to 3.
+Braviary's perish count fell to 3.
+Skarmory's perish count fell to 3.
+Scyther's perish count fell to 3.
+
+Turn 4
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Sand Attack!
+Skarmory's accuracy fell!
+
+The opposing Exeggutor used Metronome!
+
+Waggling a finger let it use Heal Block!
+Braviary was prevented from healing!
+Skarmory was prevented from healing!
+Scyther was prevented from healing!
+
+The opposing Tangrowth used Metronome!
+
+Waggling a finger let it use Iron Tail!
+It's not very effective...
+(Skarmory lost 16% of its health!)
+
+Braviary used Metronome!
+
+Waggling a finger let it use Grudge!
+Braviary wants its target to bear a grudge!
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Bullet Seed!
+It's not very effective...
+(The opposing Tangrowth lost 2.5% of its health!)
+It's not very effective...
+(The opposing Tangrowth lost 1.9% of its health!)
+The Pokémon was hit 2 times!
+
+Scyther used Metronome!
+
+Waggling a finger let it use Powder Snow!
+It's super effective on the opposing Tangrowth!
+It's super effective on the opposing Exeggutor!
+(The opposing Tangrowth lost 15% of its health!)
+(The opposing Exeggutor lost 9.4% of its health!)
+
+The opposing Ferrothorn's perish count fell to 2.
+The opposing Exeggutor's perish count fell to 2.
+The opposing Tangrowth's perish count fell to 2.
+Braviary's perish count fell to 2.
+Skarmory's perish count fell to 2.
+Scyther's perish count fell to 2.
+
+Turn 5
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+It doesn't affect Braviary...
+
+The opposing Exeggutor used Metronome!
+
+Waggling a finger let it use Blizzard!
+Skarmory avoided the attack!
+Scyther avoided the attack!
+It's super effective on Braviary!
+(Braviary lost 25% of its health!)
+
+Braviary fainted!
+The opposing Exeggutor's Metronome lost all of its PP due to the grudge!
+(The opposing Exeggutor ate its Leppa Berry!)
+The opposing Exeggutor restored PP to its move Metronome using its Leppa Berry!
+
+The opposing Tangrowth used Metronome!
+
+Waggling a finger let it use Feather Dance!
+Scyther's Attack fell harshly!
+
+Skarmory used Metronome!
+
+Waggling a finger let it use Surf!
+It's not very effective on the opposing Tangrowth.
+It's not very effective on the opposing Exeggutor.
+It's not very effective on the opposing Ferrothorn.
+(Scyther lost 19.2% of its health!)
+(The opposing Tangrowth lost 5.6% of its health!)
+(The opposing Exeggutor lost 4.1% of its health!)
+(The opposing Ferrothorn lost 7.5% of its health!)
+
+Scyther used Metronome!
+
+Waggling a finger let it use Shock Wave!
+It's not very effective...
+A critical hit!
+(The opposing Tangrowth lost 23.1% of its health!)
+
+The opposing Ferrothorn's perish count fell to 1.
+The opposing Exeggutor's perish count fell to 1.
+The opposing Tangrowth's perish count fell to 1.
+Skarmory's perish count fell to 1.
+Scyther's perish count fell to 1.
+
+Go! Pelipper!
+
+Turn 6
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Fire Punch!
+It's super effective!
+(Skarmory lost 0.8% of its health!)
+
+Skarmory fainted!
+The opposing Exeggutor used Metronome!
+
+Waggling a finger let it use Power Gem!
+It's super effective!
+(Pelipper lost 98.3% of its health!)
+
+The opposing Tangrowth used Metronome!
+
+Waggling a finger let it use Acid Armor!
+The opposing Tangrowth's Defense rose sharply!
+
+Pelipper used Metronome!
+
+Waggling a finger let it use Safeguard!
+Your team cloaked itself in a mystical veil!
+
+Scyther used Metronome!
+
+Waggling a finger let it use Force Palm!
+It's not very effective...
+(The opposing Exeggutor lost 4.1% of its health!)
+
+The opposing Ferrothorn's perish count fell to 0.
+The opposing Exeggutor's perish count fell to 0.
+The opposing Tangrowth's perish count fell to 0.
+Scyther's perish count fell to 0.
+
+The opposing Ferrothorn fainted!
+The opposing Exeggutor fainted!
+The opposing Tangrowth fainted!
+Scyther fainted!
+
+MTN Grass sent out Shiftry!
+
+MTN Grass sent out Victreebel!
+
+Go! Dragonite!
+
+Go! Honchkrow!
+
+Turn 7
+
+Pelipper used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+The opposing Victreebel used Metronome!
+
+Waggling a finger let it use Pluck!
+(Honchkrow lost 20.6% of its health!)
+The opposing Victreebel stole and ate its target's Leppa Berry!
+The opposing Victreebel restored PP to its move Metronome using its Leppa Berry!
+
+Honchkrow used Metronome!
+
+Waggling a finger let it use Thunderbolt!
+It's not very effective...
+(The opposing Victreebel lost 15.7% of its health!)
+
+The opposing Shiftry used Metronome!
+
+Waggling a finger let it use Dream Eater!
+It doesn't affect Pelipper...
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Thunderbolt!
+It's not very effective...
+A critical hit!
+(The opposing Victreebel lost 42.1% of its health!)
+The opposing Victreebel is paralyzed! It may be unable to move!
+
+The opposing Victreebel's perish count fell to 3.
+Pelipper's perish count fell to 3.
+Honchkrow's perish count fell to 3.
+The opposing Shiftry's perish count fell to 3.
+Dragonite's perish count fell to 3.
+The twisted dimensions returned to normal!
+
+Turn 8
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Acid Armor!
+Dragonite's Defense rose sharply!
+
+The opposing Shiftry used Metronome!
+
+Waggling a finger let it use Mud Sport!
+Electricity's power was weakened!
+
+Honchkrow used Metronome!
+
+Waggling a finger let it use Slash!
+(The opposing Victreebel lost 25.7% of its health!)
+
+Pelipper used Metronome!
+
+Waggling a finger let it use Gear Grind!
+A critical hit!
+(The opposing Shiftry lost 25.3% of its health!)
+(The opposing Shiftry lost 14.0% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Victreebel used Metronome!
+
+Waggling a finger let it use Power Gem!
+It's super effective!
+(Dragonite lost 15.1% of its health!)
+
+Dragonite's perish count fell to 2.
+The opposing Shiftry's perish count fell to 2.
+Honchkrow's perish count fell to 2.
+Pelipper's perish count fell to 2.
+The opposing Victreebel's perish count fell to 2.
+
+Turn 9
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Night Shade!
+(The opposing Victreebel lost 16.4% of its health!)
+
+The opposing Victreebel fainted!
+The opposing Shiftry used Metronome!
+
+Waggling a finger let it use Night Daze!
+(Pelipper lost 1.7% of its health!)
+
+Pelipper fainted!
+Honchkrow used Metronome!
+
+Waggling a finger let it use Sonic Boom!
+But it failed!
+
+Dragonite's perish count fell to 1.
+The opposing Shiftry's perish count fell to 1.
+Honchkrow's perish count fell to 1.
+
+Turn 10
+
+Dragonite used Metronome!
+
+Waggling a finger let it use Double Slap!
+(The opposing Shiftry lost 8% of its health!)
+(The opposing Shiftry lost 6.7% of its health!)
+(The opposing Shiftry lost 7.3% of its health!)
+(The opposing Shiftry lost 7.3% of its health!)
+(The opposing Shiftry lost 7.3% of its health!)
+The Pokémon was hit 5 times!
+
+The opposing Shiftry used Metronome!
+
+Waggling a finger let it use Icicle Crash!
+It's super effective!
+(Dragonite lost 31.3% of its health!)
+
+Honchkrow used Metronome!
+
+Waggling a finger let it use Return!
+But it failed!
+
+Dragonite's perish count fell to 0.
+The opposing Shiftry's perish count fell to 0.
+Honchkrow's perish count fell to 0.
+Your team is no longer protected by Safeguard!
+
+Dragonite fainted!
+The opposing Shiftry fainted!
+Honchkrow fainted!
+
+MTN Flying won the battle!

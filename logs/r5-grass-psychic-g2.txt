@@ -1,0 +1,517 @@
+☆MTN Grass and ☆MTN Psychic joined
+Format: [Gen 5] Triples Custom Game
+MTN Grass's team:
+Victreebel / Jumpluff / Shiftry / Tangrowth / Ferrothorn / Exeggutor
+MTN Psychic's team:
+Alakazam / Slowking / Claydol / Bronzong / Sigilyph / Gardevoir
+
+Battle started between MTN Grass and MTN Psychic!
+
+Go! Jumpluff!
+
+Go! Ferrothorn!
+
+Go! Tangrowth!
+
+MTN Psychic sent out Alakazam!
+
+MTN Psychic sent out Sigilyph!
+
+MTN Psychic sent out Bronzong!
+
+Turn 1
+
+The opposing Alakazam used Metronome!
+
+Waggling a finger let it use Thunder Shock!
+It's not very effective...
+(Ferrothorn lost 7.5% of its health!)
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Poison Fang!
+It doesn't affect the opposing Bronzong...
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Clear Smog!
+It's super effective!
+(Tangrowth lost 32.5% of its health!)
+Tangrowth's stat changes were removed!
+
+Tangrowth used Metronome!
+
+Waggling a finger let it use Charge Beam!
+(The opposing Alakazam lost 23.5% of its health!)
+
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Echoed Voice!
+It's not very effective...
+(Ferrothorn lost 6.0% of its health!)
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Dizzy Punch!
+(The opposing Alakazam lost 34.8% of its health!)
+The opposing Alakazam became confused!
+
+Turn 2
+
+The opposing Alakazam is confused!
+It hurt itself in its confusion!
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Fire Blast!
+It's super effective!
+A critical hit!
+(The opposing Bronzong lost 64.6% of its health!)
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Spore!
+Ferrothorn fell asleep!
+
+Tangrowth used Metronome!
+
+Waggling a finger let it use Block!
+The opposing Sigilyph can no longer escape!
+
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+Ferrothorn is fast asleep.
+
+Turn 3
+
+The opposing Alakazam is confused!
+It hurt itself in its confusion!
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Charm!
+The opposing Bronzong's Attack fell harshly!
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Assurance!
+(Tangrowth lost 10.6% of its health!)
+
+Tangrowth used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+(The opposing Alakazam lost 13.9% of its health!)
+
+The opposing Alakazam fainted!
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Poison Jab!
+It's super effective!
+(Jumpluff lost 35.6% of its health!)
+
+Ferrothorn is fast asleep.
+
+MTN Psychic sent out Slowking!
+
+Turn 4
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Brick Break!
+(The opposing Bronzong lost 18.1% of its health!)
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Hypnosis!
+Ferrothorn avoided the attack!
+
+Tangrowth used Metronome!
+
+Waggling a finger let it use Hurricane!
+(The opposing Sigilyph lost 50% of its health!)
+
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Fake Tears!
+Jumpluff's Sp. Def fell harshly!
+
+The opposing Slowking used Metronome!
+
+Waggling a finger let it use Bind!
+(Tangrowth lost 3.8% of its health!)
+Tangrowth was squeezed by the opposing Slowking!
+
+Ferrothorn is fast asleep.
+
+Tangrowth is hurt by Bind!
+
+Turn 5
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Block!
+The opposing Bronzong can no longer escape!
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Hypnosis!
+Tangrowth avoided the attack!
+
+Tangrowth used Metronome!
+
+Waggling a finger let it use Tickle!
+The opposing Sigilyph's Attack fell!
+The opposing Sigilyph's Defense fell!
+
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Rest!
+The opposing Bronzong slept and became healthy!
+
+The opposing Slowking used Metronome!
+
+Waggling a finger let it use Ember!
+It's super effective!
+(Tangrowth lost 27.5% of its health!)
+Ferrothorn woke up!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Bulk Up!
+Ferrothorn's Attack rose!
+Ferrothorn's Defense rose!
+
+Tangrowth is hurt by Bind!
+
+Turn 6
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Reflect Type!
+Jumpluff's type became the same as the opposing Bronzong's type!
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+It's not very effective...
+(Jumpluff lost 34.8% of its health!)
+
+Tangrowth used Metronome!
+
+Waggling a finger let it use Solar Beam!
+Tangrowth absorbed light!
+
+The opposing Bronzong is fast asleep.
+
+The opposing Slowking used Metronome!
+
+Waggling a finger let it use Assurance!
+(Tangrowth lost 10.6% of its health!)
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Take Down!
+(The opposing Slowking lost 41.9% of its health!)
+Ferrothorn was damaged by the recoil!
+
+Tangrowth is hurt by Bind!
+
+Tangrowth fainted!
+
+Go! Shiftry!
+
+Turn 7
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Stored Power!
+It's not very effective...
+(The opposing Bronzong lost 1.6% of its health!)
+
+The opposing Sigilyph used Metronome!
+
+Waggling a finger let it use Defog!
+Ferrothorn's evasiveness fell!
+
+Shiftry used Metronome!
+
+Waggling a finger let it use Rain Dance!
+It started to rain!
+
+The opposing Bronzong is fast asleep.
+
+The opposing Slowking used Metronome!
+
+Waggling a finger let it use Explosion!
+It's not very effective on Ferrothorn.
+(The opposing Sigilyph lost 50% of its health!)
+(Ferrothorn lost 14.2% of its health!)
+(Shiftry lost 58.0% of its health!)
+
+The opposing Slowking fainted!
+The opposing Sigilyph fainted!
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Karate Chop!
+(The opposing Bronzong lost 24.4% of its health!)
+
+(Rain continues to fall.)
+
+MTN Psychic sent out Claydol!
+
+MTN Psychic sent out Gardevoir!
+[The opposing Gardevoir's Trace]
+[The opposing Gardevoir's Iron Barbs]
+The opposing Gardevoir traced Ferrothorn's Iron Barbs!
+
+Turn 8
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Minimize!
+Jumpluff's evasiveness rose sharply!
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Shell Smash!
+The opposing Gardevoir's Defense fell!
+The opposing Gardevoir's Sp. Def fell!
+The opposing Gardevoir's Attack rose sharply!
+The opposing Gardevoir's Sp. Atk rose sharply!
+The opposing Gardevoir's Speed rose sharply!
+
+Shiftry used Metronome!
+
+Waggling a finger let it use Hail!
+It started to hail!
+
+The opposing Claydol used Metronome!
+
+Waggling a finger let it use Confuse Ray!
+Ferrothorn became confused!
+The opposing Bronzong woke up!
+
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Sky Uppercut!
+It's super effective!
+(Ferrothorn lost 16.4% of its health!)
+[Ferrothorn's Iron Barbs]
+The opposing Bronzong was hurt!
+
+Ferrothorn is confused!
+It hurt itself in its confusion!
+
+(The hail is crashing down.)
+The opposing Gardevoir is buffeted by the hail!
+Jumpluff is buffeted by the hail!
+Shiftry is buffeted by the hail!
+The opposing Claydol is buffeted by the hail!
+The opposing Bronzong is buffeted by the hail!
+Ferrothorn is buffeted by the hail!
+
+Turn 9
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Ember!
+It's super effective!
+(Ferrothorn lost 25.4% of its health!)
+
+Ferrothorn fainted!
+Jumpluff used Metronome!
+
+Waggling a finger let it use Dark Void!
+The opposing Claydol fell asleep!
+The opposing Bronzong fell asleep!
+
+Shiftry used Metronome!
+
+Waggling a finger let it use Wake-Up Slap!
+It's not very effective...
+(The opposing Claydol lost 18.3% of its health!)
+The opposing Claydol woke up!
+
+The opposing Claydol used Metronome!
+
+Waggling a finger let it use Natural Gift!
+It's super effective!
+(Shiftry lost 36% of its health!)
+
+Shiftry fainted!
+The opposing Bronzong is fast asleep.
+
+(The hail is crashing down.)
+The opposing Gardevoir is buffeted by the hail!
+Jumpluff is buffeted by the hail!
+The opposing Claydol is buffeted by the hail!
+The opposing Bronzong is buffeted by the hail!
+
+Go! Victreebel!
+
+Go! Exeggutor!
+
+Turn 10
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use X-Scissor!
+It's super effective!
+(Exeggutor lost 100% of its health!)
+
+Exeggutor fainted!
+Jumpluff used Metronome!
+
+Waggling a finger let it use Fire Blast!
+(The opposing Claydol lost 33.3% of its health!)
+
+The opposing Claydol used Metronome!
+
+Waggling a finger let it use Hypnosis!
+Victreebel fell asleep!
+
+Victreebel is fast asleep.
+
+The opposing Bronzong is fast asleep.
+
+(The hail is crashing down.)
+The opposing Gardevoir is buffeted by the hail!
+Jumpluff is buffeted by the hail!
+The opposing Claydol is buffeted by the hail!
+Victreebel is buffeted by the hail!
+The opposing Bronzong is buffeted by the hail!
+
+Turn 11
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Attract!
+Victreebel fell in love!
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Focus Energy!
+Jumpluff is getting pumped!
+
+The opposing Claydol used Metronome!
+
+Waggling a finger let it use Cross Poison!
+It doesn't affect Jumpluff...
+Victreebel woke up!
+
+Victreebel is in love with the opposing Gardevoir!
+Victreebel is immobilized by love!
+
+The opposing Bronzong is fast asleep.
+
+(The hail is crashing down.)
+The opposing Gardevoir is buffeted by the hail!
+Jumpluff is buffeted by the hail!
+The opposing Claydol is buffeted by the hail!
+Victreebel is buffeted by the hail!
+The opposing Bronzong is buffeted by the hail!
+
+Turn 12
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Kinesis!
+Victreebel's accuracy fell!
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Glaciate!
+It's super effective on the opposing Claydol!
+It's not very effective on the opposing Bronzong.
+A critical hit on the opposing Bronzong!
+(The opposing Claydol lost 23.3% of its health!)
+(The opposing Bronzong lost 12.6% of its health!)
+The opposing Claydol's Speed fell!
+The opposing Bronzong's Speed fell!
+
+The opposing Claydol used Metronome!
+
+Waggling a finger let it use Yawn!
+Victreebel grew drowsy!
+
+Victreebel is in love with the opposing Gardevoir!
+Victreebel used Metronome!
+
+Waggling a finger let it use Heal Order!
+Victreebel had its HP restored.
+The opposing Bronzong woke up!
+
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Lovely Kiss!
+Jumpluff avoided the attack!
+
+The hail stopped.
+
+Turn 13
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Leaf Storm!
+It's not very effective...
+(Victreebel lost 27.9% of its health!)
+The opposing Gardevoir's Sp. Atk fell harshly!
+
+Jumpluff used Metronome!
+
+Waggling a finger let it use Comet Punch!
+It's not very effective...
+A critical hit!
+(The opposing Bronzong lost 4.7% of its health!)
+It's not very effective...
+(The opposing Bronzong lost 2.4% of its health!)
+It's not very effective...
+(The opposing Bronzong lost 2.4% of its health!)
+The Pokémon was hit 3 times!
+
+Victreebel is in love with the opposing Gardevoir!
+Victreebel is immobilized by love!
+
+The opposing Claydol used Metronome!
+
+Waggling a finger let it use Flare Blitz!
+It's super effective!
+A critical hit!
+(Jumpluff lost 5.9% of its health!)
+
+Jumpluff fainted!
+The opposing Claydol was damaged by the recoil!
+
+The opposing Claydol fainted!
+The opposing Bronzong used Metronome!
+
+Waggling a finger let it use Lock-On!
+But it failed!
+
+Victreebel fell asleep!
+
+Turn 14
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Rage!
+(Victreebel lost 16.4% of its health!)
+(Rage started on the opposing Gardevoir!)
+
+Victreebel is fast asleep.
+The opposing Bronzong moved to the center!
+
+Turn 15
+
+The opposing Gardevoir used Metronome!
+
+Waggling a finger let it use Psycho Cut!
+It's super effective!
+(Victreebel lost 55.7% of its health!)
+
+Victreebel fainted!
+
+MTN Psychic won the battle!

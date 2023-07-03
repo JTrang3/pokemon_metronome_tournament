@@ -1,0 +1,512 @@
+☆MTN Ice and ☆MTN Fire joined
+Format: [Gen 5] Triples Custom Game
+MTN Ice's team:
+Jynx / Piloswine / Walrein / Weavile / Beartic / Abomasnow
+MTN Fire's team:
+Magmar / Magcargo / Camerupt / Rotom-Heat / Chandelure / Arcanine
+
+Battle started between MTN Ice and MTN Fire!
+
+Go! Piloswine!
+
+Go! Abomasnow!
+
+Go! Walrein!
+
+MTN Fire sent out Rotom (Rotom-Heat)!
+
+MTN Fire sent out Chandelure!
+
+MTN Fire sent out Camerupt!
+[Abomasnow's Snow Warning]
+It started to hail!
+
+Turn 1
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Charge Beam!
+It doesn't affect Piloswine...
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Pound!
+(The opposing Camerupt lost 13.1% of its health!)
+
+Walrein used Metronome!
+
+Waggling a finger let it use Petal Dance!
+It's not very effective...
+(The opposing Chandelure lost 21.7% of its health!)
+
+Piloswine used Metronome!
+
+Waggling a finger let it use Heat Crash!
+It's not very effective...
+(The opposing Camerupt lost 6.2% of its health!)
+
+The opposing Camerupt used Metronome!
+
+Waggling a finger let it use Steamroller!
+It's super effective!
+(Abomasnow lost 25.5% of its health!)
+
+(The hail is crashing down.)
+The opposing Rotom is buffeted by the hail!
+The opposing Chandelure is buffeted by the hail!
+The opposing Camerupt is buffeted by the hail!
+
+Turn 2
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Stored Power!
+(Abomasnow lost 4.8% of its health!)
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Extrasensory!
+A critical hit!
+(Piloswine lost 69.4% of its health!)
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Facade!
+(The opposing Rotom lost 22.7% of its health!)
+
+Walrein used Petal Dance!
+It's not very effective...
+(The opposing Rotom lost 17.0% of its health!)
+Walrein became confused due to fatigue!
+
+Piloswine used Metronome!
+
+Waggling a finger let it use Bite!
+(The opposing Camerupt lost 18.5% of its health!)
+
+The opposing Camerupt flinched and couldn't move!
+
+(The hail is crashing down.)
+The opposing Rotom is buffeted by the hail!
+The opposing Chandelure is buffeted by the hail!
+The opposing Camerupt is buffeted by the hail!
+
+Turn 3
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Skill Swap!
+[The opposing Rotom's Snow Warning]
+[Abomasnow's Levitate]
+The opposing Rotom swapped Abilities with its target!
+[The opposing Rotom's Levitate]
+[Abomasnow's Snow Warning]
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Earth Power!
+[Abomasnow's Levitate]
+It doesn't affect Abomasnow...
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Barrier!
+Abomasnow's Defense rose sharply!
+
+Walrein is confused!
+It hurt itself in its confusion!
+
+Piloswine used Metronome!
+
+Waggling a finger let it use Bubble!
+It's super effective on the opposing Chandelure!
+It's super effective on the opposing Camerupt!
+(The opposing Chandelure lost 10% of its health!)
+(The opposing Camerupt lost 13.8% of its health!)
+
+The opposing Camerupt used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+(The hail is crashing down.)
+The opposing Rotom is buffeted by the hail!
+The opposing Chandelure is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+The opposing Camerupt is buffeted by the hail!
+The opposing Rotom's perish count fell to 3.
+The opposing Chandelure's perish count fell to 3.
+Abomasnow's perish count fell to 3.
+Walrein's perish count fell to 3.
+Piloswine's perish count fell to 3.
+The opposing Camerupt's perish count fell to 3.
+
+Turn 4
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Psycho Shift!
+But it failed!
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Tri Attack!
+(Abomasnow lost 24.2% of its health!)
+Abomasnow is paralyzed! It may be unable to move!
+
+Abomasnow is paralyzed! It can't move!
+
+Walrein is confused!
+Walrein used Metronome!
+
+Waggling a finger let it use Clear Smog!
+(The opposing Rotom lost 13.5% of its health!)
+The opposing Rotom's stat changes were removed!
+
+Piloswine used Metronome!
+
+Waggling a finger let it use Taunt!
+The opposing Camerupt fell for the taunt!
+
+The opposing Camerupt can't use Metronome after the taunt!
+
+(The hail is crashing down.)
+The opposing Rotom is buffeted by the hail!
+The opposing Chandelure is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+The opposing Camerupt is buffeted by the hail!
+The opposing Rotom's perish count fell to 2.
+The opposing Chandelure's perish count fell to 2.
+Walrein's perish count fell to 2.
+Piloswine's perish count fell to 2.
+The opposing Camerupt's perish count fell to 2.
+Abomasnow's perish count fell to 2.
+
+Turn 5
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[Abomasnow's Levitate]
+[Abomasnow's Simple]
+Abomasnow acquired Simple!
+
+The opposing Chandelure used Metronome!
+
+Waggling a finger let it use Flail!
+(Abomasnow lost 3.6% of its health!)
+
+Walrein is confused!
+Walrein used Metronome!
+
+Waggling a finger let it use Thunder!
+It's not very effective...
+(The opposing Rotom lost 16.3% of its health!)
+
+Piloswine used Metronome!
+
+Waggling a finger let it use Teeter Dance!
+Abomasnow became confused!
+The opposing Chandelure became confused!
+The opposing Camerupt became confused!
+
+The opposing Camerupt is confused!
+The opposing Camerupt has no moves left!
+
+The opposing Camerupt used Struggle!
+(Abomasnow lost 4.8% of its health!)
+The opposing Camerupt was damaged by the recoil!
+
+The opposing Camerupt fainted!
+Abomasnow is confused!
+Abomasnow used Metronome!
+
+Waggling a finger let it use Milk Drink!
+Abomasnow had its HP restored.
+
+(The hail is crashing down.)
+The opposing Rotom is buffeted by the hail!
+The opposing Chandelure is buffeted by the hail!
+The opposing Rotom's perish count fell to 1.
+The opposing Chandelure's perish count fell to 1.
+Walrein's perish count fell to 1.
+Piloswine's perish count fell to 1.
+Abomasnow's perish count fell to 1.
+
+MTN Fire sent out Arcanine!
+
+Turn 6
+
+The opposing Arcanine used Metronome!
+
+Waggling a finger let it use Strength!
+A critical hit!
+(Piloswine lost 30.6% of its health!)
+
+Piloswine fainted!
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+(Walrein lost 16.5% of its health!)
+
+The opposing Chandelure is confused!
+It hurt itself in its confusion!
+
+Walrein is confused!
+Walrein used Metronome!
+
+Waggling a finger let it use Heart Stamp!
+(The opposing Rotom lost 2.1% of its health!)
+
+The opposing Rotom fainted!
+Abomasnow snapped out of its confusion!
+
+Abomasnow used Metronome!
+
+Waggling a finger let it use Ice Shard!
+It's not very effective...
+(The opposing Chandelure lost 9.2% of its health!)
+
+(The hail is crashing down.)
+The opposing Arcanine is buffeted by the hail!
+The opposing Chandelure is buffeted by the hail!
+[Walrein's Ice Body]
+Walrein had its HP restored.
+The opposing Chandelure's perish count fell to 0.
+Walrein's perish count fell to 0.
+Abomasnow's perish count fell to 0.
+
+The opposing Chandelure fainted!
+Walrein fainted!
+Abomasnow fainted!
+
+MTN Fire sent out Magmar!
+
+MTN Fire sent out Magcargo!
+
+Go! Beartic!
+
+Go! Jynx!
+
+Go! Weavile!
+[Weavile's Pressure]
+Weavile is exerting its pressure!
+
+Turn 7
+
+Weavile used Metronome!
+
+Waggling a finger let it use Frenzy Plant!
+The opposing Magcargo avoided the attack!
+
+The opposing Arcanine used Metronome!
+
+Waggling a finger let it use Spit Up!
+But it failed!
+
+Jynx used Metronome!
+
+Waggling a finger let it use Dive!
+Jynx hid underwater!
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Heavy Slam!
+Jynx avoided the attack!
+
+Beartic used Metronome!
+
+Waggling a finger let it use Rain Dance!
+It started to rain!
+
+The opposing Magcargo used Metronome!
+
+Waggling a finger let it use Meditate!
+The opposing Magcargo's Attack rose!
+
+(Rain continues to fall.)
+
+Turn 8
+
+Weavile used Metronome!
+
+Waggling a finger let it use Flatter!
+The opposing Magcargo's Sp. Atk rose!
+The opposing Magcargo became confused!
+
+The opposing Arcanine used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+Weavile was identified!
+
+Beartic used Metronome!
+
+Waggling a finger let it use Shift Gear!
+Beartic's Speed rose sharply!
+Beartic's Attack rose!
+
+Jynx used Dive!
+It's super effective!
+(The opposing Magcargo lost 100% of its health!)
+
+The opposing Magcargo fainted!
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Gastro Acid!
+Jynx's Ability was suppressed!
+
+(Rain continues to fall.)
+
+Turn 9
+
+Beartic used Metronome!
+
+Waggling a finger let it use Pin Missile!
+It's not very effective...
+(The opposing Magmar lost 4% of its health!)
+It's not very effective...
+(The opposing Magmar lost 4% of its health!)
+It's not very effective...
+(The opposing Magmar lost 4% of its health!)
+It's not very effective...
+(The opposing Magmar lost 4.8% of its health!)
+The Pokémon was hit 4 times!
+
+Weavile used Metronome!
+
+Waggling a finger let it use Rock Blast!
+It's super effective!
+(The opposing Arcanine lost 12.1% of its health!)
+It's super effective!
+(The opposing Arcanine lost 13.3% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Arcanine used Metronome!
+
+Waggling a finger let it use Bullet Seed!
+(Weavile lost 11.5% of its health!)
+(Weavile lost 11.5% of its health!)
+The Pokémon was hit 2 times!
+
+Jynx used Metronome!
+
+Waggling a finger let it use Fire Punch!
+It's not very effective...
+(The opposing Magmar lost 4.8% of its health!)
+
+The opposing Magmar used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+(Beartic lost 14.2% of its health!)
+
+(Rain continues to fall.)
+
+Turn 10
+
+Beartic used Metronome!
+
+Waggling a finger let it use Entrainment!
+[The opposing Magmar's Vital Spirit]
+[The opposing Magmar's Swift Swim]
+The opposing Magmar acquired Swift Swim!
+
+Weavile used Metronome!
+
+Waggling a finger let it use Kinesis!
+The opposing Arcanine's accuracy fell!
+
+The opposing Arcanine used Metronome!
+
+Waggling a finger let it use Swords Dance!
+The opposing Arcanine's Attack rose sharply!
+
+Jynx used Metronome!
+
+Waggling a finger let it use Rock Wrecker!
+It's super effective!
+(The opposing Magmar lost 78.4% of its health!)
+
+The opposing Magmar fainted!
+
+(Rain continues to fall.)
+
+Turn 11
+
+Beartic used Metronome!
+
+Waggling a finger let it use Glaciate!
+It's not very effective...
+(The opposing Arcanine lost 9.1% of its health!)
+The opposing Arcanine's Speed fell!
+
+Weavile used Metronome!
+
+Waggling a finger let it use Overheat!
+It's not very effective...
+(The opposing Arcanine lost 4.8% of its health!)
+Weavile's Sp. Atk fell harshly!
+
+The opposing Arcanine used Metronome!
+
+Waggling a finger let it use Guard Split!
+The opposing Arcanine shared its guard with the target!
+
+Jynx must recharge!
+
+The rain stopped.
+
+Turn 12
+
+Weavile used Metronome!
+
+Waggling a finger let it use Fire Spin!
+It's not very effective...
+(The opposing Arcanine lost 1.8% of its health!)
+The opposing Arcanine became trapped in the fiery vortex!
+
+Beartic used Metronome!
+
+Waggling a finger let it use Flatter!
+The opposing Arcanine's Sp. Atk rose!
+The opposing Arcanine became confused!
+
+Jynx used Metronome!
+
+Waggling a finger let it use Doom Desire!
+Jynx chose Doom Desire as its destiny!
+
+The opposing Arcanine is confused!
+It hurt itself in its confusion!
+
+The opposing Arcanine is hurt by Fire Spin!
+
+Turn 13
+
+Weavile used Metronome!
+
+Waggling a finger let it use Thunder Fang!
+(The opposing Arcanine lost 17.0% of its health!)
+
+Beartic used Metronome!
+
+Waggling a finger let it use Nightmare!
+But it failed!
+
+Jynx used Metronome!
+
+Waggling a finger let it use Icy Wind!
+But it failed!
+
+The opposing Arcanine is confused!
+It hurt itself in its confusion!
+
+The opposing Arcanine fainted!
+
+MTN Ice won the battle!

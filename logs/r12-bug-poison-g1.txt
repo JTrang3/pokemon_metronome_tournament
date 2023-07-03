@@ -1,0 +1,431 @@
+☆MTN Bug and ☆MTN Poison joined
+Format: [Gen 5] Triples Custom Game
+MTN Bug's team:
+Pinsir / Heracross / Armaldo / Vespiquen / Volcarona / Scizor
+MTN Poison's team:
+Vileplume / Crobat / Seviper / Drapion / Scolipede / Nidoking
+
+Battle started between MTN Bug and MTN Poison!
+
+Go! Heracross!
+
+Go! Vespiquen!
+
+Go! Volcarona!
+
+MTN Poison sent out Crobat!
+
+MTN Poison sent out Drapion!
+
+MTN Poison sent out Scolipede!
+[Vespiquen's Pressure]
+Vespiquen is exerting its pressure!
+
+Turn 1
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Guard Swap!
+The opposing Crobat switched all changes to its Defense and Sp. Def with its target!
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Magnitude!
+Magnitude 6!
+It doesn't affect Vespiquen...
+It's super effective on the opposing Drapion!
+It's not very effective on Heracross.
+(The opposing Drapion lost 20% of its health!)
+(Heracross lost 4.3% of its health!)
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Conversion!
+Volcarona's type changed to Normal!
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Rage!
+(Volcarona lost 6.9% of its health!)
+(Rage started on the opposing Drapion!)
+
+Heracross used Metronome!
+
+Waggling a finger let it use Bulldoze!
+It doesn't affect Vespiquen...
+It's super effective on the opposing Drapion!
+(The opposing Drapion lost 32.3% of its health!)
+(The opposing Scolipede lost 20% of its health!)
+The opposing Drapion's Attack rose!
+The opposing Drapion's Speed fell!
+The opposing Scolipede's Speed fell!
+
+Vespiquen used Metronome!
+
+Waggling a finger let it use Seismic Toss!
+(The opposing Crobat lost 34.5% of its health!)
+
+Turn 2
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Round!
+(Volcarona lost 15.9% of its health!)
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Defend Order!
+Volcarona's Defense rose!
+Volcarona's Sp. Def rose!
+
+Heracross used Metronome!
+
+Waggling a finger let it use Psywave!
+It doesn't affect the opposing Drapion...
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Reflect Type!
+The opposing Scolipede's type became the same as Heracross's type!
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Ancient Power!
+(Volcarona lost 11.7% of its health!)
+
+Vespiquen used Metronome!
+
+Waggling a finger let it use Gravity!
+Gravity intensified!
+
+Turn 3
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Grudge!
+The opposing Crobat wants its target to bear a grudge!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Ice Fang!
+It's super effective!
+(The opposing Crobat lost 29.0% of its health!)
+
+Heracross used Metronome!
+
+Waggling a finger let it use Venoshock!
+(The opposing Scolipede lost 18.3% of its health!)
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Lava Plume!
+It's super effective on Heracross!
+It's super effective on Vespiquen!
+(The opposing Drapion lost 16.9% of its health!)
+(Heracross lost 30% of its health!)
+(Vespiquen lost 33.8% of its health!)
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Foul Play!
+(Volcarona lost 26.9% of its health!)
+
+Vespiquen used Metronome!
+
+Waggling a finger let it use Flame Charge!
+(The opposing Drapion lost 16.9% of its health!)
+Vespiquen's Speed rose!
+
+Turn 4
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Cotton Spore!
+Volcarona's Speed fell harshly!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+Heracross used Metronome!
+
+Waggling a finger let it use Crush Claw!
+(The opposing Drapion lost 13.8% of its health!)
+
+The opposing Drapion fainted!
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Night Shade!
+(Heracross lost 35.7% of its health!)
+
+Vespiquen used Metronome!
+
+Waggling a finger let it use Defend Order!
+Vespiquen's Defense rose!
+Vespiquen's Sp. Def rose!
+
+The opposing Crobat's perish count fell to 3.
+Heracross's perish count fell to 3.
+The opposing Scolipede's perish count fell to 3.
+Vespiquen's perish count fell to 3.
+Volcarona's perish count fell to 3.
+
+MTN Poison sent out Seviper!
+
+Turn 5
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Clamp!
+(Vespiquen lost 6.2% of its health!)
+The opposing Crobat clamped down on Vespiquen!
+
+Heracross used Metronome!
+
+Waggling a finger let it use Magnitude!
+Magnitude 6!
+It's not very effective on Vespiquen.
+A critical hit on Vespiquen!
+It's super effective on the opposing Seviper!
+It's not very effective on the opposing Scolipede.
+(Vespiquen lost 13.1% of its health!)
+(The opposing Seviper lost 33.1% of its health!)
+(The opposing Scolipede lost 7.5% of its health!)
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Cotton Guard!
+The opposing Scolipede's Defense rose drastically!
+
+The opposing Seviper used Metronome!
+
+Waggling a finger let it use Harden!
+The opposing Seviper's Defense rose!
+
+Vespiquen used Metronome!
+
+Waggling a finger let it use Zap Cannon!
+(The opposing Seviper lost 45.9% of its health!)
+The opposing Seviper is paralyzed! It may be unable to move!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use U-turn!
+It's not very effective...
+(The opposing Seviper lost 6.8% of its health!)
+
+Volcarona went back to MTN Bug!
+Go! Armaldo!
+
+[The opposing Seviper's Shed Skin]
+The opposing Seviper was cured of paralysis!
+Vespiquen is hurt by Clamp!
+The opposing Crobat's perish count fell to 2.
+Heracross's perish count fell to 2.
+The opposing Scolipede's perish count fell to 2.
+Vespiquen's perish count fell to 2.
+
+Turn 6
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Swift!
+It's not very effective on Armaldo.
+(Vespiquen lost 10% of its health!)
+(Armaldo lost 6.7% of its health!)
+
+Heracross used Metronome!
+
+Waggling a finger let it use Heal Order!
+Heracross had its HP restored.
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Luster Purge!
+(Vespiquen lost 13.8% of its health!)
+Vespiquen's Sp. Def fell!
+
+The opposing Seviper used Metronome!
+
+Waggling a finger let it use Leaf Blade!
+It's not very effective...
+(Vespiquen lost 4.6% of its health!)
+
+Vespiquen used Metronome!
+
+Waggling a finger let it use Toxic!
+The opposing Scolipede was badly poisoned!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Astonish!
+A critical hit!
+(The opposing Seviper lost 14.3% of its health!)
+
+The opposing Seviper fainted!
+
+The opposing Scolipede was hurt by poison!
+Vespiquen is hurt by Clamp!
+The opposing Crobat's perish count fell to 1.
+The opposing Scolipede's perish count fell to 1.
+Heracross's perish count fell to 1.
+Vespiquen's perish count fell to 1.
+Gravity returned to normal!
+
+MTN Poison sent out Nidoking!
+
+Turn 7
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Triple Kick!
+(Armaldo lost 3.0% of its health!)
+(Armaldo lost 5.2% of its health!)
+(Armaldo lost 8.1% of its health!)
+The Pokémon was hit 3 times!
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Flame Burst!
+It's super effective!
+(Heracross lost 35.7% of its health!)
+The bursting flame hit Vespiquen!
+
+Vespiquen fainted!
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Focus Blast!
+It's not very effective...
+(Heracross lost 22.9% of its health!)
+
+Heracross used Metronome!
+
+Waggling a finger let it use Hypnosis!
+The opposing Nidoking fell asleep!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Beat Up!
+(The opposing Nidoking lost 4.5% of its health!)
+(The opposing Nidoking lost 5.1% of its health!)
+(The opposing Nidoking lost 5.8% of its health!)
+A critical hit!
+(The opposing Nidoking lost 6.4% of its health!)
+(The opposing Nidoking lost 5.1% of its health!)
+The Pokémon was hit 5 times!
+
+The opposing Scolipede was hurt by poison!
+The opposing Crobat's perish count fell to 0.
+The opposing Scolipede's perish count fell to 0.
+Heracross's perish count fell to 0.
+
+The opposing Crobat fainted!
+The opposing Scolipede fainted!
+Heracross fainted!
+
+MTN Poison sent out Vileplume!
+
+Go! Volcarona!
+
+Go! Pinsir!
+[Pinsir's Mold Breaker]
+Pinsir breaks the mold!
+
+Turn 8
+
+The opposing Nidoking is fast asleep.
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Secret Power!
+(The opposing Nidoking lost 12.8% of its health!)
+The opposing Nidoking's accuracy fell!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Hydro Cannon!
+It's super effective!
+(The opposing Nidoking lost 53.8% of its health!)
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Smack Down!
+It's super effective!
+(Pinsir lost 35.2% of its health!)
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Twister!
+(The opposing Vileplume lost 9.6% of its health!)
+(The opposing Nidoking lost 6.4% of its health!)
+
+The opposing Nidoking fainted!
+
+Turn 9
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Mega Drain!
+But it failed!
+
+Pinsir must recharge!
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Inferno!
+Pinsir avoided the attack!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Vine Whip!
+It's not very effective...
+(The opposing Vileplume lost 3.0% of its health!)
+
+Turn 10
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Absorb!
+But it failed!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Sky Drop!
+Pinsir took the opposing Vileplume into the sky!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Avalanche!
+The opposing Vileplume avoided the attack!
+
+Turn 11
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Poison Gas!
+But it failed!
+
+Pinsir used Sky Drop!
+It's super effective!
+A critical hit!
+(The opposing Vileplume lost 77.0% of its health!)
+The opposing Vileplume was freed from the Sky Drop!
+[The opposing Vileplume's Effect Spore]
+Pinsir is paralyzed! It may be unable to move!
+
+The opposing Vileplume used Metronome!
+
+Waggling a finger let it use Zen Headbutt!
+(Pinsir lost 25.6% of its health!)
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Mega Kick!
+(The opposing Vileplume lost 10.4% of its health!)
+[The opposing Vileplume's Effect Spore]
+Armaldo fell asleep!
+
+The opposing Vileplume fainted!
+
+MTN Bug won the battle!
