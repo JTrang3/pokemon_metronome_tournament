@@ -31,5 +31,9 @@
 #       Hazards - DONE
 #       Nightmare - DONE
 #       Curse - DONE
-# 8) Convert .html files to .txt files
-# 9) Choose which files to extract data from
+# 8) Convert .html files to .txt files - DONE
+# 9) Choose which files to extract data from - DONE
+
+# 10) Add "games_played" stat for each pokemon/team - DONE
+# 11) Add "battle_turns" for each pokemon & "match_turns" stat for each team - DONE
+# 12) Display wins in green, loses in red on team's match history - PUSHED BACK

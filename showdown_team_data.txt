@@ -11,11 +11,11 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Kingdra @ Leppa Berry  
-Ability: Swift Swim  
+Ability: Sniper  
 Level: 50  
 Happiness: 150  
-EVs: 248 Atk / 8 Def / 248 SpA  
-Sassy Nature  
+EVs: 248 Atk / 248 SpA / 8 SpD  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -31,7 +31,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Gastrodon @ Leppa Berry  
-Ability: Storm Drain  
+Ability: Sticky Hold  
 Level: 50  
 Happiness: 150  
 EVs: 8 Atk / 248 Def / 248 SpD  
@@ -64,11 +64,11 @@ Relaxed Nature
 === [gen5ou] Metronome (Steel) ===
 
 Steelix @ Leppa Berry  
-Ability: Sheer Force  
+Ability: Rock Head  
 Level: 50  
 Happiness: 150  
 EVs: 8 Atk / 248 SpA / 248 SpD  
-Sassy Nature  
+Brave Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -84,7 +84,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Bastiodon @ Leppa Berry  
-Ability: Soundproof  
+Ability: Sturdy  
 Level: 50  
 Happiness: 150  
 EVs: 248 Atk / 248 SpA / 8 SpD  
@@ -223,7 +223,7 @@ Bronzong @ Leppa Berry
 Ability: Heatproof  
 Level: 50  
 Happiness: 150  
-EVs: 8 HP / 248 Atk / 248 SpA  
+EVs: 248 Atk / 248 SpA / 8 SpD  
 Quiet Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
@@ -233,8 +233,8 @@ Sigilyph @ Leppa Berry
 Ability: Wonder Skin  
 Level: 50  
 Happiness: 150  
-EVs: 248 Atk / 8 Def / 248 SpD  
-Relaxed Nature  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Sassy Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -266,8 +266,8 @@ Crobat @ Leppa Berry
 Ability: Inner Focus  
 Level: 50  
 Happiness: 150  
-EVs: 8 Atk / 248 SpA / 248 SpD  
-Relaxed Nature  
+EVs: 248 Def / 248 SpA / 8 SpD  
+Sassy Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -277,7 +277,7 @@ Ability: Shed Skin
 Level: 50  
 Happiness: 150  
 EVs: 8 Atk / 248 Def / 248 SpD  
-Relaxed Nature  
+Brave Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -293,10 +293,10 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Scolipede @ Leppa Berry  
-Ability: Swarm  
+Ability: Quick Feet  
 Level: 50  
 Happiness: 150  
-EVs: 8 Atk / 248 SpA / 248 SpD  
+EVs: 8 Def / 248 SpA / 248 SpD  
 Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
@@ -307,8 +307,8 @@ Ability: Sheer Force
 Level: 50  
 Shiny: Yes  
 Happiness: 150  
-EVs: 4 Atk / 252 Def / 252 SpD  
-Quiet Nature  
+EVs: 252 Def / 4 SpA / 252 SpD  
+Brave Nature  
 - Metronome  
 - Recycle  
 
@@ -319,7 +319,7 @@ Snorlax @ Leppa Berry
 Ability: Thick Fat  
 Level: 50  
 Happiness: 150  
-EVs: 12 Atk / 248 Def / 248 SpA  
+EVs: 8 Atk / 248 Def / 248 SpA  
 Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
@@ -365,13 +365,13 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Metronome  
 - Recycle  
 
-Zangoose @ Leppa Berry  
-Ability: Immunity  
+Clefable @ Leppa Berry  
+Ability: Cute Charm  
 Level: 50  
 Shiny: Yes  
 Happiness: 150  
-EVs: 252 Def / 252 SpA / 4 SpD  
-Sassy Nature  
+EVs: 252 Atk / 252 Def / 4 SpA  
+Quiet Nature  
 - Metronome  
 - Recycle  
 
@@ -402,8 +402,8 @@ Walrein @ Leppa Berry
 Ability: Ice Body  
 Level: 50  
 Happiness: 150  
-EVs: 248 Atk / 8 Def / 248 SpD  
-Relaxed Nature  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Sassy Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -413,7 +413,7 @@ Ability: Pressure
 Level: 50  
 Happiness: 150  
 EVs: 248 Def / 248 SpA / 8 SpD  
-Quiet Nature  
+Sassy Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -434,7 +434,7 @@ Level: 50
 Shiny: Yes  
 Happiness: 150  
 EVs: 4 Atk / 252 Def / 252 SpD  
-Quiet Nature  
+Relaxed Nature  
 - Metronome  
 - Recycle  
 
@@ -446,7 +446,7 @@ Ability: Rock Head
 Level: 50  
 Happiness: 150  
 EVs: 8 Atk / 248 SpA / 248 SpD  
-Brave Nature  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -496,8 +496,8 @@ Ability: Sheer Force
 Level: 50  
 Shiny: Yes  
 Happiness: 150  
-EVs: 252 Atk / 4 Def / 252 SpA  
-Sassy Nature  
+EVs: 252 Atk / 252 SpA / 4 SpD  
+Relaxed Nature  
 - Metronome  
 - Recycle  
 
@@ -661,7 +661,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Honchkrow @ Leppa Berry  
-Ability: Super Luck  
+Ability: Insomnia  
 Level: 50  
 Happiness: 150  
 EVs: 248 Def / 8 SpA / 248 SpD  
@@ -697,7 +697,7 @@ Magmar @ Leppa Berry
 Ability: Vital Spirit  
 Level: 50  
 Happiness: 150  
-EVs: 248 Def / 8 SpA / 248 SpD  
+EVs: 8 Atk / 248 Def / 248 SpD  
 Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
@@ -737,8 +737,8 @@ Chandelure @ Leppa Berry
 Ability: Flash Fire  
 Level: 50  
 Happiness: 150  
-EVs: 248 Atk / 8 Def / 248 SpD  
-Relaxed Nature  
+EVs: 248 Atk / 248 Def / 8 SpD  
+Sassy Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -761,7 +761,7 @@ Ability: Water Absorb
 Level: 50  
 Happiness: 150  
 EVs: 248 Atk / 8 Def / 248 SpA  
-Sassy Nature  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -840,7 +840,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Manectric @ Leppa Berry  
-Ability: Lightning Rod  
+Ability: Static  
 Level: 50  
 Happiness: 150  
 EVs: 8 Atk / 248 Def / 248 SpD  
@@ -854,7 +854,7 @@ Ability: Sturdy
 Level: 50  
 Happiness: 150  
 EVs: 248 Atk / 8 Def / 248 SpD  
-Brave Nature  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -870,11 +870,11 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Recycle  
 
 Emolga @ Leppa Berry  
-Ability: Static  
+Ability: Motor Drive  
 Level: 50  
 Shiny: Yes  
 Happiness: 150  
-EVs: 4 Atk / 252 Def / 252 SpD  
+EVs: 252 Def / 4 SpA / 252 SpD  
 Quiet Nature  
 - Metronome  
 - Recycle  
@@ -887,7 +887,7 @@ Ability: Flash Fire
 Level: 50  
 Happiness: 150  
 EVs: 8 Atk / 248 Def / 248 SpD  
-Relaxed Nature  
+Quiet Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -906,8 +906,8 @@ Spiritomb @ Leppa Berry
 Ability: Pressure  
 Level: 50  
 Happiness: 150  
-EVs: 248 Atk / 8 Def / 248 SpA  
-Sassy Nature  
+EVs: 248 Atk / 248 SpA / 8 SpD  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -916,7 +916,7 @@ Hydreigon @ Leppa Berry
 Ability: Levitate  
 Level: 50  
 Happiness: 150  
-EVs: 8 Atk / 248 Def / 248 SpD  
+EVs: 248 Def / 8 SpA / 248 SpD  
 Brave Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
@@ -950,7 +950,7 @@ Ability: Mold Breaker
 Level: 50  
 Happiness: 150  
 EVs: 8 Def / 248 SpA / 248 SpD  
-Quiet Nature  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -980,7 +980,7 @@ Ability: Pressure
 Level: 50  
 Happiness: 150  
 EVs: 248 Atk / 8 Def / 248 SpA  
-Sassy Nature  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
@@ -990,7 +990,7 @@ Ability: Swarm
 Level: 50  
 Happiness: 150  
 EVs: 248 Atk / 248 Def / 8 SpD  
-Brave Nature  
+Relaxed Nature  
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
 - Metronome  
 - Recycle  
