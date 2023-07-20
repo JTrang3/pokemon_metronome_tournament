@@ -112,13 +112,13 @@ def transfer_metronome_data(dict, xl_file, sheetname):
     return
 
 # Transfer move's stats from move datafile
-def connect_move_with_stats(data_file, data_sheetname, target_file, target_sheetname):
+def connect_move_with_stats(pokemon_data, move_sheet, tournament_file, metronome_sheet):
     # Load worksheet where move database is
-    stats_workbook = openpyxl.load_workbook(data_file)
-    stats_worksheet = stats_workbook[data_sheetname]
+    stats_workbook = openpyxl.load_workbook(pokemon_data)
+    stats_worksheet = stats_workbook[move_sheet]
     # Load worksheet where move data is going to
-    target_workbook = openpyxl.load_workbook(target_file)
-    target_worksheet = target_workbook[target_sheetname]
+    target_workbook = openpyxl.load_workbook(tournament_file)
+    target_worksheet = target_workbook[metronome_sheet]
     # Iterate over the rows in the target worksheet
     for row_index, row in enumerate(target_worksheet.iter_rows(min_row=2, values_only=True), start=2):
         # Flag to check for valid move
@@ -144,7 +144,7 @@ def connect_move_with_stats(data_file, data_sheetname, target_file, target_sheet
                 target_worksheet.delete_rows(row_index)
                 print(f"Invalid move: {move_name} removed")
     # Save the target workbook
-    target_workbook.save(target_file)
+    target_workbook.save(tournament_file)
     return
 
 # Initialize dictionary w/ pokemon's team & match data
@@ -220,7 +220,8 @@ def faint_case(pokemon, case_num):
 # Gather battle statistics from the entire battle
 turn_count = 0
 def match_data(logs):
-    # Scoreboard: {"pokemon": ["team type", "defeats", "faints", "self-faints", "damage given", "damage taken", "battle turns", "games played", {"affliction": "pokemon"}, "turn_active"]}
+    # Scoreboard: {"pokemon": [0-"team type", 1-"defeats", 2-"faints", 3-"self-faints", 4-"damage given", 5-"damage taken", 
+    #               6-"critical hits", 7-"battle turns", 8-"games played", 9-{"affliction": "pokemon"}, 10-"turn_active"]}
     match_scoreboard = {}
     # Get teams and their rosters
     teams = get_teams_and_roster(logs)
@@ -230,7 +231,7 @@ def match_data(logs):
         roster = team[1].split(" / ")
         for pokemon in roster:
             # Apply initial scoreboard to each pokemon in roster
-            match_scoreboard[pokemon.split('-')[0]] = [team_type, 0, 0, 0, 0, 0, 0, 1, {}, False] 
+            match_scoreboard[pokemon.split('-')[0]] = [team_type, 0, 0, 0, 0, 0, 0, 0, 1, {}, False] 
     global turn_count
     # Read the contents of the file
     with open(logs, 'r') as file:
@@ -251,7 +252,7 @@ def match_data(logs):
             if line_index >= 8:
                 for pokemon in match_scoreboard:
                     if pokemon in line:
-                        match_scoreboard[pokemon][9] = True
+                        match_scoreboard[pokemon][10] = True
             # Check who last used Metronome
             if " used " in line:
                 current_action = re.search(r"(?:The opposing )?([^ ]+) used ([^!]+)!", line)
@@ -264,8 +265,9 @@ def match_data(logs):
                 future_attacking.append(pokemon_attacking)
             # Future Sight/Doom Desire misses the target
             elif "took the Future Sight attack!" in line or "took the Doom Desire attack!" in line:
-                if any(future_message in next_line[line_index] for future_message in future_outcomes):
-                    future_attacking.pop(0)
+                pokemon_attacking = future_attacking[0]
+                # if any(future_message in next_line[line_index] for future_message in future_outcomes):
+                future_attacking.pop(0)
             # Pokemon uses Perish Song
             elif "that heard the song will faint in three turns!" in line:
                 # Store Perish Song users in a list to check precedence
@@ -280,21 +282,21 @@ def match_data(logs):
                 if "'s " in previous_line:
                     # Attacking pokemon statused by receiver's ability
                     if ability_status.group(1) != pokemon_attacking:
-                        match_scoreboard[pokemon_attacking][8]["Status"] = ability_status.group(1)
+                        match_scoreboard[pokemon_attacking][9]["Status"] = ability_status.group(1)
                     # Receiving pokemon statused by attacker's ability
                     else:
-                        match_scoreboard[pokemon_receiving][8]["Status"] = ability_status.group(1)
+                        match_scoreboard[pokemon_receiving][9]["Status"] = ability_status.group(1)
                 # Receiving pokemon statused by hazards
                 elif "Go!" in previous_line or "sent out" in previous_line or "was hurt by the spikes!" in previous_line or "Pointed stones dug into" in previous_line:
-                    match_scoreboard[pokemon_status][8]["Status"] = hazards[match_scoreboard[pokemon_status][0]]["T-Spikes"]
+                    match_scoreboard[pokemon_status][9]["Status"] = hazards[match_scoreboard[pokemon_status][0]]["T-Spikes"]
                 # Receiving pokemon statused by attacker's move
                 else:
-                    match_scoreboard[pokemon_status][8]["Status"] = pokemon_attacking
+                    match_scoreboard[pokemon_status][9]["Status"] = pokemon_attacking
             # Pokemon affected by Leech Seed
             elif "was seeded!" in line:
                 # Update receiving pokemon's scoreboard with "leech" affliction
                 pokemon_leech = re.search(r"(?:The opposing )?([^ ]+) was seeded!", line).group(1)
-                match_scoreboard[pokemon_leech][8]["Leech"] = pokemon_attacking
+                match_scoreboard[pokemon_leech][9]["Leech"] = pokemon_attacking
             # Pokemon sets up hazards
             elif "Pointed stones float in the air around" in line or "scattered on the ground all around" in line:
                 # Hazards on user's side of the field set by opposing team type
@@ -313,7 +315,7 @@ def match_data(logs):
                 else:
                     pokemon_receiving = re.search(r"(?:The opposing )?([^ ]+).*!", line).group(1)
                 # Update receiving pokemon's scoreboard with "bind" affliction
-                match_scoreboard[pokemon_receiving][8]["Bind"] = pokemon_attacking
+                match_scoreboard[pokemon_receiving][9]["Bind"] = pokemon_attacking
             # Pokemon hit with contact-damage ability
             elif "was hurt!" in line or "sucked up the liquid ooze!" in line:
                 pokemon_contact = re.search(r"(?<=\[)(?:The opposing )?([^ ]+)'s ([^\]]+)", previous_line).group(1)
@@ -321,12 +323,12 @@ def match_data(logs):
             elif "began having a nightmare!" in line:
                 # Update receiving pokemon's scoreboard with "nightmare" affliction
                 pokemon_nightmare = re.search(r"(?:The opposing )?([^ ]+) began having a nightmare!", line).group(1)
-                match_scoreboard[pokemon_nightmare][8]["Nightmare"] = pokemon_attacking
+                match_scoreboard[pokemon_nightmare][9]["Nightmare"] = pokemon_attacking
             # Pokemon hit with Curse from Ghost type
             elif "cut its own HP and put a curse on" in line:
                 # Update receiving pokemon's scoreboard with "curse" affliction
                 pokemon_curse = re.search(r"(?:The opposing )?([^ ]+) cut its own HP and put a curse on (?:the opposing )?([^ ]+)!", line).group(2)
-                match_scoreboard[pokemon_curse][8]["Curse"] = pokemon_attacking
+                match_scoreboard[pokemon_curse][9]["Curse"] = pokemon_attacking
             # Current state of the weather
             elif any(weather_message in line for weather_message in weather):
                 # Pokemon used weather move
@@ -343,14 +345,14 @@ def match_data(logs):
                 # Update receiving pokemon's "damage taken" & attacking pokemon's "damage given" stat
                 match_scoreboard[pokemon_receiving][5] += damage
                 # Check if pokemon hit by Future Sight/Doom Desire
-                if "took the Future Sight attack!" in previous_line or "took the Doom Desire attack!" in previous_line:
-                    # Take from list of future attacks & remove earliest attack
-                    match_scoreboard[future_attacking[0]][4] += damage
-                    if "fainted!" in next_line[line_index + 1]:
-                        future_defeat_score = future_attacking[0]
-                    future_attacking.pop(0)
+                # if "took the Future Sight attack!" in previous_line or "took the Doom Desire attack!" in previous_line:
+                #     # Take from list of future attacks & remove earliest attack
+                #     match_scoreboard[future_attacking[0]][4] += damage
+                #     if "fainted!" in next_line[line_index + 1]:
+                #         future_defeat_score = future_attacking[0]
+                #     future_attacking.pop(0)
                 # NOTE: Pokemon won't receive "damage given" score if attacking own team
-                elif match_scoreboard[pokemon_attacking][0] != match_scoreboard[pokemon_receiving][0]:
+                if match_scoreboard[pokemon_attacking][0] != match_scoreboard[pokemon_receiving][0]:
                     match_scoreboard[pokemon_attacking][4] += damage
             # Check for pokemon fainting
             elif "fainted!" in line:
@@ -359,12 +361,12 @@ def match_data(logs):
                 match_scoreboard[pokemon_fainted][2] += 1
                 # Check who receives "defeats" score for faint
                 # CASE 1: Pokemon faints from Future Sight/Doom Desire
-                if future_defeat_score != None:
-                    match_scoreboard[future_defeat_score][1] += 1
-                    future_defeat_score = None
-                    case_num = "FUTURE"
+                # if future_defeat_score != None:
+                #     match_scoreboard[future_defeat_score][1] += 1
+                #     future_defeat_score = None
+                #     case_num = "FUTURE"
                 # CASE 2: Pokemon faints from Perish Song
-                elif perish_faints != 0:
+                if perish_faints != 0:
                     # CASE 2.1: Perish Song user faints itself
                     if perish_user[0] == pokemon_fainted:
                         match_scoreboard[pokemon_fainted][3] += 1
@@ -384,16 +386,16 @@ def match_data(logs):
                 # CASE 3: Pokemon faints from binding move (Bind/Wrap/Fire Spin/etc.)
                 elif "is hurt by" in previous_line:
                     # Give "defeats" score to binding pokemon
-                    match_scoreboard[match_scoreboard[pokemon_fainted][8]["Bind"]][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][9]["Bind"]][1] += 1
                     case_num = "BIND"
                 # CASE 3.1: Pokemon faints from residual damage (poison/burn)
                 elif "was hurt by poison!" in previous_line or "was hurt by its burn!" in previous_line:
                     # Give "defeats" score to pokemon who statused
-                    match_scoreboard[match_scoreboard[pokemon_fainted][8]["Status"]][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][9]["Status"]][1] += 1
                     case_num = "STATUS"
                 # CASE 3: Pokemon faints from Leech Seed
                 elif "health is sapped by Leech Seed!" in previous_line:
-                    match_scoreboard[match_scoreboard[pokemon_fainted][8]["Leech"]][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][9]["Leech"]][1] += 1
                     case_num = "LEECH"
                 # CASE 3.2: Pokemon faints from residual damage (sandstorm/hail)
                 elif "is buffeted by the" in previous_line or "hurt by its Dry Skin" in previous_line:
@@ -424,11 +426,11 @@ def match_data(logs):
                     case_num = "DESTINY"
                 # CASE 5: Pokemon faints from Nightmare
                 elif "is locked in a nightmare!" in previous_line:
-                    match_scoreboard[match_scoreboard[pokemon_fainted][8]["Nightmare"]][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][9]["Nightmare"]][1] += 1
                     case_num = "NIGHTMARE"
                 # CASE 6: Pokemon faints from Curse
                 elif "is afflicted by the curse!" in previous_line:
-                    match_scoreboard[match_scoreboard[pokemon_fainted][8]["Curse"]][1] += 1
+                    match_scoreboard[match_scoreboard[pokemon_fainted][9]["Curse"]][1] += 1
                     case_num = "CURSE"
                 # CASE 7.1: Pokemon faints from itself (confusion)
                 elif "It hurt itself in its confusion!" in previous_line:
@@ -455,6 +457,9 @@ def match_data(logs):
                     case_num = 0
                 # Testing proper faint cases
                 faint_case(pokemon_fainted, case_num)
+            # Check for critical hits
+            elif "A critical hit" in line:
+                match_scoreboard[pokemon_attacking][6] += 1
             elif "Turn " in line:
                 # All pokemon perished from field, remove earliest perish user
                 if perish_counted == True:
@@ -463,9 +468,9 @@ def match_data(logs):
                 # Set current turn of battle and active turns of each pokemon
                 turn_count += 1
                 for pokemon in match_scoreboard:
-                    if match_scoreboard[pokemon][9] == True:
-                        match_scoreboard[pokemon][6] += 1
-                        match_scoreboard[pokemon][9] = False
+                    if match_scoreboard[pokemon][10] == True:
+                        match_scoreboard[pokemon][7] += 1
+                        match_scoreboard[pokemon][10] = False
             # Ignore empty lines in file
             if line.strip() != "":
                 previous_line = line
@@ -474,10 +479,10 @@ def match_data(logs):
     return match_scoreboard
 
 # Send battle data statistics to Excel spreadsheet
-def transfer_match_data(dict, xl_file, sheetname, pokemon_data):
+def transfer_match_data(dict, tournament_file, match_sheet, pokemon_data, pokemon_sheet):
     # Load the existing workbook & worksheet
-    workbook = openpyxl.load_workbook(xl_file)
-    worksheet = workbook[sheetname]
+    workbook = openpyxl.load_workbook(tournament_file)
+    worksheet = workbook[match_sheet]
     # Iterate over the key, values of each pokemon in the scoreboard
     for pokemon, scoreboard in dict.items():
         # Flag to check if pokemon already in the worksheet
@@ -496,19 +501,19 @@ def transfer_match_data(dict, xl_file, sheetname, pokemon_data):
             new_row = worksheet.max_row + 1
             worksheet.cell(row=new_row, column=1).value = pokemon
             # Call function to get pokemon's type
-            type = get_pokemon_type(pokemon, pokemon_data, sheetname)
+            type = get_pokemon_type(pokemon, pokemon_data, pokemon_sheet)
             worksheet.cell(row=new_row, column=2).value = str(type)
             # Ignore "affliction" & "turn_active" values in dict
             for col_index, stat in enumerate(scoreboard[:-2], start=3):
                 worksheet.cell(row=new_row, column=col_index).value = stat
     # Save the workbook
-    workbook.save(xl_file)
+    workbook.save(tournament_file)
     return
 
 # Gather team statistics from scoreboard
 def team_data(logs, dict):
-    # {"pokemon": ["team type", "defeats", "faints", "self-faints", "damage given", "damage taken", "battle turns", "games played"]}
-    # {"team": [["members"], "won", "lost", "match turns", "games played", ["match history"]]}
+    # {"pokemon": ["team type", "defeats", "faints", "self-faints", "damage given", "damage taken", "critical hits", "battle turns", "games played"]}
+    # {"team": [["members"], "won", "lost", "match turns", "games played", "match streak", ["match history"]]}
     team_match_history = {} 
     # Get teams and their rosters
     teams = get_teams_and_roster(logs)
@@ -520,7 +525,7 @@ def team_data(logs, dict):
         team_type = team[0]
         roster = team[1].split(" / ")
         # Set winner & loser
-        win, lose = (1, 0) if team_type == winner else (0, 1)
+        win, lose, streak = (1, 0, "win") if team_type == winner else (0, 1, "lose")
         # Get total faints for each team & opponent team type from scoreboard
         user_faints, opponent_faints, opponent_type = 0, 0, ""
         for stat in dict.values():
@@ -532,7 +537,7 @@ def team_data(logs, dict):
                 opponent_faints += stat[2]
                 opponent_type = stat[0]
             # Populate team scoreboard with match records
-            team_match_history[team_type] = [roster, win, lose, turn_count, 1, [f"{opponent_type}: {opponent_faints}-{user_faints}"]]
+            team_match_history[team_type] = [roster, win, lose, turn_count, 1, streak, [f"{opponent_type}: {opponent_faints}-{user_faints}"]]
     # Reset turn count for next match
     turn_count = 0
     return team_match_history
@@ -556,6 +561,16 @@ def transfer_team_data(dict, xl_file, sheetname):
                     if col_index >= 3:
                         if isinstance(stat, int):
                             worksheet.cell(row=row_index, column=col_index).value += stat
+                        elif col_index == 7:
+                            # Match streak ended, reset match streak to won/lost 1
+                            if worksheet.cell(row=row_index, column=col_index).value[0] == "W" and stat == "lose": 
+                                worksheet.cell(row=row_index, column=col_index).value = "L1"
+                            elif worksheet.cell(row=row_index, column=col_index).value[0] == "L" and stat == "win": 
+                                worksheet.cell(row=row_index, column=col_index).value = "W1"
+                            # Match streak continues
+                            else:
+                                cell = worksheet.cell(row=row_index, column=col_index).value
+                                worksheet.cell(row=row_index, column=col_index).value = cell[0] + str(int(cell[1:]) + 1)
                         else:
                             # Format match history into proper list using abstract syntax trees
                             match_history = ast.literal_eval(worksheet.cell(row=row_index, column=col_index).value)
@@ -568,6 +583,9 @@ def transfer_team_data(dict, xl_file, sheetname):
             for col_index, stat in enumerate(records, start=2):
                 if isinstance(stat, int):
                     worksheet.cell(row=new_row, column=col_index).value = stat
+                elif col_index == 7:
+                    # Set initial match streak
+                    worksheet.cell(row=new_row, column=col_index).value = "W1" if stat == "win" else "L1"
                 else:
                     worksheet.cell(row=new_row, column=col_index).value = str(stat)
     # Save the workbook
@@ -598,7 +616,7 @@ def main():
 
         transfer_metronome_data(moves, "tournament_statistics.xlsx", "Metronome_Data")
         connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data")
-        transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Pokemon_Data", "pokemon_data_gen5.xlsx")
+        transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Match_Data", "pokemon_data_gen5.xlsx", "Pokemon_Data")
         transfer_team_data(team_record, "tournament_statistics.xlsx", "Team_Data")
     
     # TEST: Count each move used & total moves used in a battle
