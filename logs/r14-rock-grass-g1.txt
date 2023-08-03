@@ -1,0 +1,623 @@
+☆MTN Rock and ☆MTN Grass joined
+Format: [Gen 5] Triples Custom Game
+MTN Rock's team:
+Rhyperior / Cradily / Tyranitar / Carracosta / Aerodactyl / Sudowoodo
+MTN Grass's team:
+Ferrothorn / Breloom / Carnivine / Venusaur / Meganium / Leavanny
+
+Battle started between MTN Rock and MTN Grass!
+
+Go! Tyranitar!
+
+Go! Carracosta!
+
+Go! Rhyperior!
+
+MTN Grass sent out Carnivine!
+
+MTN Grass sent out Leavanny!
+
+MTN Grass sent out Meganium!
+[Tyranitar's Sand Stream]
+A sandstorm kicked up!
+
+Turn 1
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Bite!
+(Rhyperior lost 16% of its health!)
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Inferno!
+It's not very effective...
+(Tyranitar lost 9.4% of its health!)
+Tyranitar was burned!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Autotomize!
+Tyranitar's Speed rose sharply!
+Tyranitar became nimble!
+
+The opposing Carnivine used Metronome!
+
+Waggling a finger let it use Spite!
+But it failed!
+
+Rhyperior flinched and couldn't move!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Mean Look!
+The opposing Leavanny can no longer escape!
+
+(The sandstorm is raging.)
+The opposing Meganium is buffeted by the sandstorm!
+The opposing Carnivine is buffeted by the sandstorm!
+Tyranitar was hurt by its burn!
+
+Turn 2
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Autotomize!
+Tyranitar's Speed rose sharply!
+Tyranitar became nimble!
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Growl!
+Tyranitar's Attack fell!
+Carracosta's Attack fell!
+Rhyperior's Attack fell!
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Cross Chop!
+It's super effective!
+(Tyranitar lost 78.1% of its health!)
+
+Tyranitar fainted!
+The opposing Carnivine used Metronome!
+
+Waggling a finger let it use Growth!
+The opposing Carnivine's Attack rose!
+The opposing Carnivine's Sp. Atk rose!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Clear Smog!
+It's super effective!
+A critical hit!
+(The opposing Carnivine lost 59.7% of its health!)
+The opposing Carnivine's stat changes were removed!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Aqua Jet!
+It's not very effective...
+A critical hit!
+(The opposing Leavanny lost 14.6% of its health!)
+
+(The sandstorm is raging.)
+The opposing Meganium is buffeted by the sandstorm!
+The opposing Carnivine is buffeted by the sandstorm!
+
+Go! Aerodactyl!
+
+Turn 3
+
+Aerodactyl used Metronome!
+
+Waggling a finger let it use Future Sight!
+Aerodactyl foresaw an attack!
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+It's super effective!
+(Aerodactyl lost 41.4% of its health!)
+Aerodactyl's Speed fell!
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Glaciate!
+It's super effective on Aerodactyl!
+It's not very effective on Carracosta.
+(Aerodactyl lost 30% of its health!)
+(Carracosta lost 6.0% of its health!)
+Aerodactyl's Speed fell!
+Carracosta's Speed fell!
+
+The opposing Carnivine used Metronome!
+
+Waggling a finger let it use String Shot!
+Carracosta avoided the attack!
+Rhyperior's Speed fell!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Echoed Voice!
+(The opposing Carnivine lost 11.9% of its health!)
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+A critical hit!
+(The opposing Carnivine lost 16.4% of its health!)
+
+The opposing Carnivine fainted!
+
+(The sandstorm is raging.)
+The opposing Meganium is buffeted by the sandstorm!
+
+MTN Grass sent out Breloom!
+
+Turn 4
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Cotton Guard!
+The opposing Leavanny's Defense rose drastically!
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Zap Cannon!
+It's super effective!
+(Aerodactyl lost 28.6% of its health!)
+
+Aerodactyl fainted!
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Aqua Ring!
+The opposing Breloom surrounded itself with a veil of water!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Work Up!
+Rhyperior's Attack rose!
+Rhyperior's Sp. Atk rose!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Pluck!
+It's super effective!
+(The opposing Breloom lost 70% of its health!)
+Carracosta stole and ate its target's Leppa Berry!
+Carracosta restored PP to its move Metronome using its Leppa Berry!
+
+(The sandstorm is raging.)
+The opposing Meganium is buffeted by the sandstorm!
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+
+Go! Sudowoodo!
+
+Turn 5
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Psycho Boost!
+(Sudowoodo lost 27.7% of its health!)
+The opposing Leavanny's Sp. Atk fell harshly!
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Spit Up!
+But it failed!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Lock-On!
+The opposing Breloom took aim at Carracosta!
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Gear Grind!
+(The opposing Meganium lost 21.4% of its health!)
+(The opposing Meganium lost 22.9% of its health!)
+The Pokémon was hit 2 times!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Supersonic!
+The opposing Breloom avoided the attack!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Leech Life!
+It's super effective!
+(The opposing Meganium lost 8.6% of its health!)
+The opposing Meganium had its energy drained!
+
+(The sandstorm is raging.)
+The opposing Meganium is buffeted by the sandstorm!
+The opposing Breloom is buffeted by the sandstorm!
+The opposing Leavanny took the Future Sight attack!
+(The opposing Leavanny lost 20.1% of its health!)
+A veil of water restored the opposing Breloom's HP!
+
+Turn 6
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Pluck!
+It's not very effective...
+(Rhyperior lost 8% of its health!)
+The opposing Leavanny stole and ate its target's Leppa Berry!
+The opposing Leavanny restored PP to its move Metronome using its Leppa Berry!
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Super Fang!
+(Sudowoodo lost 35.8% of its health!)
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Psybeam!
+(Rhyperior lost 12% of its health!)
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Extrasensory!
+(The opposing Leavanny lost 15.9% of its health!)
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Fire Spin!
+It's super effective!
+(The opposing Leavanny lost 41.5% of its health!)
+The opposing Leavanny became trapped in the fiery vortex!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Icicle Crash!
+It's super effective!
+(The opposing Meganium lost 18.6% of its health!)
+
+The opposing Meganium fainted!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+The opposing Leavanny is hurt by Fire Spin!
+
+MTN Grass sent out Ferrothorn!
+
+Turn 7
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Rolling Kick!
+It's super effective!
+(Rhyperior lost 33.1% of its health!)
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Sacred Sword!
+It's super effective!
+(Rhyperior lost 30.9% of its health!)
+
+Rhyperior fainted!
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Double Team!
+Sudowoodo's evasiveness rose!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Growth!
+Carracosta's Attack rose!
+Carracosta's Sp. Atk rose!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Gust!
+Sudowoodo avoided the attack!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+
+Go! Cradily!
+
+Turn 8
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Vise Grip!
+It's not very effective...
+(Cradily lost 10.3% of its health!)
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Shadow Force!
+The opposing Breloom vanished instantly!
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Smog!
+It doesn't affect the opposing Ferrothorn...
+
+Cradily used Metronome!
+
+Waggling a finger let it use Miracle Eye!
+The opposing Breloom avoided the attack!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Fire Spin!
+Sudowoodo avoided the attack!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Bide!
+Carracosta is storing energy!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+
+Turn 9
+
+Carracosta is storing energy!
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Fiery Dance!
+It's not very effective...
+(Sudowoodo lost 4.4% of its health!)
+
+The opposing Breloom used Shadow Force!
+(Carracosta lost 35.8% of its health!)
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Head Charge!
+It's not very effective...
+(The opposing Ferrothorn lost 20.1% of its health!)
+[The opposing Ferrothorn's Iron Barbs]
+Sudowoodo was hurt!
+Sudowoodo was damaged by the recoil!
+
+Cradily used Metronome!
+
+Waggling a finger let it use Round!
+(The opposing Leavanny lost 1.8% of its health!)
+
+The opposing Leavanny fainted!
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Double-Edge!
+It's not very effective...
+(Carracosta lost 14.9% of its health!)
+The opposing Ferrothorn was damaged by the recoil!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+
+MTN Grass sent out Venusaur!
+
+Turn 10
+
+Carracosta unleashed its energy!
+(The opposing Ferrothorn lost 74.6% of its health!)
+[The opposing Ferrothorn's Iron Barbs]
+Carracosta was hurt!
+
+The opposing Ferrothorn fainted!
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+(Carracosta lost 16.4% of its health!)
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Psycho Shift!
+But it failed!
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Earthquake!
+It's super effective on Carracosta!
+(Carracosta lost 19.4% of its health!)
+(The opposing Venusaur lost 26.4% of its health!)
+
+Carracosta fainted!
+Cradily used Metronome!
+
+Waggling a finger let it use Peck!
+It's super effective!
+(The opposing Venusaur lost 21.4% of its health!)
+
+(The sandstorm is raging.)
+The opposing Venusaur is buffeted by the sandstorm!
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+
+Turn 11
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Iron Defense!
+The opposing Venusaur's Defense rose sharply!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Acid Armor!
+The opposing Breloom's Defense rose sharply!
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Agility!
+Sudowoodo's Speed rose sharply!
+
+Cradily used Metronome!
+
+Waggling a finger let it use Aqua Ring!
+Cradily surrounded itself with a veil of water!
+
+(The sandstorm is raging.)
+The opposing Venusaur is buffeted by the sandstorm!
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 12
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Wild Charge!
+It's not very effective...
+(The opposing Venusaur lost 8.6% of its health!)
+Sudowoodo was damaged by the recoil!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Bolt Strike!
+It's not very effective...
+(Cradily lost 20.5% of its health!)
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Leaf Blade!
+(Cradily lost 47.9% of its health!)
+
+Cradily used Metronome!
+
+Waggling a finger let it use Double Team!
+Cradily's evasiveness rose!
+
+(The sandstorm is raging.)
+The opposing Venusaur is buffeted by the sandstorm!
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 13
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Endeavor!
+(The opposing Venusaur lost 10.7% of its health!)
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Rock Wrecker!
+Cradily avoided the attack!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Moonlight!
+The opposing Breloom had its HP restored.
+
+Cradily used Metronome!
+
+Waggling a finger let it use Rock Wrecker!
+It's not very effective...
+(The opposing Breloom lost 26.7% of its health!)
+
+(The sandstorm is raging.)
+The opposing Venusaur is buffeted by the sandstorm!
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 14
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Bone Club!
+(The opposing Venusaur lost 10% of its health!)
+
+The opposing Venusaur fainted!
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Mega Kick!
+It's not very effective...
+(Cradily lost 21.2% of its health!)
+
+Cradily must recharge!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 15
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Rock Polish!
+Sudowoodo's Speed rose sharply!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Bite!
+Cradily avoided the attack!
+
+Cradily used Metronome!
+
+Waggling a finger let it use Withdraw!
+Cradily's Defense rose!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 16
+
+Sudowoodo moved to the center!
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Dive!
+The opposing Breloom hid underwater!
+
+Cradily used Metronome!
+
+Waggling a finger let it use Encore!
+The opposing Breloom avoided the attack!
+
+(The sandstorm is raging.)
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 17
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Synchronoise!
+The opposing Breloom avoided the attack!
+A critical hit on Cradily!
+(Cradily lost 21.2% of its health!)
+
+The opposing Breloom used Dive!
+It's super effective!
+(Sudowoodo lost 13.8% of its health!)
+
+Sudowoodo fainted!
+Cradily used Metronome!
+
+Waggling a finger let it use Mean Look!
+The opposing Breloom can no longer escape!
+
+(The sandstorm is raging.)
+The opposing Breloom is buffeted by the sandstorm!
+A veil of water restored the opposing Breloom's HP!
+A veil of water restored Cradily's HP!
+
+Turn 18
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Leaf Storm!
+(Cradily lost 21.9% of its health!)
+The opposing Breloom's Sp. Atk fell harshly!
+
+Cradily fainted!
+
+MTN Grass won the battle!

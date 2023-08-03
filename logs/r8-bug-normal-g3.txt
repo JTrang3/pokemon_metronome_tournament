@@ -1,0 +1,456 @@
+☆MTN Bug and ☆MTN Normal joined
+Format: [Gen 5] Triples Custom Game
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+MTN Normal's team:
+Slaking / Bibarel / Sawsbuck / Porygon2 / Togekiss / Clefable
+
+Battle started between MTN Bug and MTN Normal!
+
+Go! Volcarona!
+
+Go! Armaldo!
+
+Go! Ariados!
+
+MTN Normal sent out Sawsbuck!
+
+MTN Normal sent out Togekiss!
+
+MTN Normal sent out Clefable!
+
+Turn 1
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Leaf Storm!
+It's not very effective...
+(The opposing Togekiss lost 23.4% of its health!)
+Volcarona's Sp. Atk fell harshly!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Powder Snow!
+(Armaldo lost 8.9% of its health!)
+(Ariados lost 6.3% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+Volcarona fell asleep!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Double Slap!
+It's not very effective...
+(Armaldo lost 3.0% of its health!)
+It's not very effective...
+(Armaldo lost 3.0% of its health!)
+The Pokémon was hit 2 times!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Power Trick!
+Armaldo switched its Attack and Defense!
+
+Turn 2
+
+Volcarona is fast asleep.
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Shadow Ball!
+(Ariados lost 15.1% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Charge Beam!
+(Armaldo lost 17.0% of its health!)
+The opposing Clefable's Sp. Atk rose!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Spikes!
+Spikes were scattered on the ground all around your team!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Scald!
+It's not very effective...
+(The opposing Sawsbuck lost 19.3% of its health!)
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Pound!
+(The opposing Clefable lost 8.6% of its health!)
+
+Turn 3
+
+Volcarona is fast asleep.
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use String Shot!
+Armaldo's Speed fell!
+Ariados's Speed fell!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Eruption!
+(Volcarona lost 49.7% of its health!)
+(Armaldo lost 47.4% of its health!)
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+It's super effective!
+(Armaldo lost 5.9% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Judgment!
+A critical hit!
+(The opposing Togekiss lost 76.6% of its health!)
+
+The opposing Togekiss fainted!
+Armaldo used Metronome!
+
+Waggling a finger let it use Power Split!
+Armaldo shared its power with the target!
+
+MTN Normal sent out Slaking!
+
+Turn 4
+
+Volcarona woke up!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Smack Down!
+(The opposing Slaking lost 8.6% of its health!)
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Earth Power!
+(Armaldo lost 14.8% of its health!)
+
+Armaldo fainted!
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Flail!
+(Ariados lost 7.5% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Magic Coat!
+The opposing Clefable shrouded itself with Magic Coat!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Strength!
+(The opposing Sawsbuck lost 29.3% of its health!)
+
+Go! Forretress!
+Forretress was hurt by the spikes!
+
+Turn 5
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Horn Attack!
+(The opposing Slaking lost 11.9% of its health!)
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Acid Armor!
+The opposing Slaking's Defense rose sharply!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Water Pulse!
+It's super effective!
+(Volcarona lost 30.3% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Metal Claw!
+It's not very effective...
+(Volcarona lost 9.7% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Gear Grind!
+The opposing Slaking avoided the attack!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Weather Ball!
+(The opposing Slaking lost 13.3% of its health!)
+
+Turn 6
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Cosmic Power!
+The opposing Slaking's Defense rose!
+The opposing Slaking's Sp. Def rose!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Agility!
+Volcarona's Speed rose sharply!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Metal Claw!
+It's not very effective...
+(Volcarona lost 9.7% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Skill Swap!
+[Forretress's Sap Sipper]
+[The opposing Sawsbuck's Sturdy]
+Forretress swapped Abilities with its target!
+[Forretress's Sturdy]
+[The opposing Sawsbuck's Sap Sipper]
+
+Ariados used Metronome!
+
+Waggling a finger let it use Drill Run!
+(The opposing Slaking lost 7.6% of its health!)
+
+Turn 7
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Earth Power!
+(The opposing Clefable lost 10.2% of its health!)
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Magnet Bomb!
+(Ariados lost 23.9% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Reflect!
+Reflect made the opposing team stronger against physical moves!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Punishment!
+(Volcarona lost 0.7% of its health!)
+[Volcarona's Flame Body]
+The opposing Clefable was burned!
+
+Volcarona fainted!
+Forretress used Metronome!
+
+Waggling a finger let it use Magic Coat!
+Forretress shrouded itself with Magic Coat!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Work Up!
+Ariados's Attack rose!
+Ariados's Sp. Atk rose!
+
+Go! Yanmega!
+
+Turn 8
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Extreme Speed!
+(Ariados lost 47.2% of its health!)
+
+Ariados fainted!
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Flare Blitz!
+It's super effective!
+(Forretress lost 88.1% of its health!)
+
+Forretress fainted!
+The opposing Sawsbuck was damaged by the recoil!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Razor Shell!
+(The opposing Clefable lost 10.2% of its health!)
+The opposing Clefable's Defense fell!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Shadow Sneak!
+(Yanmega lost 8.2% of its health!)
+
+Go! Pinsir!
+Pinsir was hurt by the spikes!
+
+Turn 9
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Thunder Wave!
+Pinsir is paralyzed! It may be unable to move!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Dragon Dance!
+Yanmega's Attack rose!
+Yanmega's Speed rose!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Mind Reader!
+The opposing Sawsbuck took aim at Pinsir!
+
+Pinsir is paralyzed! It can't move!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Teeter Dance!
+The opposing Slaking became confused!
+Yanmega became confused!
+Pinsir became confused!
+
+Turn 10
+
+Yanmega is confused!
+Yanmega used Metronome!
+
+Waggling a finger let it use Energy Ball!
+(The opposing Slaking lost 14.8% of its health!)
+
+The opposing Slaking is confused!
+It hurt itself in its confusion!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Hail!
+It started to hail!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Chip Away!
+A critical hit!
+(Pinsir lost 40.8% of its health!)
+
+Pinsir is confused!
+Pinsir used Metronome!
+
+Waggling a finger let it use Work Up!
+Pinsir's Attack rose!
+Pinsir's Sp. Atk rose!
+
+(The hail is crashing down.)
+Yanmega is buffeted by the hail!
+The opposing Slaking is buffeted by the hail!
+The opposing Sawsbuck is buffeted by the hail!
+Pinsir is buffeted by the hail!
+
+Turn 11
+
+Yanmega is confused!
+Yanmega used Metronome!
+
+Waggling a finger let it use Brave Bird!
+(The opposing Clefable lost 52.2% of its health!)
+Yanmega was damaged by the recoil!
+
+The opposing Slaking is confused!
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Hydro Pump!
+(Yanmega lost 50.7% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Aqua Ring!
+The opposing Sawsbuck surrounded itself with a veil of water!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Earth Power!
+It doesn't affect Yanmega...
+
+Pinsir is confused!
+It hurt itself in its confusion!
+
+(The hail is crashing down.)
+Yanmega is buffeted by the hail!
+The opposing Slaking is buffeted by the hail!
+The opposing Sawsbuck is buffeted by the hail!
+Pinsir is buffeted by the hail!
+A veil of water restored the opposing Sawsbuck's HP!
+The opposing team's Reflect wore off!
+
+Turn 12
+
+Yanmega snapped out of its confusion!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+A critical hit!
+(The opposing Slaking lost 26.2% of its health!)
+Yanmega's Attack rose!
+
+The opposing Slaking fainted!
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Ice Punch!
+(Pinsir lost 11.2% of its health!)
+
+Pinsir fainted!
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Foresight!
+Yanmega was identified!
+
+(The hail is crashing down.)
+Yanmega is buffeted by the hail!
+The opposing Sawsbuck is buffeted by the hail!
+A veil of water restored the opposing Sawsbuck's HP!
+
+MTN Normal sent out Bibarel!
+
+Turn 13
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Aqua Tail!
+It's not very effective...
+(The opposing Bibarel lost 63.3% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Lick!
+But it failed!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Pain Split!
+The battlers shared their pain!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Fire Fang!
+It's super effective!
+(Yanmega lost 12.3% of its health!)
+
+Yanmega fainted!
+
+MTN Normal won the battle!

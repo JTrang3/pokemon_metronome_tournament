@@ -1,0 +1,488 @@
+☆MTN Grass and ☆MTN Electric joined
+Format: [Gen 5] Triples Custom Game
+MTN Grass's team:
+Ferrothorn / Breloom / Carnivine / Venusaur / Meganium / Leavanny
+MTN Electric's team:
+Electivire / Ampharos / Magneton / Eelektross / Rotom-Wash / Manectric
+
+Battle started between MTN Grass and MTN Electric!
+
+Go! Carnivine!
+
+Go! Meganium!
+
+Go! Ferrothorn!
+
+MTN Electric sent out Rotom (Rotom-Wash)!
+
+MTN Electric sent out Manectric!
+
+MTN Electric sent out Ampharos!
+
+Turn 1
+
+The opposing Manectric used Metronome!
+
+Waggling a finger let it use Dragon Tail!
+It's not very effective...
+(Ferrothorn lost 8.2% of its health!)
+[Ferrothorn's Iron Barbs]
+The opposing Manectric was hurt!
+
+Leavanny was dragged out!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Iron Defense!
+The opposing Rotom's Defense rose sharply!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Slash!
+(The opposing Manectric lost 17.6% of its health!)
+
+The opposing Ampharos used Metronome!
+
+Waggling a finger let it use Vacuum Wave!
+(Meganium lost 20% of its health!)
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Psystrike!
+(The opposing Ampharos lost 24.7% of its health!)
+
+Turn 2
+
+The opposing Manectric used Metronome!
+
+Waggling a finger let it use Dizzy Punch!
+(Meganium lost 22.9% of its health!)
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Egg Bomb!
+(The opposing Rotom lost 19.9% of its health!)
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Crabhammer!
+It's not very effective...
+(Leavanny lost 15.9% of its health!)
+
+Meganium used Metronome!
+
+Waggling a finger let it use Power Whip!
+(The opposing Ampharos lost 58.0% of its health!)
+
+The opposing Ampharos used Metronome!
+
+Waggling a finger let it use Sonic Boom!
+(Carnivine lost 14.9% of its health!)
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Energy Ball!
+(The opposing Manectric lost 28.9% of its health!)
+
+Turn 3
+
+The opposing Manectric used Metronome!
+
+Waggling a finger let it use Frenzy Plant!
+It's not very effective...
+(Carnivine lost 50.7% of its health!)
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Tail Glow!
+Leavanny's Sp. Atk rose drastically!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Water Sport!
+Fire's power was weakened!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Payback!
+(The opposing Rotom lost 14.9% of its health!)
+
+The opposing Ampharos used Metronome!
+
+Waggling a finger let it use Vacuum Wave!
+(Carnivine lost 20.9% of its health!)
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+The opposing Manectric was identified!
+
+Turn 4
+
+The opposing Manectric must recharge!
+
+Leavanny used Metronome!
+
+Waggling a finger let it use U-turn!
+(The opposing Manectric lost 36.5% of its health!)
+
+Leavanny went back to MTN Grass!
+Go! Ferrothorn!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use String Shot!
+Meganium's Speed fell!
+Ferrothorn's Speed fell!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Leaf Tornado!
+(The opposing Ampharos lost 17.3% of its health!)
+
+The opposing Ampharos fainted!
+Carnivine used Metronome!
+
+Waggling a finger let it use Lick!
+(The opposing Manectric lost 5.0% of its health!)
+
+The opposing Manectric fainted!
+
+MTN Electric sent out Eelektross!
+
+MTN Electric sent out Electivire!
+
+Turn 5
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Wing Attack!
+It's super effective!
+(Meganium lost 44.3% of its health!)
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Thunder Wave!
+Ferrothorn is paralyzed! It may be unable to move!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Foresight!
+The opposing Electivire was identified!
+
+The opposing Eelektross used Metronome!
+
+Waggling a finger let it use Magic Room!
+It created a bizarre area in which Pokémon's held items lose their effects!
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Foul Play!
+(The opposing Eelektross lost 29.0% of its health!)
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Fiery Dance!
+It's not very effective...
+(The opposing Rotom lost 3.5% of its health!)
+Ferrothorn's Sp. Atk rose!
+
+Turn 6
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Focus Blast!
+(Meganium lost 12.9% of its health!)
+
+Meganium fainted!
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Wake-Up Slap!
+It's super effective!
+(Ferrothorn lost 29.9% of its health!)
+[Ferrothorn's Iron Barbs]
+The opposing Rotom was hurt!
+
+The opposing Eelektross used Metronome!
+
+Waggling a finger let it use Earthquake!
+[The opposing Rotom's Levitate]
+It doesn't affect the opposing Rotom...
+[Carnivine's Levitate]
+It doesn't affect Carnivine...
+It's super effective on the opposing Electivire!
+(The opposing Electivire lost 44.4% of its health!)
+(Ferrothorn lost 19.4% of its health!)
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Stored Power!
+(The opposing Electivire lost 5.9% of its health!)
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Water Pledge!
+(The opposing Eelektross lost 17.2% of its health!)
+
+Go! Leavanny!
+
+Turn 7
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Drill Peck!
+It's not very effective...
+(The opposing Electivire lost 16.3% of its health!)
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Force Palm!
+It's not very effective...
+(Leavanny lost 7.3% of its health!)
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Gunk Shot!
+It doesn't affect Ferrothorn...
+
+The opposing Eelektross used Metronome!
+
+Waggling a finger let it use Yawn!
+But it failed!
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Wrap!
+(The opposing Eelektross lost 4.1% of its health!)
+The opposing Eelektross was wrapped by Carnivine!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(The opposing Eelektross lost 39.3% of its health!)
+
+The opposing Eelektross is hurt by Wrap!
+
+Turn 8
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+Ferrothorn was cured of paralysis!
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Lock-On!
+The opposing Electivire took aim at Leavanny!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Poison Powder!
+It doesn't affect Ferrothorn...
+
+The opposing Eelektross used Metronome!
+
+Waggling a finger let it use Imprison!
+The opposing Eelektross sealed any moves its target shares with it!
+
+Carnivine can't use its sealed Metronome!
+
+Ferrothorn can't use its sealed Metronome!
+
+The opposing Eelektross is hurt by Wrap!
+
+The opposing Eelektross fainted!
+
+MTN Electric sent out Magneton!
+
+Turn 9
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Sweet Kiss!
+The opposing Magneton became confused!
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Encore!
+Carnivine must do an encore!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Poison Jab!
+It's super effective!
+(Leavanny lost 35.4% of its health!)
+
+The opposing Magneton is confused!
+It hurt itself in its confusion!
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Jump Kick!
+(The opposing Electivire lost 31.1% of its health!)
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Heal Block!
+The opposing Rotom was prevented from healing!
+The opposing Magneton was prevented from healing!
+
+Magic Room wore off, and held items' effects returned to normal!
+
+Turn 10
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Thunder Shock!
+[The opposing Electivire's Motor Drive]
+The opposing Electivire's Speed rose!
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Future Sight!
+The opposing Electivire foresaw an attack!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Bounce!
+The opposing Rotom sprang up!
+
+The opposing Magneton is confused!
+The opposing Magneton used Metronome!
+
+Waggling a finger let it use Clamp!
+Carnivine avoided the attack!
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Icicle Spear!
+It's not very effective...
+(The opposing Magneton lost 4.5% of its health!)
+It's not very effective...
+(The opposing Magneton lost 4.5% of its health!)
+It's not very effective...
+(The opposing Magneton lost 4.5% of its health!)
+The Pokémon was hit 3 times!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Horn Drill!
+The opposing Rotom avoided the attack!
+
+Turn 11
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Thunder Wave!
+Leavanny is paralyzed! It may be unable to move!
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Steamroller!
+The opposing Rotom avoided the attack!
+
+The opposing Rotom used Bounce!
+(Ferrothorn lost 22.4% of its health!)
+Ferrothorn is paralyzed! It may be unable to move!
+[Ferrothorn's Iron Barbs]
+The opposing Rotom was hurt!
+
+The opposing Magneton is confused!
+It hurt itself in its confusion!
+
+Carnivine used Metronome!
+
+Waggling a finger let it use Signal Beam!
+It's not very effective...
+(The opposing Magneton lost 13.6% of its health!)
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Needle Arm!
+It's not very effective...
+(The opposing Magneton lost 21.8% of its health!)
+
+Carnivine's encore ended!
+
+Turn 12
+
+The opposing Electivire used Metronome!
+
+Waggling a finger let it use Magic Room!
+It created a bizarre area in which Pokémon's held items lose their effects!
+
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Trick Room!
+The opposing Rotom twisted the dimensions!
+
+The opposing Magneton is confused!
+The opposing Magneton used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+It's not very effective...
+(Ferrothorn lost 20.1% of its health!)
+
+Ferrothorn fainted!
+Carnivine used Metronome!
+
+Waggling a finger let it use Poison Fang!
+(The opposing Electivire lost 2.2% of its health!)
+
+The opposing Electivire fainted!
+Leavanny used Metronome!
+
+Waggling a finger let it use Conversion!
+Leavanny's type changed to Normal!
+
+Carnivine took the Future Sight attack!
+(Carnivine lost 13.4% of its health!)
+
+Carnivine fainted!
+
+Go! Venusaur!
+
+Go! Breloom!
+
+Turn 13
+
+Leavanny is paralyzed! It can't move!
+The opposing Magneton snapped out of its confusion!
+
+The opposing Magneton used Metronome!
+
+Waggling a finger let it use Sheer Cold!
+Leavanny is unaffected!
+
+Breloom used Metronome!
+
+Waggling a finger let it use Psyshock!
+It's not very effective...
+(The opposing Magneton lost 15.5% of its health!)
+
+Venusaur used Metronome!
+
+Waggling a finger let it use Rollout!
+It's not very effective...
+(The opposing Magneton lost 1.8% of its health!)
+
+The opposing Magneton fainted!
+The opposing Rotom used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+A critical hit!
+(Venusaur lost 35.7% of its health!)
+
+The opposing Rotom's Heal Block wore off!
+
+Turn 14
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Seismic Toss!
+(The opposing Rotom lost 37.6% of its health!)
+
+The opposing Rotom fainted!
+
+MTN Grass won the battle!

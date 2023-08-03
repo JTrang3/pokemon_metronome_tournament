@@ -1,0 +1,412 @@
+☆MTN Bug and ☆MTN Normal joined
+Format: [Gen 5] Triples Custom Game
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+MTN Normal's team:
+Slaking / Bibarel / Sawsbuck / Porygon2 / Togekiss / Clefable
+
+Battle started between MTN Bug and MTN Normal!
+
+Go! Yanmega!
+
+Go! Pinsir!
+
+Go! Forretress!
+
+MTN Normal sent out Porygon2!
+
+MTN Normal sent out Sawsbuck!
+
+MTN Normal sent out Clefable!
+[The opposing Porygon2's Trace]
+[The opposing Porygon2's Sturdy]
+The opposing Porygon2 traced Forretress's Sturdy!
+
+Turn 1
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Heat Crash!
+It's super effective!
+(Pinsir lost 25.6% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Feint Attack!
+(The opposing Clefable lost 10.2% of its health!)
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Iron Defense!
+Pinsir's Defense rose sharply!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Horn Attack!
+(Pinsir lost 24% of its health!)
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Smog!
+Pinsir avoided the attack!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Embargo!
+The opposing Sawsbuck can't use items anymore!
+
+Turn 2
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Mud Bomb!
+(The opposing Clefable lost 14.0% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Bone Club!
+It's not very effective...
+(Pinsir lost 6.4% of its health!)
+
+Pinsir flinched and couldn't move!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Powder Snow!
+It's super effective on Yanmega!
+A critical hit on Yanmega!
+(Yanmega lost 45.2% of its health!)
+(Pinsir lost 12.8% of its health!)
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Giga Drain!
+It's not very effective...
+(Pinsir lost 14.4% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+The opposing Clefable had its HP restored.
+
+Turn 3
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[Yanmega's Tinted Lens]
+[Yanmega's Simple]
+Yanmega acquired Simple!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Heart Stamp!
+(The opposing Clefable lost 11.8% of its health!)
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+(The opposing Clefable lost 5.4% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Discharge!
+It's not very effective on the opposing Sawsbuck.
+It's super effective on Yanmega!
+(The opposing Sawsbuck lost 13.6% of its health!)
+(Yanmega lost 47.9% of its health!)
+(Pinsir lost 16.8% of its health!)
+
+Pinsir fainted!
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Hyper Beam!
+It's not very effective...
+(Forretress lost 33.3% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Hurricane!
+(The opposing Clefable lost 18.3% of its health!)
+
+Go! Volcarona!
+
+Turn 4
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Sky Attack!
+Volcarona became cloaked in a harsh light!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Camouflage!
+The opposing Sawsbuck's type changed to Ground!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Mist Ball!
+(The opposing Sawsbuck lost 32.9% of its health!)
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Pin Missile!
+It's not very effective...
+(Volcarona lost 2.8% of its health!)
+It's not very effective...
+(Volcarona lost 2.8% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Porygon2 must recharge!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Imprison!
+Forretress sealed any moves its target shares with it!
+
+Turn 5
+
+Forretress, come back!
+Go! Armaldo!
+
+Volcarona used Sky Attack!
+(The opposing Sawsbuck lost 44.3% of its health!)
+The opposing Sawsbuck has no moves left!
+
+The opposing Sawsbuck used Struggle!
+(Yanmega lost 6.8% of its health!)
+
+Yanmega fainted!
+The opposing Sawsbuck was damaged by the recoil!
+
+The opposing Sawsbuck fainted!
+The opposing Clefable has no moves left!
+
+The opposing Clefable used Struggle!
+(Volcarona lost 20% of its health!)
+The opposing Clefable was damaged by the recoil!
+The opposing Porygon2 has no moves left!
+
+The opposing Porygon2 used Struggle!
+(Armaldo lost 15.6% of its health!)
+The opposing Porygon2 was damaged by the recoil!
+
+Go! Ariados!
+
+MTN Normal sent out Slaking!
+
+Turn 6
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Muddy Water!
+Ariados avoided the attack!
+It's super effective on Volcarona!
+It's super effective on Armaldo!
+(Volcarona lost 49.7% of its health!)
+(Armaldo lost 48.9% of its health!)
+Armaldo's accuracy fell!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Head Smash!
+(The opposing Porygon2 lost 33.8% of its health!)
+Volcarona was damaged by the recoil!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use False Swipe!
+(Volcarona lost 6.9% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Constrict!
+(The opposing Clefable lost 2.7% of its health!)
+The opposing Clefable's Speed fell!
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Psychic!
+(Volcarona lost 0.7% of its health!)
+
+Volcarona fainted!
+Armaldo used Metronome!
+
+Waggling a finger let it use Leer!
+The opposing Porygon2's Defense fell!
+The opposing Slaking's Defense fell!
+
+Go! Forretress!
+
+Turn 7
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Shadow Sneak!
+(Armaldo lost 17.0% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Psybeam!
+A critical hit!
+(The opposing Slaking lost 48.6% of its health!)
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Thunderbolt!
+(Armaldo lost 18.5% of its health!)
+
+Armaldo fainted!
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Bonemerang!
+(Ariados lost 17.0% of its health!)
+(Ariados lost 17.0% of its health!)
+The Pokémon was hit 2 times!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Hammer Arm!
+It's super effective!
+(The opposing Clefable lost 32.3% of its health!)
+Forretress's Speed fell!
+
+Turn 8
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Beat Up!
+It's not very effective...
+A critical hit!
+(Forretress lost 5.2% of its health!)
+It's not very effective...
+(Forretress lost 3.7% of its health!)
+It's not very effective...
+(Forretress lost 2.2% of its health!)
+It's not very effective...
+(Forretress lost 2.2% of its health!)
+It's not very effective...
+(Forretress lost 2.2% of its health!)
+The Pokémon was hit 5 times!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Dual Chop!
+(The opposing Clefable lost 4.3% of its health!)
+
+The opposing Clefable fainted!
+The Pokémon was hit 1 time!
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Poison Powder!
+Forretress avoided the attack!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Volt Tackle!
+(The opposing Slaking lost 27.6% of its health!)
+Forretress was damaged by the recoil!
+
+MTN Normal sent out Togekiss!
+
+Turn 9
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Whirlwind!
+But it failed!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Magma Storm!
+Forretress avoided the attack!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Dragon Rush!
+A critical hit!
+(The opposing Togekiss lost 82.8% of its health!)
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Lock-On!
+The opposing Porygon2 took aim at Forretress!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Rock Polish!
+Forretress's Speed rose sharply!
+
+Turn 10
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Water Pulse!
+(Ariados lost 18.2% of its health!)
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Karate Chop!
+It's not very effective...
+(Ariados lost 2.5% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Feather Dance!
+The opposing Porygon2's Attack fell harshly!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Ember!
+(The opposing Slaking lost 11.0% of its health!)
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Sheer Cold!
+[Forretress's Sturdy]
+It doesn't affect Forretress...
+
+Turn 11
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Double Hit!
+It's not very effective...
+(Forretress lost 8.9% of its health!)
+It's not very effective...
+(Forretress lost 8.9% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Rock Slide!
+It's super effective on Ariados!
+(Ariados lost 22.6% of its health!)
+(Forretress lost 10.4% of its health!)
+
+Forretress flinched and couldn't move!
+
+Ariados flinched and couldn't move!
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Belly Drum!
+But it failed!
+
+Turn 12
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Acrobatics!
+(Forretress lost 8.9% of its health!)
+
+Forretress fainted!
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Round!
+(Ariados lost 22.6% of its health!)
+
+Ariados fainted!
+
+MTN Normal won the battle!

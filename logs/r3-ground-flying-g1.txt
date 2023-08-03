@@ -1,0 +1,504 @@
+☆MTN Ground and ☆MTN Flying joined
+Format: [Gen 5] Triples Custom Game
+MTN Ground's team:
+Steelix / Hippowdon / Excadrill / Flygon / Gliscor / Sandslash
+MTN Flying's team:
+Skarmory / Pelipper / Dragonite / Mandibuzz / Scyther / Staraptor
+
+Battle started between MTN Ground and MTN Flying!
+
+Go! Flygon!
+
+Go! Gliscor!
+
+Go! Excadrill!
+
+MTN Flying sent out Scyther!
+
+MTN Flying sent out Staraptor!
+
+MTN Flying sent out Dragonite!
+[The opposing Staraptor's Intimidate]
+Flygon's Attack fell!
+Gliscor's Attack fell!
+Excadrill's Attack fell!
+
+Turn 1
+
+The opposing Staraptor used Metronome!
+
+Waggling a finger let it use Confuse Ray!
+Flygon became confused!
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Flame Charge!
+It's super effective!
+(Excadrill lost 48.2% of its health!)
+The opposing Scyther's Speed rose!
+
+Flygon is confused!
+It hurt itself in its confusion!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Bolt Strike!
+It's super effective!
+(The opposing Staraptor lost 38.9% of its health!)
+
+Excadrill used Metronome!
+
+Waggling a finger let it use Vine Whip!
+It's not very effective...
+(The opposing Scyther lost 2.3% of its health!)
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Mud Shot!
+[Flygon's Levitate]
+It doesn't affect Flygon...
+
+Turn 2
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Extrasensory!
+It's not very effective...
+(Excadrill lost 11.8% of its health!)
+
+The opposing Staraptor used Metronome!
+
+Waggling a finger let it use Toxic Spikes!
+Poison spikes were scattered on the ground all around your team!
+Flygon snapped out of its confusion!
+
+Flygon used Metronome!
+
+Waggling a finger let it use Heat Crash!
+(The opposing Staraptor lost 13.7% of its health!)
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Psywave!
+(The opposing Staraptor lost 20% of its health!)
+
+Excadrill used Metronome!
+
+Waggling a finger let it use Fissure!
+It doesn't affect the opposing Staraptor...
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Stealth Rock!
+Pointed stones float in the air around your team!
+
+Turn 3
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Aeroblast!
+A critical hit!
+(Gliscor lost 68.9% of its health!)
+
+The opposing Staraptor used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+Flygon used Metronome!
+
+Waggling a finger let it use Round!
+(The opposing Dragonite lost 9.3% of its health!)
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Bug Bite!
+It's not very effective...
+(The opposing Dragonite lost 4.0% of its health!)
+Gliscor stole and ate its target's Leppa Berry!
+Gliscor restored PP to its move Metronome using its Leppa Berry!
+
+Excadrill used Metronome!
+
+Waggling a finger let it use Weather Ball!
+(The opposing Staraptor lost 9.7% of its health!)
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Super Fang!
+(Gliscor lost 15.6% of its health!)
+
+The opposing Scyther's perish count fell to 3.
+The opposing Staraptor's perish count fell to 3.
+Flygon's perish count fell to 3.
+Gliscor's perish count fell to 3.
+Excadrill's perish count fell to 3.
+The opposing Dragonite's perish count fell to 3.
+
+Turn 4
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Roar!
+
+Hippowdon was dragged out!
+Hippowdon was poisoned!
+Pointed stones dug into Hippowdon!
+[Hippowdon's Sand Stream]
+A sandstorm kicked up!
+
+The opposing Staraptor used Metronome!
+
+Waggling a finger let it use Heal Block!
+Flygon was prevented from healing!
+Hippowdon was prevented from healing!
+Excadrill was prevented from healing!
+
+Flygon used Metronome!
+
+Flygon can't use Soft-Boiled because of Heal Block!
+
+Excadrill used Metronome!
+
+Waggling a finger let it use Spikes!
+Spikes were scattered on the ground all around the opposing team!
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Spike Cannon!
+(Hippowdon lost 6.5% of its health!)
+(Hippowdon lost 5.4% of its health!)
+(Hippowdon lost 5.4% of its health!)
+The Pokémon was hit 3 times!
+
+(The sandstorm is raging.)
+The opposing Scyther is buffeted by the sandstorm!
+The opposing Staraptor is buffeted by the sandstorm!
+The opposing Dragonite is buffeted by the sandstorm!
+Hippowdon was hurt by poison!
+The opposing Scyther's perish count fell to 2.
+The opposing Staraptor's perish count fell to 2.
+Flygon's perish count fell to 2.
+Excadrill's perish count fell to 2.
+The opposing Dragonite's perish count fell to 2.
+
+Turn 5
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Double Team!
+The opposing Scyther's evasiveness rose!
+
+The opposing Staraptor used Metronome!
+
+Waggling a finger let it use Retaliate!
+(Flygon lost 43.6% of its health!)
+
+Flygon used Metronome!
+
+Waggling a finger let it use Scald!
+(The opposing Staraptor lost 12% of its health!)
+
+The opposing Staraptor fainted!
+Excadrill used Metronome!
+
+Waggling a finger let it use Growth!
+Excadrill's Attack rose!
+Excadrill's Sp. Atk rose!
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Psycho Cut!
+(The opposing Scyther lost 21.5% of its health!)
+
+(The sandstorm is raging.)
+The opposing Scyther is buffeted by the sandstorm!
+The opposing Dragonite is buffeted by the sandstorm!
+Hippowdon was hurt by poison!
+The opposing Scyther's perish count fell to 1.
+Flygon's perish count fell to 1.
+Excadrill's perish count fell to 1.
+The opposing Dragonite's perish count fell to 1.
+
+MTN Flying sent out Skarmory!
+
+Turn 6
+
+The opposing Scyther used Metronome!
+
+Waggling a finger let it use Air Cutter!
+It's not very effective on Excadrill.
+A critical hit on Excadrill!
+(Hippowdon lost 18.5% of its health!)
+(Excadrill lost 27.1% of its health!)
+
+Flygon used Metronome!
+
+Waggling a finger let it use Bolt Strike!
+(The opposing Dragonite lost 18.5% of its health!)
+
+Excadrill used Metronome!
+
+Waggling a finger let it use Glare!
+The opposing Scyther is paralyzed! It may be unable to move!
+
+The opposing Dragonite used Metronome!
+
+Waggling a finger let it use Crush Claw!
+A critical hit!
+(Flygon lost 48.6% of its health!)
+
+Flygon fainted!
+The opposing Skarmory used Metronome!
+
+Waggling a finger let it use Hidden Power!
+(Hippowdon lost 5.4% of its health!)
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Psywave!
+(The opposing Skarmory lost 51.2% of its health!)
+
+(The sandstorm is raging.)
+The opposing Dragonite is buffeted by the sandstorm!
+The opposing Scyther is buffeted by the sandstorm!
+Hippowdon was hurt by poison!
+Excadrill's perish count fell to 0.
+The opposing Dragonite's perish count fell to 0.
+The opposing Scyther's perish count fell to 0.
+
+Excadrill fainted!
+The opposing Dragonite fainted!
+The opposing Scyther fainted!
+
+MTN Flying sent out Pelipper!
+
+Go! Steelix!
+
+Go! Sandslash!
+
+MTN Flying sent out Mandibuzz!
+Sandslash was poisoned!
+Pointed stones dug into Sandslash!
+Pointed stones dug into Steelix!
+
+Turn 7
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Sky Uppercut!
+(The opposing Skarmory lost 29.6% of its health!)
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Hydro Cannon!
+It's super effective!
+(Hippowdon lost 15.5% of its health!)
+
+Hippowdon fainted!
+The opposing Skarmory used Metronome!
+
+Waggling a finger let it use Stealth Rock!
+But it failed!
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+It's not very effective...
+(The opposing Skarmory lost 19.2% of its health!)
+
+The opposing Skarmory fainted!
+
+(The sandstorm is raging.)
+The opposing Pelipper is buffeted by the sandstorm!
+Sandslash was hurt by poison!
+
+Go! Gliscor!
+Pointed stones dug into Gliscor!
+
+Turn 8
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Growl!
+The opposing Pelipper's Attack fell!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Crabhammer!
+It's not very effective...
+(The opposing Pelipper lost 15.8% of its health!)
+
+The opposing Mandibuzz must recharge!
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Quick Attack!
+(Gliscor lost 3.7% of its health!)
+
+Gliscor fainted!
+Steelix used Metronome!
+
+Waggling a finger let it use Magical Leaf!
+It's not very effective...
+(The opposing Mandibuzz lost 6.5% of its health!)
+
+(The sandstorm is raging.)
+The opposing Pelipper is buffeted by the sandstorm!
+Sandslash was hurt by poison!
+
+Turn 9
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Hone Claws!
+Sandslash's Attack rose!
+Sandslash's accuracy rose!
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Rock Climb!
+It's not very effective...
+(Steelix lost 7.4% of its health!)
+Steelix became confused!
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Magma Storm!
+(Sandslash lost 24.4% of its health!)
+Sandslash became trapped by swirling magma!
+
+Steelix is confused!
+Steelix used Metronome!
+
+Waggling a finger let it use Trick Room!
+Steelix twisted the dimensions!
+
+(The sandstorm is raging.)
+The opposing Pelipper is buffeted by the sandstorm!
+Sandslash was hurt by poison!
+Sandslash is hurt by Magma Storm!
+
+Turn 10
+
+Steelix is confused!
+Steelix used Metronome!
+
+Waggling a finger let it use Seed Bomb!
+It's not very effective...
+(The opposing Mandibuzz lost 8.8% of its health!)
+
+The opposing Pelipper used Metronome!
+
+Waggling a finger let it use Explosion!
+(Sandslash lost 26.8% of its health!)
+
+The opposing Pelipper fainted!
+Sandslash fainted!
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Defense Curl!
+The opposing Mandibuzz's Defense rose!
+
+(The sandstorm is raging.)
+
+Turn 11
+
+Steelix is confused!
+Steelix used Metronome!
+
+Waggling a finger let it use Power Split!
+Steelix shared its power with the target!
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Spark!
+It doesn't affect Steelix...
+
+(The sandstorm is raging.)
+
+Turn 12
+
+Steelix snapped out of its confusion!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Rollout!
+It's super effective!
+(The opposing Mandibuzz lost 9.4% of its health!)
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Rage!
+It's not very effective...
+(Steelix lost 2.2% of its health!)
+(Rage started on the opposing Mandibuzz!)
+
+(The sandstorm is raging.)
+
+Turn 13
+
+Steelix used Rollout!
+It's super effective!
+(The opposing Mandibuzz lost 21.2% of its health!)
+The opposing Mandibuzz's Attack rose!
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Spark!
+It doesn't affect Steelix...
+
+(The sandstorm is raging.)
+The twisted dimensions returned to normal!
+
+Turn 14
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Trump Card!
+It's not very effective...
+(Steelix lost 5.9% of its health!)
+
+Steelix used Rollout!
+It's super effective!
+(The opposing Mandibuzz lost 34.1% of its health!)
+
+(The sandstorm is raging.)
+
+Turn 15
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Needle Arm!
+(Steelix lost 14.8% of its health!)
+
+Steelix flinched and couldn't move!
+
+(The sandstorm is raging.)
+
+Turn 16
+
+The opposing Mandibuzz used Metronome!
+
+Waggling a finger let it use Block!
+Steelix can no longer escape!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Charge Beam!
+It's super effective!
+(The opposing Mandibuzz lost 20% of its health!)
+
+The opposing Mandibuzz fainted!
+
+MTN Ground won the battle!

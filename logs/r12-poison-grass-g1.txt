@@ -1,0 +1,580 @@
+☆MTN Poison and ☆MTN Grass joined
+Format: [Gen 5] Triples Custom Game
+MTN Poison's team:
+Drapion / Nidoking / Roserade / Crobat / Toxicroak / Scolipede
+MTN Grass's team:
+Ferrothorn / Breloom / Carnivine / Venusaur / Meganium / Leavanny
+
+Battle started between MTN Poison and MTN Grass!
+
+Go! Nidoking!
+
+Go! Scolipede!
+
+Go! Drapion!
+
+MTN Grass sent out Leavanny!
+
+MTN Grass sent out Meganium!
+
+MTN Grass sent out Carnivine!
+
+Turn 1
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Focus Blast!
+(The opposing Meganium lost 42.9% of its health!)
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Aura Sphere!
+It's not very effective...
+(Nidoking lost 16.3% of its health!)
+
+Drapion used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+(The opposing Leavanny lost 7.3% of its health!)
+
+Nidoking used Metronome!
+
+Waggling a finger let it use Synchronoise!
+It doesn't affect the opposing Meganium...
+It doesn't affect the opposing Carnivine...
+It's super effective on Scolipede!
+(Scolipede lost 24.3% of its health!)
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Foul Play!
+(Nidoking lost 22.0% of its health!)
+
+The opposing Carnivine used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Drapion's HP is full!
+
+Turn 2
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Poison Powder!
+The opposing Meganium was poisoned!
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Recover!
+The opposing Leavanny had its HP restored.
+
+Drapion used Metronome!
+
+Waggling a finger let it use Gunk Shot!
+It's super effective!
+(The opposing Leavanny lost 70.7% of its health!)
+The opposing Leavanny was poisoned!
+
+Nidoking used Metronome!
+
+Waggling a finger let it use Bone Rush!
+[The opposing Carnivine's Levitate]
+It doesn't affect the opposing Carnivine...
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Hidden Power!
+(Drapion lost 11.5% of its health!)
+
+The opposing Carnivine used Metronome!
+
+Waggling a finger let it use Natural Gift!
+It's not very effective...
+(Scolipede lost 3.4% of its health!)
+
+The opposing Leavanny was hurt by poison!
+The opposing Meganium was hurt by poison!
+
+Turn 3
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Sludge!
+It's super effective!
+(The opposing Carnivine lost 67.2% of its health!)
+The opposing Carnivine was poisoned!
+
+The opposing Leavanny used Metronome!
+
+Waggling a finger let it use Howl!
+The opposing Leavanny's Attack rose!
+
+Drapion used Metronome!
+
+Waggling a finger let it use Hyper Voice!
+(The opposing Leavanny lost 11.0% of its health!)
+(The opposing Meganium lost 18.6% of its health!)
+
+Nidoking used Metronome!
+
+Waggling a finger let it use Natural Gift!
+(The opposing Meganium lost 16.4% of its health!)
+
+The opposing Meganium used Metronome!
+
+Waggling a finger let it use Rolling Kick!
+It's not very effective...
+(Nidoking lost 8.5% of its health!)
+
+The opposing Carnivine used Metronome!
+
+Waggling a finger let it use Sky Attack!
+The opposing Carnivine became cloaked in a harsh light!
+
+The opposing Leavanny was hurt by poison!
+
+The opposing Leavanny fainted!
+The opposing Meganium was hurt by poison!
+
+The opposing Meganium fainted!
+The opposing Carnivine was hurt by poison!
+
+MTN Grass sent out Breloom!
+
+MTN Grass sent out Ferrothorn!
+
+Turn 4
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Soft-Boiled!
+Scolipede had its HP restored.
+
+Drapion used Metronome!
+
+Waggling a finger let it use Synchronoise!
+It doesn't affect the opposing Breloom...
+It doesn't affect the opposing Ferrothorn...
+It's super effective on Scolipede!
+(Scolipede lost 23.0% of its health!)
+
+Nidoking used Metronome!
+
+Waggling a finger let it use Poison Fang!
+It doesn't affect the opposing Ferrothorn...
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Hex!
+It's not very effective...
+(Drapion lost 7.7% of its health!)
+
+The opposing Carnivine used Sky Attack!
+(Nidoking lost 35.5% of its health!)
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Flail!
+(Scolipede lost 6.1% of its health!)
+
+The opposing Carnivine was hurt by poison!
+
+Turn 5
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Roost!
+Scolipede had its HP restored.
+
+Drapion used Metronome!
+
+Waggling a finger let it use Mist Ball!
+It's not very effective...
+(The opposing Ferrothorn lost 9.0% of its health!)
+
+Nidoking used Metronome!
+
+Waggling a finger let it use Dual Chop!
+(The opposing Carnivine lost 9.0% of its health!)
+
+The opposing Carnivine fainted!
+The Pokémon was hit 1 time!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Amnesia!
+The opposing Breloom's Sp. Def rose sharply!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Razor Leaf!
+A critical hit on Nidoking!
+It's not very effective on Scolipede.
+It's not very effective on Drapion.
+(Nidoking lost 17.7% of its health!)
+(Scolipede lost 4.1% of its health!)
+(Drapion lost 11.5% of its health!)
+
+Nidoking fainted!
+
+Go! Toxicroak!
+
+MTN Grass sent out Venusaur!
+
+Turn 6
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Sheer Cold!
+The opposing Breloom avoided the attack!
+
+Drapion used Metronome!
+
+Waggling a finger let it use Double Kick!
+It's super effective!
+(The opposing Ferrothorn lost 14.9% of its health!)
+[The opposing Ferrothorn's Iron Barbs]
+Drapion was hurt!
+It's super effective!
+(The opposing Ferrothorn lost 16.4% of its health!)
+[The opposing Ferrothorn's Iron Barbs]
+Drapion was hurt!
+The Pokémon was hit 2 times!
+
+Toxicroak used Metronome!
+
+Waggling a finger let it use Twineedle!
+(The opposing Venusaur lost 7.1% of its health!)
+(The opposing Venusaur lost 7.1% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Horn Drill!
+Scolipede is unaffected!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Smog!
+It's not very effective...
+(Drapion lost 3.1% of its health!)
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Pursuit!
+(Scolipede lost 11.5% of its health!)
+
+Turn 7
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Conversion!
+Scolipede's type changed to Normal!
+
+Drapion used Metronome!
+
+Waggling a finger let it use Slam!
+(The opposing Breloom lost 30% of its health!)
+
+Toxicroak used Metronome!
+
+Waggling a finger let it use Dark Void!
+The opposing Venusaur avoided the attack!
+The opposing Ferrothorn fell asleep!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Head Smash!
+(Scolipede lost 39.2% of its health!)
+The opposing Venusaur was damaged by the recoil!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Minimize!
+The opposing Breloom's evasiveness rose sharply!
+
+The opposing Ferrothorn is fast asleep.
+
+Turn 8
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Knock Off!
+The opposing Breloom avoided the attack!
+
+Drapion used Metronome!
+
+Waggling a finger let it use Heart Swap!
+Drapion switched stat changes with its target!
+
+Toxicroak used Metronome!
+
+Waggling a finger let it use Surf!
+It's not very effective on the opposing Ferrothorn.
+It's not very effective on the opposing Venusaur.
+(Scolipede lost 14.2% of its health!)
+(The opposing Ferrothorn lost 9.7% of its health!)
+(The opposing Venusaur lost 8.6% of its health!)
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Cosmic Power!
+The opposing Venusaur's Defense rose!
+The opposing Venusaur's Sp. Def rose!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Ominous Wind!
+It doesn't affect Scolipede...
+
+The opposing Ferrothorn is fast asleep.
+
+Turn 9
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Volt Switch!
+It's not very effective...
+(The opposing Breloom lost 8.3% of its health!)
+
+Scolipede went back to MTN Poison!
+Go! Roserade!
+
+Drapion used Metronome!
+
+Waggling a finger let it use Twister!
+It's not very effective on the opposing Ferrothorn.
+(The opposing Breloom lost 5% of its health!)
+(The opposing Ferrothorn lost 3.7% of its health!)
+
+Toxicroak used Metronome!
+
+Waggling a finger let it use Pluck!
+(The opposing Ferrothorn lost 14.9% of its health!)
+Toxicroak stole and ate its target's Leppa Berry!
+Toxicroak restored PP to its move Metronome using its Leppa Berry!
+[The opposing Ferrothorn's Iron Barbs]
+Toxicroak was hurt!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Bubble Beam!
+[Toxicroak's Dry Skin]
+Toxicroak had its HP restored.
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Mirror Shot!
+(Drapion lost 16.9% of its health!)
+The opposing Ferrothorn woke up!
+
+The opposing Ferrothorn flinched and couldn't move!
+
+Turn 10
+
+Drapion used Metronome!
+
+Waggling a finger let it use Sing!
+The opposing Breloom avoided the attack!
+
+Roserade used Metronome!
+
+Waggling a finger let it use Earthquake!
+It's super effective on Toxicroak!
+A critical hit on Toxicroak!
+It's super effective on Drapion!
+It's not very effective on the opposing Breloom.
+(Toxicroak lost 90.9% of its health!)
+(Drapion lost 24.6% of its health!)
+(The opposing Breloom lost 13.3% of its health!)
+(The opposing Ferrothorn lost 19.4% of its health!)
+(The opposing Venusaur lost 15% of its health!)
+
+Drapion fainted!
+Toxicroak used Metronome!
+
+Waggling a finger let it use Psych Up!
+Toxicroak copied the opposing Ferrothorn's stat changes!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Role Play!
+[The opposing Venusaur's Chlorophyll]
+[The opposing Venusaur's Poison Point]
+The opposing Venusaur copied Roserade's Poison Point Ability!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Psycho Cut!
+It's super effective!
+(Roserade lost 66.7% of its health!)
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Shadow Sneak!
+(Toxicroak lost 9.1% of its health!)
+
+Toxicroak fainted!
+
+Go! Crobat!
+
+Go! Scolipede!
+
+Turn 11
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Dragon Pulse!
+(The opposing Venusaur lost 19.3% of its health!)
+
+Crobat used Metronome!
+
+Waggling a finger let it use Trump Card!
+(The opposing Breloom lost 9.2% of its health!)
+
+Roserade used Metronome!
+
+Waggling a finger let it use Super Fang!
+(The opposing Ferrothorn lost 6.0% of its health!)
+[The opposing Ferrothorn's Iron Barbs]
+Roserade was hurt!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Head Smash!
+(Roserade lost 20.8% of its health!)
+
+Roserade fainted!
+The opposing Venusaur was damaged by the recoil!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Power Whip!
+It's not very effective...
+(Crobat lost 13.8% of its health!)
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Whirlpool!
+(Scolipede lost 7.4% of its health!)
+Scolipede became trapped in the vortex!
+
+Scolipede is hurt by Whirlpool!
+
+Turn 12
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Jump Kick!
+It's not very effective...
+(The opposing Venusaur lost 10% of its health!)
+
+Crobat used Metronome!
+
+Waggling a finger let it use Bonemerang!
+The opposing Breloom avoided the attack!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Dynamic Punch!
+Scolipede avoided the attack!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Arm Thrust!
+It's not very effective...
+A critical hit!
+(Crobat lost 3.4% of its health!)
+It's not very effective...
+(Crobat lost 2.1% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Barrage!
+(Crobat lost 5.5% of its health!)
+(Crobat lost 4.8% of its health!)
+(Crobat lost 5.5% of its health!)
+The Pokémon was hit 3 times!
+
+Scolipede is hurt by Whirlpool!
+
+Turn 13
+
+Scolipede used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+Crobat used Metronome!
+
+Waggling a finger let it use Quick Attack!
+(The opposing Breloom lost 16.7% of its health!)
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Hypnosis!
+Scolipede fell asleep!
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Grudge!
+The opposing Breloom wants its target to bear a grudge!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Shift Gear!
+The opposing Ferrothorn's Speed rose sharply!
+The opposing Ferrothorn's Attack rose!
+
+Scolipede is hurt by Whirlpool!
+
+Turn 14
+
+Scolipede is fast asleep.
+
+Crobat used Metronome!
+
+Waggling a finger let it use Power Swap!
+Crobat switched all changes to its Attack and Sp. Atk with its target!
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Karate Chop!
+It's not very effective...
+(Scolipede lost 2.7% of its health!)
+
+The opposing Breloom used Metronome!
+
+Waggling a finger let it use Giga Impact!
+(Crobat lost 53.1% of its health!)
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Jump Kick!
+It's not very effective...
+(Scolipede lost 2.7% of its health!)
+
+Scolipede fainted!
+
+Turn 15
+
+Crobat used Metronome!
+
+Waggling a finger let it use Frustration!
+(The opposing Breloom lost 15% of its health!)
+
+The opposing Venusaur used Metronome!
+
+Waggling a finger let it use Magma Storm!
+But it failed!
+
+The opposing Breloom must recharge!
+
+The opposing Ferrothorn used Metronome!
+
+Waggling a finger let it use Thrash!
+(Crobat lost 11.7% of its health!)
+
+Crobat fainted!
+
+MTN Grass won the battle!

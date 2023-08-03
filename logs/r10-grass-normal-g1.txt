@@ -1,0 +1,415 @@
+☆MTN Grass and ☆MTN Normal joined
+Format: [Gen 5] Triples Custom Game
+MTN Grass's team:
+Ferrothorn / Breloom / Carnivine / Venusaur / Meganium / Leavanny
+MTN Normal's team:
+Slaking / Bibarel / Sawsbuck / Porygon2 / Togekiss / Clefable
+
+Battle started between MTN Grass and MTN Normal!
+
+Go! Meganium!
+
+Go! Carnivine!
+
+Go! Breloom!
+
+MTN Normal sent out Sawsbuck!
+
+MTN Normal sent out Clefable!
+
+MTN Normal sent out Togekiss!
+
+Turn 1
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Sludge Wave!
+It's super effective on Carnivine!
+A critical hit on Carnivine!
+It's super effective on Breloom!
+(The opposing Clefable lost 11.8% of its health!)
+(Carnivine lost 76.1% of its health!)
+(Breloom lost 46.7% of its health!)
+Breloom was poisoned!
+
+The opposing Clefable used Metronome!
+
+Waggling a finger let it use Final Gambit!
+(Carnivine lost 23.9% of its health!)
+
+The opposing Clefable fainted!
+Carnivine fainted!
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Smokescreen!
+Meganium's accuracy fell!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Sunny Day!
+The sunlight turned harsh!
+
+Breloom used Metronome!
+
+Waggling a finger let it use Safeguard!
+Your team cloaked itself in a mystical veil!
+
+(The sunlight is strong.)
+[Breloom's Poison Heal]
+Breloom had its HP restored.
+
+MTN Normal sent out Slaking!
+
+Go! Venusaur!
+
+Turn 2
+
+Venusaur used Metronome!
+
+Waggling a finger let it use Acid Armor!
+Venusaur's Defense rose sharply!
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Iron Tail!
+Breloom avoided the attack!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Twister!
+(Venusaur lost 7.9% of its health!)
+(Breloom lost 10.8% of its health!)
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(Venusaur lost 33.6% of its health!)
+
+Meganium used Metronome!
+
+Waggling a finger let it use Dark Pulse!
+(The opposing Togekiss lost 20.7% of its health!)
+
+Breloom used Metronome!
+
+Waggling a finger let it use Block!
+The opposing Sawsbuck can no longer escape!
+
+(The sunlight is strong.)
+[Breloom's Poison Heal]
+Breloom had its HP restored.
+
+Turn 3
+
+Venusaur used Metronome!
+
+Waggling a finger let it use Judgment!
+(The opposing Slaking lost 21.9% of its health!)
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Foresight!
+Breloom was identified!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Yawn!
+But it failed!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Lick!
+It doesn't affect the opposing Slaking...
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Beat Up!
+(Venusaur lost 2.1% of its health!)
+(Venusaur lost 2.9% of its health!)
+(Venusaur lost 1.4% of its health!)
+(Venusaur lost 2.1% of its health!)
+(Venusaur lost 2.1% of its health!)
+The Pokémon was hit 5 times!
+
+Breloom used Metronome!
+
+Waggling a finger let it use Fusion Flare!
+(The opposing Slaking lost 28.1% of its health!)
+
+(The sunlight is strong.)
+[Breloom's Poison Heal]
+Breloom had its HP restored.
+
+Turn 4
+
+Venusaur used Metronome!
+
+Waggling a finger let it use Dive!
+Venusaur hid underwater!
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Sheer Cold!
+(Breloom lost 80% of its health!)
+
+Breloom fainted!
+It's a one-hit KO!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Safeguard!
+But it failed!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Healing Wish!
+
+The opposing Togekiss fainted!
+
+(The sunlight is strong.)
+
+MTN Normal sent out Bibarel!
+
+Go! Leavanny!
+The healing wish came true for the opposing Bibarel!
+
+Turn 5
+
+Venusaur used Dive!
+It's not very effective...
+(The opposing Sawsbuck lost 5.7% of its health!)
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Iron Head!
+(The opposing Slaking lost 21.9% of its health!)
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Horn Leech!
+It's not very effective...
+(Leavanny lost 6.7% of its health!)
+Leavanny had its energy drained!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use High Jump Kick!
+It's not very effective...
+(Leavanny lost 14.0% of its health!)
+
+Meganium used Metronome!
+
+Waggling a finger let it use Swords Dance!
+Meganium's Attack rose sharply!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Whirlpool!
+It's not very effective...
+(Venusaur lost 2.9% of its health!)
+Venusaur became trapped in the vortex!
+
+The harsh sunlight faded.
+Venusaur is hurt by Whirlpool!
+Your team is no longer protected by Safeguard!
+[The opposing Bibarel's Moody]
+The opposing Bibarel's evasiveness rose sharply!
+The opposing Bibarel's Attack fell!
+
+Turn 6
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Roost!
+Leavanny had its HP restored.
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Tail Whip!
+Meganium's Defense fell!
+Venusaur's Defense fell!
+Leavanny's Defense fell!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Mega Punch!
+(Venusaur lost 20% of its health!)
+
+Venusaur used Metronome!
+
+Waggling a finger let it use Growth!
+Venusaur's Attack rose!
+Venusaur's Sp. Atk rose!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Magnet Bomb!
+It's not very effective...
+(The opposing Bibarel lost 20.9% of its health!)
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+Venusaur avoided the attack!
+
+Venusaur is hurt by Whirlpool!
+[The opposing Bibarel's Moody]
+The opposing Bibarel's Defense rose sharply!
+The opposing Bibarel's accuracy fell!
+
+Turn 7
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Safeguard!
+Your team cloaked itself in a mystical veil!
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+(Venusaur lost 13.6% of its health!)
+
+Venusaur fainted!
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Supersonic!
+Leavanny is protected by Safeguard!
+
+Meganium used Metronome!
+
+Waggling a finger let it use Glaciate!
+The opposing Bibarel avoided the attack!
+(The opposing Slaking lost 10.5% of its health!)
+The opposing Slaking's Speed fell!
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Self-Destruct!
+The opposing Slaking avoided the attack!
+A critical hit on Meganium!
+(Meganium lost 100% of its health!)
+
+The opposing Bibarel fainted!
+Meganium fainted!
+
+Go! Ferrothorn!
+
+MTN Normal sent out Porygon2!
+[The opposing Porygon2's Trace]
+[The opposing Porygon2's Iron Barbs]
+The opposing Porygon2 traced Ferrothorn's Iron Barbs!
+
+Turn 8
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Fusion Flare!
+(The opposing Slaking lost 20.5% of its health!)
+
+The opposing Slaking fainted!
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Psycho Boost!
+(Leavanny lost 26.2% of its health!)
+The opposing Sawsbuck's Sp. Atk fell harshly!
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Thrash!
+It's not very effective...
+(Ferrothorn lost 24.6% of its health!)
+[Ferrothorn's Iron Barbs]
+The opposing Porygon2 was hurt!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Water Spout!
+It's not very effective on the opposing Sawsbuck.
+(The opposing Sawsbuck lost 14.3% of its health!)
+(The opposing Porygon2 lost 23.4% of its health!)
+
+Turn 9
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Crush Claw!
+A critical hit!
+(The opposing Sawsbuck lost 60.7% of its health!)
+The opposing Sawsbuck's Defense fell!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Acid!
+It doesn't affect Ferrothorn...
+It's super effective on Leavanny!
+(Leavanny lost 6.1% of its health!)
+
+The opposing Porygon2 used Thrash!
+It's not very effective...
+(Ferrothorn lost 24.6% of its health!)
+[Ferrothorn's Iron Barbs]
+The opposing Porygon2 was hurt!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Bulldoze!
+It's not very effective on Leavanny.
+It's not very effective on the opposing Sawsbuck.
+(Leavanny lost 4.9% of its health!)
+(The opposing Sawsbuck lost 11.4% of its health!)
+(The opposing Porygon2 lost 15.2% of its health!)
+Leavanny's Speed fell!
+The opposing Sawsbuck's Speed fell!
+The opposing Porygon2's Speed fell!
+
+Turn 10
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+[The opposing Sawsbuck's Sap Sipper]
+The opposing Sawsbuck's Attack rose!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Camouflage!
+The opposing Sawsbuck's type changed to Ground!
+
+The opposing Porygon2 used Thrash!
+It's not very effective...
+(Ferrothorn lost 24.6% of its health!)
+[Ferrothorn's Iron Barbs]
+The opposing Porygon2 was hurt!
+The opposing Porygon2 became confused due to fatigue!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Crunch!
+(The opposing Porygon2 lost 24.1% of its health!)
+[The opposing Porygon2's Iron Barbs]
+Ferrothorn was hurt!
+
+The opposing Porygon2 fainted!
+
+Turn 11
+
+Leavanny used Metronome!
+
+Waggling a finger let it use Taunt!
+The opposing Sawsbuck fell for the taunt!
+
+The opposing Sawsbuck can't use Metronome after the taunt!
+
+Ferrothorn used Metronome!
+
+Waggling a finger let it use Psywave!
+(The opposing Sawsbuck lost 7.9% of its health!)
+
+The opposing Sawsbuck fainted!
+
+MTN Grass won the battle!

@@ -1,0 +1,442 @@
+☆MTN Electric and ☆MTN Rock joined
+Format: [Gen 5] Triples Custom Game
+MTN Electric's team:
+Electivire / Ampharos / Magneton / Eelektross / Rotom-Wash / Manectric
+MTN Rock's team:
+Rhyperior / Cradily / Tyranitar / Carracosta / Aerodactyl / Sudowoodo
+
+Battle started between MTN Electric and MTN Rock!
+
+Go! Rotom (Rotom-Wash)!
+
+Go! Magneton!
+
+Go! Electivire!
+
+MTN Rock sent out Rhyperior!
+
+MTN Rock sent out Sudowoodo!
+
+MTN Rock sent out Carracosta!
+
+Turn 1
+
+Electivire used Metronome!
+
+Waggling a finger let it use False Swipe!
+It's not very effective...
+(The opposing Rhyperior lost 4.6% of its health!)
+
+Rotom used Metronome!
+
+Waggling a finger let it use Psych Up!
+Rotom copied the opposing Carracosta's stat changes!
+
+Magneton used Metronome!
+
+Waggling a finger let it use Rock Blast!
+(The opposing Carracosta lost 6.0% of its health!)
+(The opposing Carracosta lost 5.2% of its health!)
+(The opposing Carracosta lost 6.0% of its health!)
+The Pokémon was hit 3 times!
+
+The opposing Sudowoodo used Metronome!
+
+Waggling a finger let it use Vital Throw!
+It's super effective!
+(Magneton lost 76.4% of its health!)
+
+The opposing Rhyperior used Metronome!
+
+Waggling a finger let it use Captivate!
+It doesn't affect Magneton...
+It doesn't affect Electivire...
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Power Whip!
+It's super effective!
+(Rotom lost 75.2% of its health!)
+
+Turn 2
+
+Electivire used Metronome!
+
+Waggling a finger let it use Electroweb!
+It doesn't affect the opposing Rhyperior...
+(The opposing Sudowoodo lost 13.2% of its health!)
+The opposing Sudowoodo's Speed fell!
+
+Rotom used Metronome!
+
+Waggling a finger let it use Charge!
+Rotom's Sp. Def rose!
+Rotom began charging power!
+
+Magneton used Metronome!
+
+Waggling a finger let it use Kinesis!
+The opposing Rhyperior's accuracy fell!
+
+The opposing Sudowoodo used Metronome!
+
+Waggling a finger let it use Low Kick!
+It's super effective!
+A critical hit!
+(Magneton lost 23.6% of its health!)
+
+Magneton fainted!
+The opposing Rhyperior used Metronome!
+
+Waggling a finger let it use Astonish!
+A critical hit!
+(Electivire lost 25.2% of its health!)
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Vise Grip!
+(Rotom lost 16.3% of its health!)
+
+Go! Manectric!
+
+Turn 3
+
+Manectric used Metronome!
+
+Waggling a finger let it use Luster Purge!
+(The opposing Sudowoodo lost 22.0% of its health!)
+The opposing Sudowoodo's Sp. Def fell!
+
+Electivire used Metronome!
+
+Waggling a finger let it use Brine!
+It's super effective!
+(The opposing Sudowoodo lost 41.5% of its health!)
+
+Rotom used Metronome!
+
+Waggling a finger let it use Heat Wave!
+It's not very effective on the opposing Sudowoodo.
+It's not very effective on the opposing Carracosta.
+(The opposing Sudowoodo lost 12.6% of its health!)
+(The opposing Carracosta lost 6.7% of its health!)
+
+The opposing Rhyperior used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Skull Bash!
+The opposing Carracosta tucked in its head!
+The opposing Carracosta's Defense rose!
+
+The opposing Sudowoodo used Metronome!
+
+Waggling a finger let it use Heal Block!
+Rotom was prevented from healing!
+Manectric was prevented from healing!
+Electivire was prevented from healing!
+
+Turn 4
+
+Manectric used Metronome!
+
+Waggling a finger let it use Shell Smash!
+Manectric's Defense fell!
+Manectric's Sp. Def fell!
+Manectric's Attack rose sharply!
+Manectric's Sp. Atk rose sharply!
+Manectric's Speed rose sharply!
+
+Electivire used Metronome!
+
+Waggling a finger let it use Comet Punch!
+It's not very effective...
+(The opposing Sudowoodo lost 2.5% of its health!)
+It's not very effective...
+(The opposing Sudowoodo lost 1.9% of its health!)
+It's not very effective...
+(The opposing Sudowoodo lost 1.9% of its health!)
+It's not very effective...
+(The opposing Sudowoodo lost 1.9% of its health!)
+The Pokémon was hit 4 times!
+
+Rotom used Metronome!
+
+Waggling a finger let it use Icy Wind!
+It's not very effective on the opposing Carracosta.
+(The opposing Sudowoodo lost 2.5% of its health!)
+(The opposing Carracosta lost 6.7% of its health!)
+The opposing Carracosta's Speed fell!
+
+The opposing Sudowoodo fainted!
+The opposing Rhyperior used Metronome!
+
+Waggling a finger let it use Thrash!
+(Electivire lost 48.9% of its health!)
+
+The opposing Carracosta used Skull Bash!
+(Rotom lost 8.5% of its health!)
+
+Rotom fainted!
+
+Go! Ampharos!
+
+MTN Rock sent out Tyranitar!
+[The opposing Tyranitar's Sand Stream]
+A sandstorm kicked up!
+
+Turn 5
+
+Manectric used Metronome!
+
+Waggling a finger let it use Crush Grip!
+It's not very effective...
+(The opposing Carracosta lost 15.7% of its health!)
+
+Electivire used Metronome!
+
+Waggling a finger let it use Wrap!
+The opposing Rhyperior avoided the attack!
+
+The opposing Tyranitar used Metronome!
+
+Waggling a finger let it use Harden!
+The opposing Tyranitar's Defense rose!
+
+Ampharos used Metronome!
+
+Waggling a finger let it use Worry Seed!
+[The opposing Tyranitar's Sand Stream]
+[The opposing Tyranitar's Insomnia]
+The opposing Tyranitar acquired Insomnia!
+
+The opposing Rhyperior used Thrash!
+(Manectric lost 59.7% of its health!)
+The opposing Rhyperior became confused due to fatigue!
+
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Pay Day!
+(Manectric lost 16.4% of its health!)
+
+(The sandstorm is raging.)
+Manectric is buffeted by the sandstorm!
+Electivire is buffeted by the sandstorm!
+Ampharos is buffeted by the sandstorm!
+
+Turn 6
+
+Manectric used Metronome!
+
+Waggling a finger let it use Acid Spray!
+It's not very effective...
+(The opposing Rhyperior lost 8.6% of its health!)
+The opposing Rhyperior's Sp. Def fell harshly!
+
+Electivire used Metronome!
+
+Waggling a finger let it use Spider Web!
+The opposing Tyranitar can no longer escape!
+
+The opposing Tyranitar used Metronome!
+
+Waggling a finger let it use Revenge!
+(Electivire lost 20% of its health!)
+
+Electivire fainted!
+Ampharos used Metronome!
+
+Waggling a finger let it use Confuse Ray!
+The opposing Carracosta became confused!
+
+The opposing Rhyperior is confused!
+The opposing Rhyperior used Metronome!
+
+Waggling a finger let it use Pin Missile!
+Manectric avoided the attack!
+
+The opposing Carracosta is confused!
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Fire Fang!
+(Manectric lost 18.2% of its health!)
+
+Manectric fainted!
+
+(The sandstorm is raging.)
+Ampharos is buffeted by the sandstorm!
+
+Go! Eelektross!
+
+Turn 7
+
+The opposing Tyranitar used Metronome!
+
+Waggling a finger let it use Work Up!
+The opposing Tyranitar's Attack rose!
+The opposing Tyranitar's Sp. Atk rose!
+
+Ampharos used Metronome!
+
+Waggling a finger let it use Magic Room!
+It created a bizarre area in which Pokémon's held items lose their effects!
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Roost!
+Eelektross's HP is full!
+
+The opposing Rhyperior is confused!
+It hurt itself in its confusion!
+
+The opposing Carracosta is confused!
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Dragon Breath!
+(Ampharos lost 18.7% of its health!)
+
+(The sandstorm is raging.)
+Ampharos is buffeted by the sandstorm!
+Eelektross is buffeted by the sandstorm!
+
+Turn 8
+
+The opposing Tyranitar used Metronome!
+
+Waggling a finger let it use Iron Head!
+It's not very effective...
+(Eelektross lost 20% of its health!)
+
+Ampharos used Metronome!
+
+Waggling a finger let it use Heat Crash!
+It's not very effective...
+(The opposing Carracosta lost 1.5% of its health!)
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Leech Seed!
+The opposing Rhyperior was seeded!
+
+The opposing Rhyperior is confused!
+It hurt itself in its confusion!
+
+The opposing Carracosta is confused!
+The opposing Carracosta used Metronome!
+
+Waggling a finger let it use Bonemerang!
+[Eelektross's Levitate]
+It doesn't affect Eelektross...
+
+(The sandstorm is raging.)
+Ampharos is buffeted by the sandstorm!
+Eelektross is buffeted by the sandstorm!
+The opposing Rhyperior's health is sapped by Leech Seed!
+
+Turn 9
+
+The opposing Tyranitar used Metronome!
+
+Waggling a finger let it use Discharge!
+It doesn't affect the opposing Rhyperior...
+It's super effective on the opposing Carracosta!
+A critical hit on the opposing Carracosta!
+It's not very effective on Ampharos.
+It's not very effective on Eelektross.
+(The opposing Carracosta lost 52.2% of its health!)
+(Ampharos lost 15.3% of its health!)
+(Eelektross lost 13.1% of its health!)
+
+The opposing Carracosta fainted!
+Ampharos used Metronome!
+
+Waggling a finger let it use Imprison!
+Ampharos sealed any moves its target shares with it!
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Wrap!
+The opposing Rhyperior avoided the attack!
+
+The opposing Rhyperior can't use its sealed Metronome!
+
+(The sandstorm is raging.)
+Ampharos is buffeted by the sandstorm!
+Eelektross is buffeted by the sandstorm!
+The opposing Rhyperior's health is sapped by Leech Seed!
+
+MTN Rock sent out Aerodactyl!
+
+Turn 10
+
+The opposing Aerodactyl has no moves left!
+
+The opposing Aerodactyl used Struggle!
+A critical hit!
+(Eelektross lost 27.6% of its health!)
+The opposing Aerodactyl was damaged by the recoil!
+The opposing Tyranitar has no moves left!
+
+The opposing Tyranitar used Struggle!
+(Ampharos lost 24.7% of its health!)
+The opposing Tyranitar was damaged by the recoil!
+
+Ampharos used Metronome!
+
+Waggling a finger let it use Iron Head!
+It's super effective!
+(The opposing Tyranitar lost 18.8% of its health!)
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(The opposing Aerodactyl lost 28.6% of its health!)
+The opposing Rhyperior snapped out of its confusion!
+The opposing Rhyperior has no moves left!
+
+The opposing Rhyperior used Struggle!
+(Eelektross lost 18.6% of its health!)
+The opposing Rhyperior was damaged by the recoil!
+
+(The sandstorm is raging.)
+Ampharos is buffeted by the sandstorm!
+Eelektross is buffeted by the sandstorm!
+The opposing Rhyperior's health is sapped by Leech Seed!
+
+Turn 11
+
+The opposing Aerodactyl has no moves left!
+
+The opposing Aerodactyl used Struggle!
+(Ampharos lost 5.3% of its health!)
+
+Ampharos fainted!
+The opposing Aerodactyl was damaged by the recoil!
+The opposing Tyranitar has no moves left!
+
+The opposing Tyranitar used Struggle!
+(Eelektross lost 26.2% of its health!)
+The opposing Tyranitar was damaged by the recoil!
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Bullet Seed!
+It's super effective!
+(The opposing Tyranitar lost 6.3% of its health!)
+It's super effective!
+(The opposing Tyranitar lost 7.5% of its health!)
+The Pokémon was hit 2 times!
+The opposing Rhyperior has no moves left!
+
+The opposing Rhyperior used Struggle!
+(Eelektross lost 13.1% of its health!)
+
+Eelektross fainted!
+The opposing Rhyperior was damaged by the recoil!
+
+The opposing Rhyperior fainted!
+
+MTN Rock won the battle!

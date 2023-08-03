@@ -1,0 +1,492 @@
+☆MTN Bug and ☆MTN Dark joined
+Format: [Gen 5] Triples Custom Game
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+MTN Dark's team:
+Weavile / Houndoom / Krookodile / Honchkrow / Hydreigon / Absol
+
+Battle started between MTN Bug and MTN Dark!
+
+Go! Armaldo!
+
+Go! Yanmega!
+
+Go! Pinsir!
+
+MTN Dark sent out Weavile!
+
+MTN Dark sent out Houndoom!
+
+MTN Dark sent out Hydreigon!
+[The opposing Weavile's Pressure]
+The opposing Weavile is exerting its pressure!
+
+Turn 1
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Acupressure!
+The opposing Weavile's Sp. Def rose sharply!
+
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Thunder Punch!
+(Armaldo lost 22.2% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Charge!
+Yanmega's Sp. Def rose!
+Yanmega began charging power!
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Seed Bomb!
+(Armaldo lost 20.7% of its health!)
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+The opposing Houndoom was identified!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Light Screen!
+Light Screen made your team stronger against special moves!
+
+Turn 2
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Glaciate!
+It's super effective on Yanmega!
+(Yanmega lost 19.2% of its health!)
+(Pinsir lost 12.8% of its health!)
+Yanmega's Speed fell!
+Pinsir's Speed fell!
+
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Psycho Boost!
+(Yanmega lost 24.7% of its health!)
+The opposing Hydreigon's Sp. Atk fell harshly!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Sweet Scent!
+The opposing Weavile's evasiveness fell!
+The opposing Houndoom's evasiveness fell!
+The opposing Hydreigon's evasiveness fell!
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Brine!
+It's super effective!
+(Armaldo lost 27.4% of its health!)
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Light Screen!
+But it failed!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Stockpile!
+Armaldo stockpiled 1!
+Armaldo's Defense rose!
+Armaldo's Sp. Def rose!
+
+Turn 3
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Solar Beam!
+The opposing Weavile absorbed light!
+
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Fly!
+The opposing Hydreigon flew up high!
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Clear Smog!
+(Pinsir lost 12.8% of its health!)
+Pinsir's stat changes were removed!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Heal Bell!
+A bell chimed!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Icicle Spear!
+It's not very effective...
+(The opposing Houndoom lost 5.2% of its health!)
+It's not very effective...
+(The opposing Houndoom lost 5.9% of its health!)
+It's not very effective...
+(The opposing Houndoom lost 5.9% of its health!)
+It's not very effective...
+(The opposing Houndoom lost 5.9% of its health!)
+The Pokémon was hit 4 times!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Foul Play!
+It's not very effective...
+(The opposing Houndoom lost 15.6% of its health!)
+
+Turn 4
+
+The opposing Weavile used Solar Beam!
+It's not very effective...
+(Yanmega lost 3.4% of its health!)
+
+The opposing Hydreigon used Fly!
+It's super effective!
+(Pinsir lost 64% of its health!)
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Moonlight!
+The opposing Houndoom had its HP restored.
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Bulk Up!
+Pinsir's Attack rose!
+Pinsir's Defense rose!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Imprison!
+Yanmega sealed any moves its target shares with it!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Electro Ball!
+(The opposing Houndoom lost 12.6% of its health!)
+
+Turn 5
+
+Yanmega, come back!
+Go! Forretress!
+The opposing Weavile has no moves left!
+
+The opposing Weavile used Struggle!
+(Forretress lost 14.1% of its health!)
+The opposing Weavile was damaged by the recoil!
+The opposing Hydreigon has no moves left!
+
+The opposing Hydreigon used Struggle!
+(Forretress lost 12.6% of its health!)
+The opposing Hydreigon was damaged by the recoil!
+The opposing Houndoom has no moves left!
+
+The opposing Houndoom used Struggle!
+(Pinsir lost 10.4% of its health!)
+
+Pinsir fainted!
+The opposing Houndoom was damaged by the recoil!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Flash!
+The opposing Houndoom's accuracy fell!
+
+Your team's Light Screen wore off!
+
+Go! Volcarona!
+
+Turn 6
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Skill Swap!
+[The opposing Weavile's Flame Body]
+[Volcarona's Pressure]
+The opposing Weavile swapped Abilities with its target!
+[The opposing Weavile's Pressure]
+[Volcarona's Flame Body]
+[Volcarona's Pressure]
+Volcarona is exerting its pressure!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Mist Ball!
+It doesn't affect the opposing Weavile...
+
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Smack Down!
+It's super effective!
+(Armaldo lost 22.2% of its health!)
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Thunder Fang!
+(Armaldo lost 7.4% of its health!)
+
+Armaldo fainted!
+Forretress used Metronome!
+
+Waggling a finger let it use Power Whip!
+(The opposing Weavile lost 38.5% of its health!)
+
+Go! Ariados!
+
+Turn 7
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+(Volcarona lost 24.8% of its health!)
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Double Team!
+Volcarona's evasiveness rose!
+
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Synthesis!
+The opposing Hydreigon had its HP restored.
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Pound!
+(Ariados lost 9.4% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+It's not very effective...
+(The opposing Hydreigon lost 7.9% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Fury Cutter!
+(The opposing Houndoom lost 9.6% of its health!)
+
+Turn 8
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Dig!
+The opposing Weavile burrowed its way under the ground!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Volt Switch!
+(The opposing Houndoom lost 25.9% of its health!)
+
+Volcarona went back to MTN Bug!
+Go! Yanmega!
+
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Heat Wave!
+It's super effective on Ariados!
+It's super effective on Forretress!
+(Ariados lost 20.1% of its health!)
+(Forretress lost 59.3% of its health!)
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Constrict!
+Yanmega avoided the attack!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Safeguard!
+Your team cloaked itself in a mystical veil!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Mean Look!
+The opposing Houndoom can no longer escape!
+
+Turn 9
+
+The opposing Weavile used Dig!
+(Forretress lost 14.1% of its health!)
+
+Forretress fainted!
+The opposing Hydreigon used Metronome!
+
+Waggling a finger let it use Hex!
+(Ariados lost 6.9% of its health!)
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Astonish!
+(Ariados lost 6.9% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Flash!
+The opposing Weavile's accuracy fell!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Poison Jab!
+(The opposing Hydreigon lost 35.5% of its health!)
+
+Go! Volcarona!
+
+Turn 10
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Crush Claw!
+Volcarona avoided the attack!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Aura Sphere!
+It's super effective!
+(The opposing Hydreigon lost 56.6% of its health!)
+
+The opposing Hydreigon fainted!
+Yanmega used Metronome!
+
+Waggling a finger let it use Water Sport!
+Fire's power was weakened!
+
+The opposing Houndoom used Metronome!
+
+Waggling a finger let it use Mud Shot!
+It doesn't affect Yanmega...
+
+Ariados used Metronome!
+
+Waggling a finger let it use Secret Power!
+(The opposing Houndoom lost 26.7% of its health!)
+
+The opposing Houndoom fainted!
+
+MTN Dark sent out Absol!
+
+MTN Dark sent out Krookodile!
+[The opposing Krookodile's Intimidate]
+Ariados's Attack fell!
+Volcarona's Attack fell!
+Yanmega's Attack fell!
+
+Turn 11
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Confuse Ray!
+Yanmega is protected by Safeguard!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Grass Knot!
+It's super effective!
+(The opposing Krookodile lost 51.6% of its health!)
+
+The opposing Absol used Metronome!
+
+Waggling a finger let it use Thrash!
+(Ariados lost 50.3% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Rapid Spin!
+(The opposing Krookodile lost 3.9% of its health!)
+
+The opposing Krookodile used Metronome!
+
+Waggling a finger let it use Heal Block!
+Ariados was prevented from healing!
+Volcarona was prevented from healing!
+Yanmega was prevented from healing!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+(The opposing Absol lost 16.3% of its health!)
+
+Turn 12
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Soft-Boiled!
+The opposing Weavile had its HP restored.
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Seed Flare!
+(The opposing Absol lost 37.3% of its health!)
+
+The opposing Absol used Thrash!
+(Volcarona lost 56.6% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Swords Dance!
+Yanmega's Attack rose sharply!
+
+The opposing Krookodile used Metronome!
+
+Waggling a finger let it use Bite!
+(Volcarona lost 18.6% of its health!)
+
+Volcarona fainted!
+Ariados used Metronome!
+
+Waggling a finger let it use Heavy Slam!
+(The opposing Krookodile lost 10.3% of its health!)
+
+Your team is no longer protected by Safeguard!
+
+Turn 13
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Miracle Eye!
+Yanmega was identified!
+
+The opposing Absol used Thrash!
+(Ariados lost 6.3% of its health!)
+
+Ariados fainted!
+The opposing Absol became confused due to fatigue!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Thunder!
+It doesn't affect the opposing Krookodile...
+
+The opposing Krookodile used Metronome!
+
+Waggling a finger let it use Bullet Punch!
+(Yanmega lost 16.4% of its health!)
+
+Turn 14
+
+The opposing Weavile used Metronome!
+
+Waggling a finger let it use Bind!
+(Yanmega lost 6.2% of its health!)
+Yanmega was squeezed by the opposing Weavile!
+
+The opposing Absol is confused!
+It hurt itself in its confusion!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Water Gun!
+(The opposing Weavile lost 10% of its health!)
+
+The opposing Krookodile used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+(Yanmega lost 30.1% of its health!)
+
+Yanmega fainted!
+
+MTN Dark won the battle!

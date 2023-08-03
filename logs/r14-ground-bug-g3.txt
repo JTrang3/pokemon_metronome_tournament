@@ -1,0 +1,764 @@
+☆MTN Ground and ☆MTN Bug joined
+Format: [Gen 5] Triples Custom Game
+MTN Ground's team:
+Steelix / Hippowdon / Excadrill / Flygon / Gliscor / Sandslash
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+
+Battle started between MTN Ground and MTN Bug!
+
+Go! Steelix!
+
+Go! Excadrill!
+
+Go! Flygon!
+
+MTN Bug sent out Volcarona!
+
+MTN Bug sent out Pinsir!
+
+MTN Bug sent out Yanmega!
+
+Turn 1
+
+Flygon used Metronome!
+
+Waggling a finger let it use Bullet Punch!
+(The opposing Pinsir lost 13.6% of its health!)
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Water Sport!
+Fire's power was weakened!
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Struggle Bug!
+It's not very effective on Steelix.
+It's not very effective on Excadrill.
+(Steelix lost 13.3% of its health!)
+(Excadrill lost 14.1% of its health!)
+Steelix's Sp. Atk fell!
+Excadrill's Sp. Atk fell!
+
+Excadrill used Metronome!
+
+Waggling a finger let it use Brick Break!
+It's not very effective...
+(The opposing Yanmega lost 8.9% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use U-turn!
+It's not very effective...
+(Excadrill lost 17.6% of its health!)
+
+The opposing Pinsir went back to MTN Bug!
+MTN Bug sent out Armaldo!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Arm Thrust!
+It's not very effective...
+A critical hit!
+(The opposing Yanmega lost 2.7% of its health!)
+It's not very effective...
+(The opposing Yanmega lost 1.4% of its health!)
+It's not very effective...
+(The opposing Yanmega lost 1.4% of its health!)
+It's not very effective...
+(The opposing Yanmega lost 0.7% of its health!)
+It's not very effective...
+(The opposing Yanmega lost 1.4% of its health!)
+The Pokémon was hit 5 times!
+
+Turn 2
+
+Flygon used Metronome!
+
+Waggling a finger let it use Judgment!
+(The opposing Volcarona lost 31.7% of its health!)
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Karate Chop!
+It's super effective!
+A critical hit!
+(Excadrill lost 58.8% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Karate Chop!
+It's super effective!
+(Excadrill lost 9.4% of its health!)
+
+Excadrill fainted!
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Toxic!
+Flygon was badly poisoned!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Dream Eater!
+It doesn't affect the opposing Yanmega...
+
+Flygon was hurt by poison!
+
+Go! Hippowdon!
+[Hippowdon's Sand Stream]
+A sandstorm kicked up!
+
+Turn 3
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Clear Smog!
+It's not very effective...
+(Hippowdon lost 7.1% of its health!)
+Hippowdon's stat changes were removed!
+
+Flygon used Metronome!
+
+Waggling a finger let it use Venoshock!
+(The opposing Volcarona lost 19.3% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Cut!
+It's not very effective...
+(Steelix lost 8.9% of its health!)
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Heal Order!
+Hippowdon had its HP restored.
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Superpower!
+It's super effective!
+(Steelix lost 51.9% of its health!)
+The opposing Armaldo's Attack fell!
+The opposing Armaldo's Defense fell!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Mist!
+Your team became shrouded in mist!
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+Flygon was hurt by poison!
+
+Turn 4
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Ancient Power!
+It's not very effective...
+(Flygon lost 14.3% of its health!)
+
+Flygon used Metronome!
+
+Waggling a finger let it use Telekinesis!
+The opposing Volcarona was hurled into the air!
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Amnesia!
+The opposing Yanmega's Sp. Def rose sharply!
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Safeguard!
+Your team cloaked itself in a mystical veil!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Defense Curl!
+The opposing Armaldo's Defense rose!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+(The opposing Yanmega lost 22.6% of its health!)
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+Flygon was hurt by poison!
+
+Turn 5
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Horn Drill!
+Hippowdon avoided the attack!
+
+Flygon used Metronome!
+
+Waggling a finger let it use Hidden Power!
+(The opposing Armaldo lost 6.7% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Cut!
+(Hippowdon lost 11.9% of its health!)
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Dizzy Punch!
+(The opposing Yanmega lost 24.0% of its health!)
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+Steelix avoided the attack!
+
+Steelix used Metronome!
+
+Waggling a finger let it use Poison Powder!
+The opposing Yanmega was poisoned!
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+Flygon was hurt by poison!
+The opposing Yanmega was hurt by poison!
+
+Turn 6
+
+Flygon used Metronome!
+
+Waggling a finger let it use Horn Attack!
+It's not very effective...
+(The opposing Armaldo lost 8.1% of its health!)
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Clamp!
+It's super effective!
+(Hippowdon lost 14.3% of its health!)
+The opposing Volcarona clamped down on Hippowdon!
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Flamethrower!
+It's super effective!
+(Steelix lost 25.9% of its health!)
+
+Steelix fainted!
+Hippowdon used Metronome!
+
+Waggling a finger let it use Charm!
+The opposing Armaldo's Attack fell harshly!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+It's not very effective...
+(Flygon lost 4.3% of its health!)
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+
+The opposing Yanmega fainted!
+Flygon was hurt by poison!
+
+Flygon fainted!
+Hippowdon is hurt by Clamp!
+The opposing Volcarona was freed from the telekinesis!
+
+Go! Sandslash!
+
+MTN Bug sent out Ariados!
+
+Go! Gliscor!
+
+Turn 7
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Crabhammer!
+It's super effective!
+(The opposing Armaldo lost 71.1% of its health!)
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Spore!
+Sandslash is protected by Safeguard!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Jump Kick!
+It's not very effective...
+(The opposing Ariados lost 5.7% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Scratch!
+A critical hit!
+(Gliscor lost 38.5% of its health!)
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Low Kick!
+(The opposing Armaldo lost 14.1% of its health!)
+
+The opposing Armaldo fainted!
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+The opposing Ariados is buffeted by the sandstorm!
+Hippowdon is hurt by Clamp!
+Your team is no longer protected by mist!
+
+MTN Bug sent out Forretress!
+
+Turn 8
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Endeavor!
+It doesn't affect the opposing Volcarona...
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Tailwind!
+The Tailwind blew from behind the opposing team!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Dark Void!
+The opposing Ariados avoided the attack!
+The opposing Forretress fell asleep!
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Mega Punch!
+(Gliscor lost 26.7% of its health!)
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Dragon Pulse!
+(The opposing Volcarona lost 17.9% of its health!)
+
+The opposing Volcarona fainted!
+The opposing Forretress is fast asleep.
+
+(The sandstorm is raging.)
+The opposing Ariados is buffeted by the sandstorm!
+Your team is no longer protected by Safeguard!
+
+MTN Bug sent out Pinsir!
+
+Turn 9
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Light Screen!
+Light Screen made your team stronger against special moves!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Fury Cutter!
+(Hippowdon lost 7.7% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+(Hippowdon lost 20.2% of its health!)
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Mist Ball!
+It's not very effective...
+(The opposing Forretress lost 8.1% of its health!)
+The opposing Forretress's Sp. Atk fell!
+The opposing Forretress woke up!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Nightmare!
+But it failed!
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Brick Break!
+It's not very effective...
+(The opposing Ariados lost 5.7% of its health!)
+
+(The sandstorm is raging.)
+The opposing Pinsir is buffeted by the sandstorm!
+The opposing Ariados is buffeted by the sandstorm!
+
+Turn 10
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Light Screen!
+But it failed!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Fire Fang!
+(Sandslash lost 15.2% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Magic Coat!
+The opposing Ariados shrouded itself with Magic Coat!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Mud Sport!
+Electricity's power was weakened!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Slack Off!
+The opposing Forretress had its HP restored.
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Hypnosis!
+
+The opposing Ariados bounced the Hypnosis back!
+Hippowdon avoided the attack!
+
+(The sandstorm is raging.)
+The opposing Pinsir is buffeted by the sandstorm!
+The opposing Ariados is buffeted by the sandstorm!
+
+Turn 11
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Assurance!
+It's not very effective...
+(The opposing Forretress lost 7.4% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Stomp!
+A critical hit!
+(Sandslash lost 30.5% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Powder Snow!
+It's super effective on Gliscor!
+It's super effective on Hippowdon!
+(Gliscor lost 27.4% of its health!)
+(Hippowdon lost 11.9% of its health!)
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Metal Sound!
+The opposing Ariados avoided the attack!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Bulk Up!
+The opposing Forretress's Attack rose!
+The opposing Forretress's Defense rose!
+
+Hippowdon used Metronome!
+
+Waggling a finger let it use Vital Throw!
+(The opposing Forretress lost 11.9% of its health!)
+
+(The sandstorm is raging.)
+The opposing Pinsir is buffeted by the sandstorm!
+The opposing Ariados is buffeted by the sandstorm!
+The opposing team's Tailwind petered out!
+
+Turn 12
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Pluck!
+It's super effective!
+(The opposing Ariados lost 41.5% of its health!)
+Sandslash stole and ate its target's Leppa Berry!
+Sandslash restored PP to its move Metronome using its Leppa Berry!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Egg Bomb!
+The opposing Ariados avoided the attack!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+It's super effective!
+A critical hit!
+(Hippowdon lost 22.0% of its health!)
+
+Hippowdon fainted!
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Aqua Jet!
+Gliscor avoided the attack!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Magic Coat!
+The opposing Forretress shrouded itself with Magic Coat!
+
+(The sandstorm is raging.)
+The opposing Pinsir is buffeted by the sandstorm!
+The opposing Ariados is buffeted by the sandstorm!
+
+Turn 13
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Razor Wind!
+Sandslash whipped up a whirlwind!
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Extrasensory!
+It's super effective!
+(The opposing Ariados lost 13.2% of its health!)
+
+The opposing Ariados fainted!
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Stun Spore!
+Sandslash is paralyzed! It may be unable to move!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Lava Plume!
+Gliscor avoided the attack!
+It's super effective on the opposing Pinsir!
+(The opposing Pinsir lost 25.6% of its health!)
+(Sandslash lost 5.5% of its health!)
+The opposing Pinsir was burned!
+
+(The sandstorm is raging.)
+The opposing Pinsir is buffeted by the sandstorm!
+The opposing Pinsir was hurt by its burn!
+Your team's Light Screen wore off!
+
+Turn 14
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Curse!
+Gliscor's Speed fell!
+Gliscor's Attack rose!
+Gliscor's Defense rose!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Spore!
+But it failed!
+
+Sandslash used Razor Wind!
+A critical hit on the opposing Pinsir!
+It's not very effective on the opposing Forretress.
+(The opposing Pinsir lost 20.8% of its health!)
+(The opposing Forretress lost 11.1% of its health!)
+
+The opposing Pinsir fainted!
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Drill Run!
+It doesn't affect Gliscor...
+
+(The sandstorm is raging.)
+
+Turn 15
+
+Gliscor used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+It's not very effective...
+(The opposing Forretress lost 11.1% of its health!)
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Psych Up!
+Sandslash copied the opposing Forretress's stat changes!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Horn Attack!
+(Gliscor lost 7.4% of its health!)
+
+Gliscor fainted!
+
+(The sandstorm is raging.)
+
+Turn 16
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Take Down!
+It's not very effective...
+(The opposing Forretress lost 12.6% of its health!)
+Sandslash was damaged by the recoil!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Tail Whip!
+Sandslash's Defense fell!
+
+(The sandstorm is raging.)
+
+Turn 17
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Weather Ball!
+(The opposing Forretress lost 22.2% of its health!)
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Safeguard!
+The opposing team cloaked itself in a mystical veil!
+
+(The sandstorm is raging.)
+
+Turn 18
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Leech Life!
+(Sandslash lost 7.9% of its health!)
+Sandslash had its energy drained!
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Spit Up!
+But it failed!
+
+(The sandstorm is raging.)
+
+Turn 19
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Shadow Force!
+Sandslash vanished instantly!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Strength!
+Sandslash avoided the attack!
+
+(The sandstorm is raging.)
+
+Turn 20
+
+Sandslash used Shadow Force!
+It's not very effective...
+(The opposing Forretress lost 17.8% of its health!)
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Bulldoze!
+(Sandslash lost 17.1% of its health!)
+Sandslash's Speed fell!
+
+(The sandstorm is raging.)
+
+Turn 21
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Eruption!
+(Sandslash lost 2.4% of its health!)
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Dragon Pulse!
+It's not very effective...
+(The opposing Forretress lost 8.9% of its health!)
+
+(The sandstorm is raging.)
+The opposing team is no longer protected by Safeguard!
+
+Turn 22
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Mean Look!
+Sandslash can no longer escape!
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Milk Drink!
+Sandslash had its HP restored.
+
+(The sandstorm is raging.)
+
+Turn 23
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Acid!
+It's not very effective...
+(Sandslash lost 2.4% of its health!)
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Miracle Eye!
+The opposing Forretress was identified!
+
+(The sandstorm is raging.)
+
+Turn 24
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Belly Drum!
+But it failed!
+(The opposing Forretress ate its Leppa Berry!)
+The opposing Forretress restored PP to its move Metronome using its Leppa Berry!
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Metal Sound!
+The opposing Forretress's Sp. Def fell harshly!
+
+(The sandstorm is raging.)
+
+Turn 25
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Rock Tomb!
+It's not very effective...
+(Sandslash lost 6.7% of its health!)
+Sandslash's Speed fell!
+
+Sandslash is paralyzed! It can't move!
+
+(The sandstorm is raging.)
+
+Turn 26
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Acid!
+It's not very effective...
+(Sandslash lost 2.4% of its health!)
+Sandslash's Sp. Def fell!
+
+Sandslash used Metronome!
+
+Waggling a finger let it use Dragon Breath!
+It's not very effective...
+A critical hit!
+(The opposing Forretress lost 2.2% of its health!)
+
+The opposing Forretress fainted!
+
+MTN Ground won the battle!

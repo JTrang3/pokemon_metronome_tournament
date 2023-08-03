@@ -1,0 +1,492 @@
+☆MTN Rock and ☆MTN Ground joined
+Format: [Gen 5] Triples Custom Game
+MTN Rock's team:
+Rhyperior / Cradily / Tyranitar / Carracosta / Aerodactyl / Sudowoodo
+MTN Ground's team:
+Steelix / Hippowdon / Excadrill / Flygon / Gliscor / Sandslash
+
+Battle started between MTN Rock and MTN Ground!
+
+Go! Carracosta!
+
+Go! Aerodactyl!
+
+Go! Tyranitar!
+
+MTN Ground sent out Flygon!
+
+MTN Ground sent out Gliscor!
+
+MTN Ground sent out Excadrill!
+[Tyranitar's Sand Stream]
+A sandstorm kicked up!
+
+Turn 1
+
+Aerodactyl used Metronome!
+
+Waggling a finger let it use Slam!
+(The opposing Flygon lost 24.3% of its health!)
+
+The opposing Flygon used Metronome!
+
+Waggling a finger let it use Explosion!
+It's not very effective on Aerodactyl.
+It's not very effective on Tyranitar.
+(The opposing Gliscor lost 43.7% of its health!)
+(Aerodactyl lost 29.3% of its health!)
+(Tyranitar lost 16.3% of its health!)
+
+The opposing Flygon fainted!
+The opposing Gliscor used Metronome!
+
+Waggling a finger let it use Surf!
+It's super effective on the opposing Excadrill!
+It's super effective on Aerodactyl!
+It's super effective on Tyranitar!
+(The opposing Excadrill lost 40% of its health!)
+(Carracosta lost 11.9% of its health!)
+(Aerodactyl lost 25.7% of its health!)
+(Tyranitar lost 20% of its health!)
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Mega Drain!
+(Aerodactyl lost 8.6% of its health!)
+Aerodactyl had its energy drained!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Steel Wing!
+The opposing Gliscor avoided the attack!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Steel Wing!
+It's not very effective...
+(The opposing Excadrill lost 9.4% of its health!)
+
+(The sandstorm is raging.)
+
+MTN Ground sent out Sandslash!
+
+Turn 2
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Carracosta had its HP restored.
+
+Aerodactyl used Metronome!
+
+Waggling a finger let it use Guard Swap!
+Aerodactyl switched all changes to its Defense and Sp. Def with its target!
+
+The opposing Gliscor used Metronome!
+
+Waggling a finger let it use Foul Play!
+(Carracosta lost 23.1% of its health!)
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Poison Sting!
+It's not very effective...
+(Aerodactyl lost 2.9% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Slack Off!
+Tyranitar had its HP restored.
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Quiver Dance!
+Carracosta's Sp. Atk rose!
+Carracosta's Sp. Def rose!
+Carracosta's Speed rose!
+
+(The sandstorm is raging.)
+
+Turn 3
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Egg Bomb!
+It's not very effective...
+(Tyranitar lost 11.9% of its health!)
+
+Aerodactyl used Metronome!
+
+Waggling a finger let it use Mud Sport!
+Electricity's power was weakened!
+
+The opposing Gliscor used Metronome!
+
+Waggling a finger let it use Smog!
+Carracosta avoided the attack!
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Shift Gear!
+The opposing Excadrill's Speed rose sharply!
+The opposing Excadrill's Attack rose!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Blizzard!
+The opposing Sandslash avoided the attack!
+The opposing Gliscor avoided the attack!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Leech Seed!
+The opposing Gliscor was seeded!
+
+(The sandstorm is raging.)
+The opposing Gliscor's health is sapped by Leech Seed!
+
+Turn 4
+
+The opposing Excadrill used Metronome!
+
+Waggling a finger let it use Icicle Crash!
+It's not very effective...
+(Carracosta lost 17.9% of its health!)
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Bolt Strike!
+(Tyranitar lost 11.3% of its health!)
+
+Aerodactyl used Metronome!
+
+Waggling a finger let it use Leaf Storm!
+It's super effective!
+(The opposing Sandslash lost 61.0% of its health!)
+Aerodactyl's Sp. Atk fell harshly!
+
+The opposing Gliscor used Metronome!
+
+Waggling a finger let it use Hone Claws!
+The opposing Gliscor's Attack rose!
+The opposing Gliscor's accuracy rose!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Razor Leaf!
+It's super effective on the opposing Sandslash!
+(The opposing Sandslash lost 19.5% of its health!)
+(The opposing Gliscor lost 13.3% of its health!)
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Bubble Beam!
+It's super effective!
+(The opposing Excadrill lost 54.1% of its health!)
+
+The opposing Excadrill fainted!
+
+(The sandstorm is raging.)
+The opposing Gliscor's health is sapped by Leech Seed!
+
+MTN Ground sent out Steelix!
+
+Turn 5
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Flash Cannon!
+It's super effective!
+(Aerodactyl lost 33.6% of its health!)
+
+Aerodactyl fainted!
+The opposing Gliscor used Metronome!
+
+Waggling a finger let it use Fire Spin!
+It's not very effective...
+(Carracosta lost 0.7% of its health!)
+Carracosta became trapped in the fiery vortex!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Ally Switch!
+Tyranitar and Carracosta switched places!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Sing!
+The opposing Sandslash avoided the attack!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Perish Song!
+All Pokémon that heard the song will faint in three turns!
+
+(The sandstorm is raging.)
+The opposing Gliscor's health is sapped by Leech Seed!
+Carracosta is hurt by Fire Spin!
+The opposing Sandslash's perish count fell to 3.
+The opposing Gliscor's perish count fell to 3.
+Tyranitar's perish count fell to 3.
+Carracosta's perish count fell to 3.
+The opposing Steelix's perish count fell to 3.
+
+Go! Sudowoodo!
+
+Turn 6
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Wild Charge!
+(Sudowoodo lost 7.5% of its health!)
+The opposing Sandslash was damaged by the recoil!
+
+The opposing Gliscor used Metronome!
+
+Waggling a finger let it use Stomp!
+It's not very effective...
+(Carracosta lost 10.4% of its health!)
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Confuse Ray!
+The opposing Steelix became confused!
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Spacial Rend!
+The opposing Gliscor avoided the attack!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Rain Dance!
+It started to rain!
+
+The opposing Steelix is confused!
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+(Rain continues to fall.)
+The opposing Gliscor's health is sapped by Leech Seed!
+
+The opposing Gliscor fainted!
+The opposing Sandslash's perish count fell to 2.
+Tyranitar's perish count fell to 2.
+Carracosta's perish count fell to 2.
+The opposing Steelix's perish count fell to 2.
+
+MTN Ground sent out Hippowdon!
+[The opposing Hippowdon's Sand Stream]
+A sandstorm kicked up!
+
+Turn 7
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Inferno!
+Carracosta avoided the attack!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Waterfall!
+It's super effective!
+(The opposing Steelix lost 31.1% of its health!)
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Zap Cannon!
+It doesn't affect the opposing Hippowdon...
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Bonemerang!
+It's super effective!
+(Sudowoodo lost 31.4% of its health!)
+It's super effective!
+(Sudowoodo lost 31.4% of its health!)
+The Pokémon was hit 2 times!
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Tailwind!
+The Tailwind blew from behind your team!
+The opposing Steelix snapped out of its confusion!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Ice Beam!
+(Tyranitar lost 14.4% of its health!)
+
+(The sandstorm is raging.)
+The opposing Sandslash's perish count fell to 1.
+Tyranitar's perish count fell to 1.
+Carracosta's perish count fell to 1.
+The opposing Steelix's perish count fell to 1.
+
+Turn 8
+
+The opposing Sandslash used Metronome!
+
+Waggling a finger let it use Cosmic Power!
+The opposing Sandslash's Defense rose!
+The opposing Sandslash's Sp. Def rose!
+
+Tyranitar used Metronome!
+
+Waggling a finger let it use Shift Gear!
+Tyranitar's Speed rose sharply!
+Tyranitar's Attack rose!
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Weather Ball!
+It's not very effective...
+A critical hit!
+(The opposing Steelix lost 23.0% of its health!)
+
+Carracosta used Metronome!
+
+Waggling a finger let it use Present!
+(The opposing Hippowdon lost 10.1% of its health!)
+
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Hail!
+It started to hail!
+
+The opposing Steelix used Metronome!
+
+Waggling a finger let it use Blue Flare!
+It's not very effective...
+(Sudowoodo lost 11.3% of its health!)
+
+(The hail is crashing down.)
+Tyranitar is buffeted by the hail!
+Sudowoodo is buffeted by the hail!
+The opposing Sandslash is buffeted by the hail!
+Carracosta is buffeted by the hail!
+The opposing Hippowdon is buffeted by the hail!
+The opposing Steelix is buffeted by the hail!
+Tyranitar's perish count fell to 0.
+The opposing Sandslash's perish count fell to 0.
+Carracosta's perish count fell to 0.
+The opposing Steelix's perish count fell to 0.
+
+Tyranitar fainted!
+The opposing Sandslash fainted!
+Carracosta fainted!
+The opposing Steelix fainted!
+
+Go! Cradily!
+
+Go! Rhyperior!
+
+Turn 9
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Attract!
+The opposing Hippowdon fell in love!
+
+Cradily used Metronome!
+
+Waggling a finger let it use Gyro Ball!
+(The opposing Hippowdon lost 3.6% of its health!)
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Egg Bomb!
+(The opposing Hippowdon lost 28.6% of its health!)
+
+The opposing Hippowdon is in love with Sudowoodo!
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Charm!
+Sudowoodo's Attack fell harshly!
+
+(The hail is crashing down.)
+Sudowoodo is buffeted by the hail!
+Cradily is buffeted by the hail!
+Rhyperior is buffeted by the hail!
+The opposing Hippowdon is buffeted by the hail!
+
+Turn 10
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Smokescreen!
+The opposing Hippowdon's accuracy fell!
+
+Cradily used Metronome!
+
+Waggling a finger let it use Low Sweep!
+(The opposing Hippowdon lost 13.7% of its health!)
+The opposing Hippowdon's Speed fell!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+
+The opposing Hippowdon is in love with Sudowoodo!
+The opposing Hippowdon is immobilized by love!
+
+(The hail is crashing down.)
+Sudowoodo is buffeted by the hail!
+Cradily is buffeted by the hail!
+Rhyperior is buffeted by the hail!
+The opposing Hippowdon is buffeted by the hail!
+Your team's Tailwind petered out!
+
+Turn 11
+
+Sudowoodo used Metronome!
+
+Waggling a finger let it use Volt Switch!
+[Rhyperior's Lightning Rod]
+Rhyperior took the attack!
+It doesn't affect Rhyperior...
+
+Cradily used Metronome!
+
+Waggling a finger let it use Calm Mind!
+Cradily's Sp. Atk rose!
+Cradily's Sp. Def rose!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Leech Seed!
+The opposing Hippowdon was seeded!
+
+The opposing Hippowdon is in love with Sudowoodo!
+The opposing Hippowdon used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+Rhyperior avoided the attack!
+
+(The hail is crashing down.)
+Sudowoodo is buffeted by the hail!
+Cradily is buffeted by the hail!
+Rhyperior is buffeted by the hail!
+The opposing Hippowdon is buffeted by the hail!
+
+Sudowoodo fainted!
+The opposing Hippowdon's health is sapped by Leech Seed!
+
+Turn 12
+
+Cradily used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+The opposing Hippowdon was identified!
+
+Rhyperior used Metronome!
+
+Waggling a finger let it use Gust!
+(The opposing Hippowdon lost 7.7% of its health!)
+
+The opposing Hippowdon fainted!
+
+MTN Rock won the battle!

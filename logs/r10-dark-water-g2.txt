@@ -1,0 +1,368 @@
+☆MTN Dark and ☆MTN Water joined
+Format: [Gen 5] Triples Custom Game
+MTN Dark's team:
+Weavile / Houndoom / Krookodile / Honchkrow / Hydreigon / Absol
+MTN Water's team:
+Politoed / Seismitoad / Tentacruel / Lapras / Crawdaunt / Floatzel
+
+Battle started between MTN Dark and MTN Water!
+
+Go! Krookodile!
+
+Go! Absol!
+
+Go! Houndoom!
+
+MTN Water sent out Floatzel!
+
+MTN Water sent out Lapras!
+
+MTN Water sent out Tentacruel!
+[Krookodile's Intimidate]
+The opposing Lapras's Attack fell!
+The opposing Tentacruel's Attack fell!
+
+Turn 1
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Gust!
+(Absol lost 11.1% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Sucker Punch!
+But it failed!
+
+Absol used Metronome!
+
+Waggling a finger let it use Surf!
+It's super effective on Krookodile!
+It's super effective on Houndoom!
+It's not very effective on the opposing Floatzel.
+It's not very effective on the opposing Lapras.
+It's not very effective on the opposing Tentacruel.
+(Krookodile lost 41.3% of its health!)
+(Houndoom lost 50.4% of its health!)
+(The opposing Floatzel lost 9.1% of its health!)
+(The opposing Lapras lost 9.5% of its health!)
+(The opposing Tentacruel lost 10% of its health!)
+
+Houndoom used Metronome!
+
+Waggling a finger let it use Mind Reader!
+Houndoom took aim at the opposing Lapras!
+
+Krookodile used Metronome!
+
+Waggling a finger let it use Body Slam!
+(The opposing Lapras lost 19.5% of its health!)
+
+The opposing Lapras used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+(Absol lost 13.1% of its health!)
+
+Turn 2
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Dragon Claw!
+(Houndoom lost 45.9% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Sacred Sword!
+It's super effective!
+(Krookodile lost 23.2% of its health!)
+
+Absol used Metronome!
+
+Waggling a finger let it use Disable!
+The opposing Tentacruel's Metronome was disabled!
+
+Houndoom used Metronome!
+
+Waggling a finger let it use Mirror Shot!
+It's not very effective...
+(The opposing Floatzel lost 9.1% of its health!)
+
+Krookodile used Metronome!
+
+Waggling a finger let it use Cross Poison!
+(The opposing Lapras lost 14.7% of its health!)
+
+The opposing Lapras used Metronome!
+
+Waggling a finger let it use Mirror Shot!
+(Absol lost 17.0% of its health!)
+
+Turn 3
+
+MTN Water withdrew Tentacruel!
+MTN Water sent out Politoed!
+[The opposing Politoed's Drizzle]
+It started to rain!
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Recover!
+The opposing Floatzel had its HP restored.
+
+Absol used Metronome!
+
+Waggling a finger let it use Tail Glow!
+Absol's Sp. Atk rose drastically!
+
+Houndoom used Metronome!
+
+Waggling a finger let it use Outrage!
+(The opposing Lapras lost 20.5% of its health!)
+
+Krookodile used Metronome!
+
+Waggling a finger let it use Tri Attack!
+(The opposing Lapras lost 12.1% of its health!)
+
+The opposing Lapras used Metronome!
+
+Waggling a finger let it use Defend Order!
+The opposing Lapras's Defense rose!
+The opposing Lapras's Sp. Def rose!
+
+(Rain continues to fall.)
+
+Turn 4
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Crunch!
+It's not very effective...
+(Houndoom lost 3.7% of its health!)
+
+Houndoom fainted!
+Absol used Metronome!
+
+Waggling a finger let it use Discharge!
+It doesn't affect Krookodile...
+It's super effective on the opposing Floatzel!
+It's super effective on the opposing Lapras!
+It's super effective on the opposing Politoed!
+(The opposing Floatzel lost 80% of its health!)
+(The opposing Lapras lost 23.7% of its health!)
+(The opposing Politoed lost 100% of its health!)
+
+The opposing Lapras fainted!
+The opposing Politoed fainted!
+Krookodile used Metronome!
+
+Waggling a finger let it use Heavy Slam!
+But it failed!
+
+(Rain continues to fall.)
+
+Go! Hydreigon!
+
+MTN Water sent out Tentacruel!
+
+MTN Water sent out Seismitoad!
+
+Turn 5
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Sweet Scent!
+Absol's evasiveness fell!
+Hydreigon's evasiveness fell!
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Sucker Punch!
+But it failed!
+
+Absol used Metronome!
+
+Waggling a finger let it use Reflect Type!
+Absol's type became the same as the opposing Seismitoad's type!
+
+Hydreigon used Metronome!
+
+Waggling a finger let it use Venoshock!
+(The opposing Floatzel lost 17.7% of its health!)
+
+Krookodile used Metronome!
+
+Waggling a finger let it use Bide!
+Krookodile is storing energy!
+
+The opposing Seismitoad used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Hydreigon's HP is full!
+
+(Rain continues to fall.)
+[The opposing Tentacruel's Rain Dish]
+The opposing Tentacruel had its HP restored.
+
+Turn 6
+
+Krookodile is storing energy!
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Revenge!
+It's super effective!
+(Hydreigon lost 44.7% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Fusion Flare!
+(Krookodile lost 14.8% of its health!)
+
+Absol used Metronome!
+
+Waggling a finger let it use Smog!
+The opposing Tentacruel avoided the attack!
+
+Hydreigon used Metronome!
+
+Waggling a finger let it use Retaliate!
+(The opposing Seismitoad lost 18.2% of its health!)
+
+The opposing Seismitoad used Metronome!
+
+Waggling a finger let it use Venoshock!
+It's not very effective...
+(Absol lost 7.2% of its health!)
+
+(Rain continues to fall.)
+[The opposing Tentacruel's Rain Dish]
+The opposing Tentacruel had its HP restored.
+
+Turn 7
+
+Krookodile unleashed its energy!
+(The opposing Tentacruel lost 32.9% of its health!)
+
+The opposing Floatzel used Metronome!
+
+Waggling a finger let it use Self-Destruct!
+(The opposing Seismitoad lost 53.3% of its health!)
+(Absol lost 51.6% of its health!)
+(Hydreigon lost 53.9% of its health!)
+
+The opposing Floatzel fainted!
+Absol fainted!
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Sacred Fire!
+(Krookodile lost 11.0% of its health!)
+
+Hydreigon used Metronome!
+
+Waggling a finger let it use Double Hit!
+(The opposing Seismitoad lost 10.3% of its health!)
+(The opposing Seismitoad lost 9.7% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Seismitoad used Metronome!
+
+Waggling a finger let it use Guard Split!
+The opposing Seismitoad shared its guard with the target!
+
+(Rain continues to fall.)
+[The opposing Tentacruel's Rain Dish]
+The opposing Tentacruel had its HP restored.
+
+MTN Water sent out Crawdaunt!
+
+Go! Weavile!
+[Weavile's Pressure]
+Weavile is exerting its pressure!
+
+Turn 8
+
+Weavile used Metronome!
+
+Waggling a finger let it use Twister!
+(The opposing Crawdaunt lost 9.8% of its health!)
+(The opposing Seismitoad lost 5.5% of its health!)
+(The opposing Tentacruel lost 6.4% of its health!)
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Roar!
+
+Honchkrow was dragged out!
+
+Hydreigon used Metronome!
+
+Waggling a finger let it use Rollout!
+It's not very effective...
+(The opposing Seismitoad lost 3.0% of its health!)
+
+The opposing Seismitoad fainted!
+Krookodile used Metronome!
+
+Waggling a finger let it use Slack Off!
+Krookodile had its HP restored.
+
+The opposing Crawdaunt used Metronome!
+
+Waggling a finger let it use Rage!
+(Honchkrow lost 8.1% of its health!)
+(Rage started on the opposing Crawdaunt!)
+
+(Rain continues to fall.)
+[The opposing Tentacruel's Rain Dish]
+The opposing Tentacruel had its HP restored.
+
+Turn 9
+
+The opposing Tentacruel used Metronome!
+
+Waggling a finger let it use Chip Away!
+(Honchkrow lost 18.1% of its health!)
+
+Hydreigon used Rollout!
+(The opposing Crawdaunt lost 22.0% of its health!)
+The opposing Crawdaunt's Attack rose!
+
+Krookodile used Metronome!
+
+Waggling a finger let it use Final Gambit!
+(The opposing Tentacruel lost 66.4% of its health!)
+
+Krookodile fainted!
+Honchkrow used Metronome!
+
+Waggling a finger let it use Ice Punch!
+It's not very effective...
+(The opposing Tentacruel lost 5.7% of its health!)
+
+The opposing Tentacruel fainted!
+The opposing Crawdaunt used Metronome!
+
+Waggling a finger let it use Confusion!
+It doesn't affect Honchkrow...
+
+(Rain continues to fall.)
+
+Go! Weavile!
+[Weavile's Pressure]
+Weavile is exerting its pressure!
+
+Turn 10
+
+Weavile used Metronome!
+
+Waggling a finger let it use Lucky Chant!
+Lucky Chant shielded your team from critical hits!
+
+Hydreigon used Rollout!
+A critical hit!
+(The opposing Crawdaunt lost 68.3% of its health!)
+
+The opposing Crawdaunt fainted!
+
+MTN Dark won the battle!

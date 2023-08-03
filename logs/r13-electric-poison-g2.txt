@@ -1,0 +1,467 @@
+☆MTN Electric and ☆MTN Poison joined
+Format: [Gen 5] Triples Custom Game
+MTN Electric's team:
+Electivire / Ampharos / Magneton / Eelektross / Rotom-Wash / Manectric
+MTN Poison's team:
+Drapion / Nidoking / Roserade / Crobat / Toxicroak / Scolipede
+
+Battle started between MTN Electric and MTN Poison!
+
+Go! Magneton!
+
+Go! Ampharos!
+
+Go! Manectric!
+
+MTN Poison sent out Crobat!
+
+MTN Poison sent out Roserade!
+
+MTN Poison sent out Toxicroak!
+
+Turn 1
+
+Manectric used Metronome!
+
+Waggling a finger let it use Shadow Punch!
+(The opposing Roserade lost 27.5% of its health!)
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Heat Wave!
+Ampharos avoided the attack!
+(Manectric lost 18.2% of its health!)
+
+The opposing Roserade used Metronome!
+
+Waggling a finger let it use Dig!
+The opposing Roserade burrowed its way under the ground!
+
+The opposing Toxicroak used Metronome!
+
+Waggling a finger let it use Aerial Ace!
+It's not very effective...
+(Magneton lost 5.5% of its health!)
+
+Magneton used Metronome!
+
+Waggling a finger let it use Cross Poison!
+It's not very effective...
+(The opposing Toxicroak lost 11.2% of its health!)
+
+Ampharos used Metronome!
+
+Waggling a finger let it use Guillotine!
+The opposing Roserade avoided the attack!
+
+Turn 2
+
+Manectric used Metronome!
+
+Waggling a finger let it use Drill Run!
+The opposing Roserade avoided the attack!
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Scratch!
+(Manectric lost 9.4% of its health!)
+
+The opposing Roserade used Dig!
+It's super effective!
+(Ampharos lost 44% of its health!)
+
+The opposing Toxicroak used Metronome!
+
+Waggling a finger let it use Entrainment!
+[Magneton's Sturdy]
+[Magneton's Dry Skin]
+Magneton acquired Dry Skin!
+
+Magneton used Metronome!
+
+Waggling a finger let it use Body Slam!
+(The opposing Roserade lost 30% of its health!)
+
+Ampharos used Metronome!
+
+Waggling a finger let it use Power Swap!
+Ampharos switched all changes to its Attack and Sp. Atk with its target!
+
+Turn 3
+
+Manectric used Metronome!
+
+Waggling a finger let it use Giga Impact!
+(The opposing Roserade lost 42.5% of its health!)
+[The opposing Roserade's Poison Point]
+Manectric was poisoned!
+
+The opposing Roserade fainted!
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+It's not very effective...
+(Ampharos lost 12.7% of its health!)
+
+The opposing Toxicroak used Metronome!
+
+Waggling a finger let it use Fiery Dance!
+It's super effective!
+(Magneton lost 67.3% of its health!)
+
+Magneton used Metronome!
+
+Waggling a finger let it use Luster Purge!
+It's super effective!
+(The opposing Toxicroak lost 88.8% of its health!)
+
+The opposing Toxicroak fainted!
+Ampharos used Metronome!
+
+Waggling a finger let it use Fake Tears!
+The opposing Crobat's Sp. Def fell harshly!
+
+Manectric was hurt by poison!
+
+MTN Poison sent out Nidoking!
+
+MTN Poison sent out Scolipede!
+
+Turn 4
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Dragon Breath!
+(Ampharos lost 18.7% of its health!)
+Ampharos is paralyzed! It may be unable to move!
+
+Manectric must recharge!
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Smack Down!
+(Ampharos lost 13.3% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Thunder!
+It's not very effective...
+(Ampharos lost 11.3% of its health!)
+
+Ampharos fainted!
+Magneton used Metronome!
+
+Waggling a finger let it use Fake Tears!
+The opposing Nidoking's Sp. Def fell harshly!
+
+Manectric was hurt by poison!
+
+Go! Rotom (Rotom-Wash)!
+
+Turn 5
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Seismic Toss!
+(Magneton lost 27.3% of its health!)
+
+Magneton fainted!
+Manectric used Metronome!
+
+Waggling a finger let it use Taunt!
+The opposing Crobat fell for the taunt!
+
+The opposing Crobat can't use Metronome after the taunt!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Psycho Shift!
+But it failed!
+
+Rotom used Metronome!
+
+Waggling a finger let it use Endeavor!
+(The opposing Crobat lost 2.8% of its health!)
+
+Manectric was hurt by poison!
+
+Go! Electivire!
+
+Turn 6
+
+MTN Poison withdrew Crobat!
+MTN Poison sent out Drapion!
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Hex!
+(Rotom lost 17.7% of its health!)
+
+Manectric used Metronome!
+
+Waggling a finger let it use Water Spout!
+It's super effective on the opposing Nidoking!
+(The opposing Drapion lost 17.7% of its health!)
+(The opposing Nidoking lost 61.0% of its health!)
+
+Electivire used Metronome!
+
+Waggling a finger let it use Whirlpool!
+(The opposing Scolipede lost 7.4% of its health!)
+The opposing Scolipede became trapped in the vortex!
+
+Rotom used Metronome!
+
+Waggling a finger let it use Horn Leech!
+(The opposing Nidoking lost 22.7% of its health!)
+The opposing Nidoking had its energy drained!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Thunder!
+It's not very effective...
+(Manectric lost 16.4% of its health!)
+
+Manectric was hurt by poison!
+The opposing Scolipede is hurt by Whirlpool!
+
+Turn 7
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+(Electivire lost 47.4% of its health!)
+
+Manectric used Metronome!
+
+Waggling a finger let it use Rock Smash!
+(The opposing Drapion lost 13.8% of its health!)
+
+Electivire used Metronome!
+
+Waggling a finger let it use Bite!
+(The opposing Scolipede lost 17.6% of its health!)
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Razor Wind!
+The opposing Drapion whipped up a whirlwind!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Judgment!
+(Rotom lost 25.5% of its health!)
+
+Rotom used Metronome!
+
+Waggling a finger let it use Rock Blast!
+(The opposing Drapion lost 8.5% of its health!)
+(The opposing Drapion lost 7.7% of its health!)
+The Pokémon was hit 2 times!
+
+Manectric was hurt by poison!
+
+Manectric fainted!
+The opposing Scolipede is hurt by Whirlpool!
+
+Go! Eelektross!
+
+Turn 8
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Water Pledge!
+It's not very effective...
+(Rotom lost 8.5% of its health!)
+
+The opposing Drapion used Razor Wind!
+(Rotom lost 17.0% of its health!)
+(Eelektross lost 15.2% of its health!)
+
+Electivire used Metronome!
+
+Waggling a finger let it use Eruption!
+It's super effective on the opposing Scolipede!
+(The opposing Nidoking lost 16.3% of its health!)
+(The opposing Scolipede lost 24.3% of its health!)
+
+The opposing Nidoking fainted!
+Rotom used Metronome!
+
+Waggling a finger let it use Tail Slap!
+(The opposing Scolipede lost 6.8% of its health!)
+(The opposing Scolipede lost 6.8% of its health!)
+(The opposing Scolipede lost 6.1% of its health!)
+The Pokémon was hit 3 times!
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Signal Beam!
+(The opposing Drapion lost 27.7% of its health!)
+
+The opposing Scolipede is hurt by Whirlpool!
+
+MTN Poison sent out Crobat!
+
+Turn 9
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Force Palm!
+(Electivire lost 20.7% of its health!)
+Electivire is paralyzed! It may be unable to move!
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Supersonic!
+Eelektross avoided the attack!
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Double Slap!
+(Eelektross lost 4.1% of its health!)
+A critical hit!
+(Eelektross lost 9.7% of its health!)
+(Eelektross lost 4.1% of its health!)
+The Pokémon was hit 3 times!
+
+Electivire used Metronome!
+
+Waggling a finger let it use Will-O-Wisp!
+The opposing Crobat was burned!
+
+Rotom used Metronome!
+
+Waggling a finger let it use Toxic Spikes!
+Poison spikes were scattered on the ground all around the opposing team!
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+The opposing Drapion fell asleep!
+
+The opposing Crobat was hurt by its burn!
+The opposing Scolipede is hurt by Whirlpool!
+
+Turn 10
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Dizzy Punch!
+A critical hit!
+(Rotom lost 42.6% of its health!)
+
+Rotom fainted!
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Sleep Powder!
+But it failed!
+
+The opposing Drapion is fast asleep.
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Storm Throw!
+It's not very effective...
+A critical hit!
+(The opposing Crobat lost 6.9% of its health!)
+
+Electivire is paralyzed! It can't move!
+
+The opposing Crobat was hurt by its burn!
+The opposing Scolipede was freed from Whirlpool!
+
+Turn 11
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+(Electivire lost 25.9% of its health!)
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Screech!
+Eelektross's Defense fell harshly!
+
+The opposing Drapion is fast asleep.
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Surf!
+(The opposing Drapion lost 23.8% of its health!)
+(The opposing Crobat lost 26.9% of its health!)
+
+Electivire used Metronome!
+
+Waggling a finger let it use Energy Ball!
+It's not very effective...
+(The opposing Scolipede lost 4.1% of its health!)
+The opposing Scolipede's Sp. Def fell!
+
+The opposing Crobat was hurt by its burn!
+
+Turn 12
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Grass Pledge!
+A critical hit!
+(Electivire lost 5.9% of its health!)
+
+Electivire fainted!
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Fly!
+The opposing Crobat flew up high!
+
+The opposing Drapion is fast asleep.
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Dragon Breath!
+(The opposing Drapion lost 0.8% of its health!)
+
+The opposing Drapion fainted!
+
+The opposing Crobat was hurt by its burn!
+
+Turn 13
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Crush Grip!
+But it failed!
+
+The opposing Crobat used Fly!
+It's not very effective...
+(Eelektross lost 17.2% of its health!)
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Rock Smash!
+It's not very effective...
+(The opposing Crobat lost 2.8% of its health!)
+The opposing Crobat's Defense fell!
+
+The opposing Crobat was hurt by its burn!
+
+The opposing Crobat fainted!
+Automatic center!
+
+Turn 14
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Double Team!
+The opposing Scolipede's evasiveness rose!
+
+Eelektross used Metronome!
+
+Waggling a finger let it use Storm Throw!
+It's not very effective...
+A critical hit!
+(The opposing Scolipede lost 2.7% of its health!)
+
+The opposing Scolipede fainted!
+
+MTN Electric won the battle!

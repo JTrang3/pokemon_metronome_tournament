@@ -1,0 +1,323 @@
+☆MTN Bug and ☆MTN Normal joined
+Format: [Gen 5] Triples Custom Game
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+MTN Normal's team:
+Slaking / Bibarel / Sawsbuck / Porygon2 / Togekiss / Clefable
+
+Battle started between MTN Bug and MTN Normal!
+
+Go! Armaldo!
+
+Go! Yanmega!
+
+Go! Pinsir!
+
+MTN Normal sent out Sawsbuck!
+
+MTN Normal sent out Bibarel!
+
+MTN Normal sent out Togekiss!
+
+Turn 1
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Brine!
+It's not very effective...
+(The opposing Sawsbuck lost 27.1% of its health!)
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Round!
+(Yanmega lost 26.7% of its health!)
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Force Palm!
+It's super effective!
+(The opposing Sawsbuck lost 41.4% of its health!)
+The opposing Sawsbuck is paralyzed! It may be unable to move!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Crabhammer!
+It's super effective!
+(Armaldo lost 47.4% of its health!)
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Double Team!
+The opposing Bibarel's evasiveness rose!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Extrasensory!
+A critical hit!
+(The opposing Togekiss lost 43.4% of its health!)
+
+[The opposing Bibarel's Moody]
+The opposing Bibarel's evasiveness rose sharply!
+The opposing Bibarel's Defense fell!
+
+Turn 2
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Glare!
+The opposing Bibarel is paralyzed! It may be unable to move!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Last Resort!
+But it failed!
+
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Aqua Jet!
+(Yanmega lost 11.6% of its health!)
+
+The opposing Bibarel used Metronome!
+
+Waggling a finger let it use Stored Power!
+(Yanmega lost 20.5% of its health!)
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Superpower!
+It's super effective!
+(The opposing Bibarel lost 100% of its health!)
+Armaldo's Attack fell!
+Armaldo's Defense fell!
+
+The opposing Bibarel fainted!
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Pin Missile!
+(Pinsir lost 6.4% of its health!)
+A critical hit!
+(Pinsir lost 11.2% of its health!)
+(Pinsir lost 5.6% of its health!)
+(Pinsir lost 5.6% of its health!)
+The Pokémon was hit 4 times!
+
+MTN Normal sent out Slaking!
+
+Turn 3
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Rest!
+The opposing Slaking's HP is full!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Dynamic Punch!
+(The opposing Togekiss lost 25.5% of its health!)
+The opposing Togekiss became confused!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Dark Pulse!
+(The opposing Slaking lost 14.8% of its health!)
+
+The opposing Togekiss is confused!
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[Yanmega's Tinted Lens]
+[Yanmega's Simple]
+Yanmega acquired Simple!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Bonemerang!
+It doesn't affect the opposing Togekiss...
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Double-Edge!
+(Pinsir lost 58.4% of its health!)
+The opposing Sawsbuck was damaged by the recoil!
+
+Turn 4
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Bug Buzz!
+(Armaldo lost 30.4% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Hidden Power!
+(The opposing Togekiss lost 10.3% of its health!)
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Tailwind!
+The Tailwind blew from behind your team!
+
+The opposing Togekiss is confused!
+The opposing Togekiss used Metronome!
+
+Waggling a finger let it use Leaf Blade!
+(Armaldo lost 22.2% of its health!)
+
+Armaldo fainted!
+The opposing Sawsbuck is paralyzed! It can't move!
+
+Go! Ariados!
+
+Turn 5
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Spit Up!
+But it failed!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Belly Drum!
+But it failed!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Sludge Wave!
+(Yanmega lost 41.1% of its health!)
+(The opposing Slaking lost 27.6% of its health!)
+(The opposing Togekiss lost 20.7% of its health!)
+
+Yanmega fainted!
+The opposing Togekiss fainted!
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Lucky Chant!
+Lucky Chant shielded the opposing team from critical hits!
+
+The opposing Sawsbuck used Metronome!
+
+Waggling a finger let it use Iron Defense!
+The opposing Sawsbuck's Defense rose sharply!
+
+Go! Volcarona!
+
+MTN Normal sent out Clefable!
+
+Turn 6
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Iron Defense!
+Volcarona's Defense rose sharply!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Gust!
+It's super effective!
+(The opposing Sawsbuck lost 14.3% of its health!)
+
+The opposing Sawsbuck fainted!
+Ariados used Metronome!
+
+Waggling a finger let it use Guillotine!
+(The opposing Clefable lost 100% of its health!)
+
+The opposing Clefable fainted!
+It's a one-hit KO!
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Head Smash!
+It's super effective!
+(Pinsir lost 12.8% of its health!)
+
+Pinsir fainted!
+The opposing Slaking was damaged by the recoil!
+
+Go! Forretress!
+
+MTN Normal sent out Porygon2!
+[The opposing Porygon2's Trace]
+[The opposing Porygon2's Sniper]
+The opposing Porygon2 traced Ariados's Sniper!
+
+Turn 7
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Acid!
+(The opposing Slaking lost 8.6% of its health!)
+(The opposing Porygon2 lost 11.7% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Muddy Water!
+(The opposing Slaking lost 19.0% of its health!)
+(The opposing Porygon2 lost 24.1% of its health!)
+The opposing Slaking's accuracy fell!
+The opposing Porygon2's accuracy fell!
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Fissure!
+Ariados is unaffected!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Memento!
+The opposing Slaking's Attack fell harshly!
+The opposing Slaking's Sp. Atk fell harshly!
+
+Forretress fainted!
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Ice Shard!
+Volcarona avoided the attack!
+
+Your team's Tailwind petered out!
+
+Turn 8
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Headbutt!
+(Volcarona lost 11.0% of its health!)
+
+Volcarona flinched and couldn't move!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Circle Throw!
+It's super effective!
+(The opposing Porygon2 lost 33.1% of its health!)
+
+The opposing Porygon2 used Metronome!
+
+Waggling a finger let it use Take Down!
+Ariados avoided the attack!
+
+Turn 9
+
+The opposing Slaking used Metronome!
+
+Waggling a finger let it use Jump Kick!
+Ariados avoided the attack!
+The opposing Slaking kept going and crashed!
+
+The opposing Slaking fainted!
+Volcarona used Metronome!
+
+Waggling a finger let it use Pound!
+(The opposing Porygon2 lost 9.7% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Bone Rush!
+(The opposing Porygon2 lost 8.3% of its health!)
+(The opposing Porygon2 lost 7.6% of its health!)
+(The opposing Porygon2 lost 5.5% of its health!)
+
+The opposing Porygon2 fainted!
+The Pokémon was hit 3 times!
+
+MTN Bug won the battle!

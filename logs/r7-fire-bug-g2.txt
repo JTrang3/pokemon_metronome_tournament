@@ -1,0 +1,628 @@
+☆MTN Fire and ☆MTN Bug joined
+Format: [Gen 5] Triples Custom Game
+MTN Fire's team:
+Chandelure / Charizard / Magmortar / Camerupt / Ninetales / Magcargo
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+
+Battle started between MTN Fire and MTN Bug!
+
+Go! Magmortar!
+
+Go! Chandelure!
+
+Go! Charizard!
+
+MTN Bug sent out Yanmega!
+
+MTN Bug sent out Forretress!
+
+MTN Bug sent out Pinsir!
+
+Turn 1
+
+Charizard used Metronome!
+
+Waggling a finger let it use Refresh!
+But it failed!
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Zap Cannon!
+(Chandelure lost 40% of its health!)
+Chandelure is paralyzed! It may be unable to move!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Needle Arm!
+It's not very effective...
+(Magmortar lost 11.9% of its health!)
+
+Magmortar used Metronome!
+
+Waggling a finger let it use Mud Bomb!
+(The opposing Forretress lost 24.4% of its health!)
+
+Chandelure used Metronome!
+
+Waggling a finger let it use Dive!
+Chandelure hid underwater!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Blue Flare!
+Chandelure avoided the attack!
+
+Turn 2
+
+Charizard used Metronome!
+
+Waggling a finger let it use Stockpile!
+Charizard stockpiled 1!
+Charizard's Defense rose!
+Charizard's Sp. Def rose!
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Metal Sound!
+Chandelure avoided the attack!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Power Trick!
+The opposing Pinsir switched its Attack and Defense!
+
+Magmortar used Metronome!
+
+Waggling a finger let it use Bite!
+(The opposing Pinsir lost 20.8% of its health!)
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Sharpen!
+The opposing Forretress's Attack rose!
+
+Chandelure used Dive!
+(The opposing Pinsir lost 20% of its health!)
+
+Turn 3
+
+Charizard used Metronome!
+
+Waggling a finger let it use Hydro Cannon!
+(The opposing Yanmega lost 50.7% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Aerial Ace!
+(Chandelure lost 35% of its health!)
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Ice Ball!
+It's not very effective...
+(Magmortar lost 5.2% of its health!)
+
+Magmortar used Metronome!
+
+Waggling a finger let it use Miracle Eye!
+The opposing Pinsir was identified!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Slam!
+(Magmortar lost 34.1% of its health!)
+
+Chandelure used Metronome!
+
+Waggling a finger let it use Leech Life!
+(The opposing Pinsir lost 4.8% of its health!)
+The opposing Pinsir had its energy drained!
+
+Turn 4
+
+Charizard must recharge!
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Sandstorm!
+A sandstorm kicked up!
+
+The opposing Pinsir used Ice Ball!
+It's not very effective...
+(Magmortar lost 8.9% of its health!)
+[Magmortar's Flame Body]
+The opposing Pinsir was burned!
+
+Magmortar used Metronome!
+
+Waggling a finger let it use Shadow Force!
+Magmortar vanished instantly!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Whirlpool!
+It's super effective!
+(Charizard lost 14.5% of its health!)
+Charizard became trapped in the vortex!
+
+Chandelure is paralyzed! It can't move!
+
+(The sandstorm is raging.)
+Charizard is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+The opposing Pinsir is buffeted by the sandstorm!
+Magmortar is buffeted by the sandstorm!
+Chandelure is buffeted by the sandstorm!
+The opposing Pinsir was hurt by its burn!
+Charizard is hurt by Whirlpool!
+
+Turn 5
+
+Charizard used Metronome!
+
+Waggling a finger let it use Vital Throw!
+It's not very effective...
+(The opposing Yanmega lost 6.2% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Bone Club!
+It doesn't affect Charizard...
+
+The opposing Pinsir used Ice Ball!
+Magmortar avoided the attack!
+
+Magmortar used Shadow Force!
+It's not very effective...
+(The opposing Forretress lost 17.8% of its health!)
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Heavy Slam!
+It's not very effective...
+(Magmortar lost 13.3% of its health!)
+[Magmortar's Flame Body]
+The opposing Forretress was burned!
+
+Chandelure is paralyzed! It can't move!
+
+(The sandstorm is raging.)
+Charizard is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+The opposing Pinsir is buffeted by the sandstorm!
+Magmortar is buffeted by the sandstorm!
+Chandelure is buffeted by the sandstorm!
+The opposing Pinsir was hurt by its burn!
+The opposing Forretress was hurt by its burn!
+Charizard is hurt by Whirlpool!
+
+Turn 6
+
+Charizard used Metronome!
+
+Waggling a finger let it use Vacuum Wave!
+It's not very effective...
+(The opposing Yanmega lost 3.4% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Worry Seed!
+[Chandelure's Flash Fire]
+[Chandelure's Insomnia]
+Chandelure acquired Insomnia!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Sweet Kiss!
+Magmortar became confused!
+
+Magmortar is confused!
+Magmortar used Metronome!
+
+Waggling a finger let it use Rock Blast!
+The opposing Pinsir avoided the attack!
+
+The opposing Forretress used Metronome!
+
+Waggling a finger let it use Jump Kick!
+Magmortar avoided the attack!
+The opposing Forretress kept going and crashed!
+
+The opposing Forretress fainted!
+Chandelure used Metronome!
+
+Waggling a finger let it use Stored Power!
+(The opposing Yanmega lost 9.6% of its health!)
+
+(The sandstorm is raging.)
+Charizard is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+The opposing Pinsir is buffeted by the sandstorm!
+Magmortar is buffeted by the sandstorm!
+Chandelure is buffeted by the sandstorm!
+The opposing Pinsir was hurt by its burn!
+
+MTN Bug sent out Volcarona!
+
+Turn 7
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Drain Punch!
+It's not very effective...
+(Charizard lost 7.2% of its health!)
+
+Charizard used Metronome!
+
+Waggling a finger let it use Pound!
+(The opposing Volcarona lost 13.1% of its health!)
+
+The opposing Yanmega used Metronome!
+
+Waggling a finger let it use Comet Punch!
+A critical hit!
+(Charizard lost 11.6% of its health!)
+(Charizard lost 4.3% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Pinsir used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+(Magmortar lost 3.0% of its health!)
+(Magmortar lost 3.0% of its health!)
+(Magmortar lost 3.0% of its health!)
+
+Magmortar fainted!
+The Pokémon was hit 3 times!
+
+Chandelure is paralyzed! It can't move!
+
+(The sandstorm is raging.)
+The opposing Volcarona is buffeted by the sandstorm!
+Charizard is buffeted by the sandstorm!
+The opposing Yanmega is buffeted by the sandstorm!
+The opposing Pinsir is buffeted by the sandstorm!
+Chandelure is buffeted by the sandstorm!
+
+The opposing Pinsir fainted!
+
+MTN Bug sent out Armaldo!
+
+Go! Ninetales!
+[Ninetales's Drought]
+The sunlight turned harsh!
+
+Turn 8
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Magical Leaf!
+It's not very effective...
+(The opposing Volcarona lost 3.4% of its health!)
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Water Pledge!
+It's super effective!
+(Ninetales lost 19.5% of its health!)
+
+Charizard used Metronome!
+
+Waggling a finger let it use X-Scissor!
+It's not very effective...
+A critical hit!
+(The opposing Yanmega lost 5.5% of its health!)
+
+The opposing Yanmega fainted!
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Sand Tomb!
+Chandelure avoided the attack!
+
+Chandelure is paralyzed! It can't move!
+
+(The sunlight is strong.)
+
+MTN Bug sent out Ariados!
+
+Turn 9
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Twister!
+(The opposing Volcarona lost 8.3% of its health!)
+(The opposing Armaldo lost 8.1% of its health!)
+
+Charizard used Metronome!
+
+Waggling a finger let it use Amnesia!
+Charizard's Sp. Def rose sharply!
+
+The opposing Volcarona flinched and couldn't move!
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Mud Sport!
+Electricity's power was weakened!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Shadow Claw!
+(Ninetales lost 25.6% of its health!)
+
+Chandelure used Metronome!
+
+Waggling a finger let it use Stomp!
+(The opposing Volcarona lost 15.9% of its health!)
+
+(The sunlight is strong.)
+
+Turn 10
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Power Split!
+Ninetales shared its power with the target!
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Barrage!
+(Ninetales lost 6.0% of its health!)
+(Ninetales lost 4.5% of its health!)
+The Pokémon was hit 2 times!
+
+Charizard used Metronome!
+
+Waggling a finger let it use Sunny Day!
+But it failed!
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Dizzy Punch!
+(Charizard lost 15.9% of its health!)
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Focus Blast!
+It doesn't affect Chandelure...
+
+Chandelure used Metronome!
+
+Waggling a finger let it use Glaciate!
+It's not very effective on the opposing Volcarona.
+(The opposing Ariados lost 16.4% of its health!)
+(The opposing Volcarona lost 8.3% of its health!)
+(The opposing Armaldo lost 19.3% of its health!)
+The opposing Ariados's Speed fell!
+The opposing Volcarona's Speed fell!
+The opposing Armaldo's Speed fell!
+
+(The sunlight is strong.)
+
+Turn 11
+
+Charizard used Metronome!
+
+Waggling a finger let it use Night Shade!
+(The opposing Ariados lost 31.4% of its health!)
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Iron Defense!
+Ninetales's Defense rose sharply!
+
+The opposing Volcarona used Metronome!
+
+Waggling a finger let it use Mist!
+The opposing team became shrouded in mist!
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Megahorn!
+It's not very effective...
+(Chandelure lost 4.2% of its health!)
+
+Chandelure fainted!
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Aura Sphere!
+It's not very effective...
+(Charizard lost 5.1% of its health!)
+
+(The sunlight is strong.)
+
+Go! Camerupt!
+
+Turn 12
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Guard Split!
+Ninetales shared its guard with the target!
+
+Charizard used Metronome!
+
+Waggling a finger let it use Flamethrower!
+(The opposing Volcarona lost 44.8% of its health!)
+
+The opposing Volcarona fainted!
+Camerupt used Metronome!
+
+Waggling a finger let it use Tail Glow!
+Camerupt's Sp. Atk rose drastically!
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Aurora Beam!
+(Charizard lost 6.5% of its health!)
+
+Charizard fainted!
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Ember!
+It's not very effective...
+(Ninetales lost 9.0% of its health!)
+
+(The sunlight is strong.)
+
+Go! Magcargo!
+
+Turn 13
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Discharge!
+It doesn't affect Camerupt...
+(The opposing Armaldo lost 5.2% of its health!)
+
+Magcargo used Metronome!
+
+Waggling a finger let it use Soak!
+The opposing Ariados's type changed to Water!
+
+Camerupt used Metronome!
+
+Waggling a finger let it use Haze!
+All stat changes were eliminated!
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Fury Swipes!
+It's not very effective...
+(Magcargo lost 2.2% of its health!)
+It's not very effective...
+(Magcargo lost 2.2% of its health!)
+It's not very effective...
+(Magcargo lost 2.2% of its health!)
+The Pokémon was hit 3 times!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Skull Bash!
+The opposing Armaldo tucked in its head!
+The opposing Armaldo's Defense rose!
+
+(The sunlight is strong.)
+
+Turn 14
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Aqua Tail!
+It's super effective!
+(The opposing Armaldo lost 20.7% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Heal Pulse!
+Ninetales had its HP restored.
+
+Magcargo used Metronome!
+
+Waggling a finger let it use Meteor Mash!
+The opposing Ariados avoided the attack!
+
+The opposing Armaldo used Skull Bash!
+(Camerupt lost 33.1% of its health!)
+
+Camerupt used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[The opposing Armaldo's Battle Armor]
+[The opposing Armaldo's Simple]
+The opposing Armaldo acquired Simple!
+
+(The sunlight is strong.)
+
+Turn 15
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Seed Bomb!
+(The opposing Armaldo lost 17.8% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Thunder Shock!
+(Magcargo lost 4.4% of its health!)
+Magcargo is paralyzed! It may be unable to move!
+
+Magcargo used Metronome!
+
+Waggling a finger let it use Fire Punch!
+It's not very effective...
+A critical hit!
+(The opposing Ariados lost 49.1% of its health!)
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Conversion 2!
+The opposing Armaldo's type changed to Steel!
+
+Camerupt used Metronome!
+
+Waggling a finger let it use Withdraw!
+Camerupt's Defense rose!
+
+(The sunlight is strong.)
+The opposing team is no longer protected by mist!
+
+Turn 16
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Hyper Fang!
+It's not very effective...
+A critical hit!
+(The opposing Armaldo lost 25.9% of its health!)
+
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Close Combat!
+(Camerupt lost 30% of its health!)
+The opposing Ariados's Defense fell!
+The opposing Ariados's Sp. Def fell!
+
+The opposing Armaldo used Metronome!
+
+Waggling a finger let it use Payback!
+(Camerupt lost 10.8% of its health!)
+
+Camerupt used Metronome!
+
+Waggling a finger let it use Milk Drink!
+Camerupt had its HP restored.
+
+Magcargo used Metronome!
+
+Waggling a finger let it use Metal Burst!
+But it failed!
+
+(The sunlight is strong.)
+
+Turn 17
+
+Ninetales used Metronome!
+
+Waggling a finger let it use Frost Breath!
+It's not very effective...
+A critical hit!
+(The opposing Armaldo lost 3.0% of its health!)
+
+The opposing Armaldo fainted!
+The opposing Ariados used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[Magcargo's Magma Armor]
+[Magcargo's Simple]
+Magcargo acquired Simple!
+
+Camerupt used Metronome!
+
+Waggling a finger let it use Crunch!
+(The opposing Ariados lost 3.1% of its health!)
+
+The opposing Ariados fainted!
+
+MTN Fire won the battle!

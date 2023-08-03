@@ -1,0 +1,469 @@
+☆MTN Bug and ☆MTN Poison joined
+Format: [Gen 5] Triples Custom Game
+MTN Bug's team:
+Volcarona / Armaldo / Pinsir / Yanmega / Forretress / Ariados
+MTN Poison's team:
+Drapion / Nidoking / Roserade / Crobat / Toxicroak / Scolipede
+
+Battle started between MTN Bug and MTN Poison!
+
+Go! Volcarona!
+
+Go! Forretress!
+
+Go! Ariados!
+
+MTN Poison sent out Crobat!
+
+MTN Poison sent out Roserade!
+
+MTN Poison sent out Scolipede!
+
+Turn 1
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Spike Cannon!
+It's not very effective...
+(Forretress lost 3.0% of its health!)
+It's not very effective...
+(Forretress lost 3.0% of its health!)
+The Pokémon was hit 2 times!
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Acid!
+It doesn't affect Forretress...
+It's not very effective on Ariados.
+(Ariados lost 5.7% of its health!)
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Brick Break!
+It's not very effective...
+(The opposing Scolipede lost 4.1% of its health!)
+
+The opposing Roserade used Metronome!
+
+Waggling a finger let it use Icy Wind!
+It's not very effective on Volcarona.
+It's not very effective on Forretress.
+A critical hit on Ariados!
+(Volcarona lost 6.2% of its health!)
+(Forretress lost 8.1% of its health!)
+(Ariados lost 21.4% of its health!)
+Volcarona's Speed fell!
+Forretress's Speed fell!
+Ariados's Speed fell!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Telekinesis!
+The opposing Crobat was hurled into the air!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Sky Uppercut!
+It's not very effective...
+(The opposing Crobat lost 4.1% of its health!)
+
+Turn 2
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Wish!
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Gastro Acid!
+Ariados's Ability was suppressed!
+
+The opposing Roserade used Metronome!
+
+Waggling a finger let it use Night Slash!
+(Volcarona lost 20.7% of its health!)
+[Volcarona's Flame Body]
+The opposing Roserade was burned!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Horn Drill!
+(The opposing Roserade lost 100% of its health!)
+
+The opposing Roserade fainted!
+It's a one-hit KO!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Psybeam!
+It's super effective!
+(The opposing Crobat lost 60.7% of its health!)
+
+Forretress used Metronome!
+
+Waggling a finger let it use Hyper Voice!
+(The opposing Crobat lost 20.7% of its health!)
+(The opposing Scolipede lost 13.5% of its health!)
+
+MTN Poison sent out Drapion!
+
+Turn 3
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Foul Play!
+(Volcarona lost 29.7% of its health!)
+
+The opposing Crobat used Metronome!
+
+Waggling a finger let it use Electro Ball!
+(Forretress lost 45.2% of its health!)
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Psycho Shift!
+But it failed!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use X-Scissor!
+(The opposing Drapion lost 35.4% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Metal Sound!
+The opposing Drapion avoided the attack!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Thrash!
+(The opposing Crobat lost 14.5% of its health!)
+
+The opposing Crobat fainted!
+
+Scolipede's wish came true!
+
+MTN Poison sent out Toxicroak!
+
+Turn 4
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Charge!
+The opposing Scolipede's Sp. Def rose!
+The opposing Scolipede began charging power!
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Retaliate!
+It's not very effective...
+(Forretress lost 14.1% of its health!)
+
+The opposing Toxicroak used Metronome!
+
+Waggling a finger let it use Mist Ball!
+It's not very effective...
+(Forretress lost 9.6% of its health!)
+Forretress's Sp. Atk fell!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Gravity!
+Gravity intensified!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Sheer Cold!
+(The opposing Toxicroak lost 100% of its health!)
+
+The opposing Toxicroak fainted!
+It's a one-hit KO!
+
+Forretress used Thrash!
+(The opposing Drapion lost 34.6% of its health!)
+
+MTN Poison sent out Nidoking!
+
+Turn 5
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Mud Shot!
+(Volcarona lost 17.9% of its health!)
+Volcarona's Speed fell!
+
+The opposing Drapion used Metronome!
+
+Waggling a finger let it use Odor Sleuth!
+Volcarona was identified!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Hypnosis!
+Ariados fell asleep!
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Focus Blast!
+(The opposing Drapion lost 30% of its health!)
+
+The opposing Drapion fainted!
+Ariados is fast asleep.
+
+Forretress used Thrash!
+(The opposing Scolipede lost 27.0% of its health!)
+Forretress became confused due to fatigue!
+
+Turn 6
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Morning Sun!
+The opposing Scolipede had its HP restored.
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Drain Punch!
+It's not very effective...
+(Ariados lost 4.4% of its health!)
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Confusion!
+It's super effective!
+(The opposing Scolipede lost 21.6% of its health!)
+
+Ariados is fast asleep.
+
+Forretress is confused!
+It hurt itself in its confusion!
+
+Turn 7
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Flame Charge!
+(Volcarona lost 18.6% of its health!)
+The opposing Scolipede's Speed rose!
+[Volcarona's Flame Body]
+The opposing Scolipede was burned!
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Venoshock!
+It's not very effective...
+A critical hit!
+(Ariados lost 21.4% of its health!)
+
+Volcarona used Metronome!
+
+Waggling a finger let it use Giga Drain!
+It's not very effective...
+(The opposing Scolipede lost 3.4% of its health!)
+The opposing Scolipede had its energy drained!
+
+Ariados is fast asleep.
+Forretress snapped out of its confusion!
+
+Forretress used Metronome!
+
+Waggling a finger let it use Cosmic Power!
+Forretress's Defense rose!
+Forretress's Sp. Def rose!
+
+The opposing Scolipede was hurt by its burn!
+
+Turn 8
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Vacuum Wave!
+It's not very effective...
+(Volcarona lost 6.2% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Fire Pledge!
+It's super effective!
+(Forretress lost 7.4% of its health!)
+
+Forretress fainted!
+Volcarona used Metronome!
+
+Waggling a finger let it use Vine Whip!
+It's not very effective...
+(The opposing Scolipede lost 2.0% of its health!)
+Ariados woke up!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Zen Headbutt!
+It's super effective!
+(The opposing Nidoking lost 59.6% of its health!)
+
+The opposing Scolipede was hurt by its burn!
+Gravity returned to normal!
+
+Go! Armaldo!
+
+Turn 9
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Magnitude!
+Magnitude 6!
+(Volcarona lost 2.8% of its health!)
+(Armaldo lost 6.7% of its health!)
+
+Volcarona fainted!
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Smelling Salts!
+It's not very effective...
+(Armaldo lost 7.4% of its health!)
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Poison Tail!
+It's not very effective...
+(The opposing Nidoking lost 4.3% of its health!)
+
+Ariados used Metronome!
+
+Waggling a finger let it use Blaze Kick!
+(The opposing Nidoking lost 31.9% of its health!)
+
+The opposing Scolipede was hurt by its burn!
+
+Go! Yanmega!
+
+Turn 10
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Pin Missile!
+It's not very effective...
+(Yanmega lost 2.1% of its health!)
+It's not very effective...
+(Yanmega lost 2.1% of its health!)
+The Pokémon was hit 2 times!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Razor Leaf!
+It's not very effective...
+(The opposing Scolipede lost 6.8% of its health!)
+
+The opposing Nidoking used Metronome!
+
+Waggling a finger let it use Hail!
+It started to hail!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Shell Smash!
+Armaldo's Defense fell!
+Armaldo's Sp. Def fell!
+Armaldo's Attack rose sharply!
+Armaldo's Sp. Atk rose sharply!
+Armaldo's Speed rose sharply!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Grass Whistle!
+The opposing Nidoking avoided the attack!
+
+(The hail is crashing down.)
+The opposing Scolipede is buffeted by the hail!
+Armaldo is buffeted by the hail!
+Yanmega is buffeted by the hail!
+The opposing Nidoking is buffeted by the hail!
+Ariados is buffeted by the hail!
+
+The opposing Nidoking fainted!
+The opposing Scolipede was hurt by its burn!
+
+Turn 11
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Withdraw!
+The opposing Scolipede's Defense rose!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Pain Split!
+The battlers shared their pain!
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Gunk Shot!
+The opposing Scolipede avoided the attack!
+
+Ariados used Metronome!
+
+Waggling a finger let it use Bide!
+Ariados is storing energy!
+
+(The hail is crashing down.)
+The opposing Scolipede is buffeted by the hail!
+Armaldo is buffeted by the hail!
+Yanmega is buffeted by the hail!
+Ariados is buffeted by the hail!
+The opposing Scolipede was hurt by its burn!
+
+Turn 12
+
+Ariados is storing energy!
+
+The opposing Scolipede used Metronome!
+
+Waggling a finger let it use Rock Wrecker!
+It's super effective!
+(Armaldo lost 71.9% of its health!)
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Natural Gift!
+It's not very effective...
+(The opposing Scolipede lost 4.1% of its health!)
+
+Armaldo used Metronome!
+
+Waggling a finger let it use Simple Beam!
+[The opposing Scolipede's Quick Feet]
+[The opposing Scolipede's Simple]
+The opposing Scolipede acquired Simple!
+
+(The hail is crashing down.)
+The opposing Scolipede is buffeted by the hail!
+Armaldo is buffeted by the hail!
+Yanmega is buffeted by the hail!
+Ariados is buffeted by the hail!
+
+Armaldo fainted!
+The opposing Scolipede was hurt by its burn!
+
+Go! Pinsir!
+
+Turn 13
+
+Ariados unleashed its energy!
+But it failed!
+
+The opposing Scolipede must recharge!
+
+Yanmega used Metronome!
+
+Waggling a finger let it use Mud Sport!
+Electricity's power was weakened!
+
+Pinsir used Metronome!
+
+Waggling a finger let it use Gust!
+It's super effective!
+(The opposing Scolipede lost 9.5% of its health!)
+
+The opposing Scolipede fainted!
+
+MTN Bug won the battle!
