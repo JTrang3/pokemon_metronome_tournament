@@ -3,6 +3,7 @@ import openpyxl
 from bs4 import BeautifulSoup
 import tkinter as tk
 from tkinter import filedialog
+import time
 
 # Select replay(s) to extract data from
 def select_replays():
@@ -595,7 +596,7 @@ def transfer_team_data(dict, xl_file, sheetname):
 def main():
     logs = []
     user_replays = select_replays()
-
+    start_time = time.time()
     for replay in user_replays:
         replay_log = convert_html_to_text(replay)
         logs.append(replay_log)
@@ -618,7 +619,8 @@ def main():
         connect_move_with_stats("pokemon_data_gen5.xlsx", "Move_Data", "tournament_statistics.xlsx", "Metronome_Data")
         transfer_match_data(scoreboard, "tournament_statistics.xlsx", "Match_Data", "pokemon_data_gen5.xlsx", "Pokemon_Data")
         transfer_team_data(team_record, "tournament_statistics.xlsx", "Team_Data")
-    
+    end_time = time.time()
+    print(f"Time to fill data: {end_time - start_time} seconds")
     # TEST: Count each move used & total moves used in a battle
     # for move, count in moves.items():
     #     print(f"{move}: {count}")
